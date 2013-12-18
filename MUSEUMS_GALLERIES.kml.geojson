@@ -1,0 +1,181 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9800396449249,
+                    43.2262309754106,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fieldcote Memorial Park And Museum",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fieldcote Memorial Park And Museum</td>\n</tr></table></center>",
+                "NAME": "Fieldcote Memorial Park And Museum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9252001192526,
+                    43.1594517892311,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Canadian Warplane Heritage Museum",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Canadian Warplane Heritage Museum</td>\n</tr></table></center>",
+                "NAME": "Canadian Warplane Heritage Museum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8841848581805,
+                    43.2694704663122,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dundurn Castle",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Dundurn Castle</td>\n</tr></table></center>",
+                "NAME": "Dundurn Castle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8847110510991,
+                    43.2681814437121,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hamilton Military Museum",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Hamilton Military Museum</td>\n</tr></table></center>",
+                "NAME": "Hamilton Military Museum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8724073681143,
+                    43.2572413241577,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Art Gallery Of Hamilton",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Art Gallery Of Hamilton</td>\n</tr></table></center>",
+                "NAME": "Art Gallery Of Hamilton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8721997412305,
+                    43.2552089065866,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Canadian Football Hall Of Fame",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Canadian Football Hall Of Fame</td>\n</tr></table></center>",
+                "NAME": "Canadian Football Hall Of Fame"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8720171069155,
+                    43.2545846829598,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Whitehern Historic House And Garden",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Whitehern Historic House And Garden</td>\n</tr></table></center>",
+                "NAME": "Whitehern Historic House And Garden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8257509994645,
+                    43.2435277798736,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hamilton Children's Museum",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Hamilton Children's Museum</td>\n</tr></table></center>",
+                "NAME": "Hamilton Children's Museum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7719966687083,
+                    43.2565160905521,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hamilton Museum Of Steam And Technology",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Hamilton Museum Of Steam And Technology</td>\n</tr></table></center>",
+                "NAME": "Hamilton Museum Of Steam And Technology"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7660966005131,
+                    43.2176066550139,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Battlefield House Museum",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Battlefield House Museum</td>\n</tr></table></center>",
+                "NAME": "Battlefield House Museum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7222769892356,
+                    43.2067870270229,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Erland Lee Museum Home",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>The Erland Lee Museum Home</td>\n</tr></table></center>",
+                "NAME": "The Erland Lee Museum Home"
+            }
+        }
+    ]
+}

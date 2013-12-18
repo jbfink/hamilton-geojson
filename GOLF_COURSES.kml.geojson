@@ -1,0 +1,389 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0097748012162,
+                    43.1727386748377,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Knollwood Golf Course",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Knollwood Golf Course</td>\n</tr></table></center>",
+                "NAME": "Knollwood Golf Course"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9077239546623,
+                    43.2464144693039,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chedoke Golf Club",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Chedoke Golf Club</td>\n</tr></table></center>",
+                "NAME": "Chedoke Golf Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9635123876329,
+                    43.4125253998162,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Carlisle Golf And Country Club",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Carlisle Golf And Country Club</td>\n</tr></table></center>",
+                "NAME": "Carlisle Golf And Country Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7674287583448,
+                    43.1879401587143,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Satellite Golf Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Satellite Golf Centre</td>\n</tr></table></center>",
+                "NAME": "Satellite Golf Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9741975091795,
+                    43.2159764756189,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hamilton Golf & Country Club",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Hamilton Golf & Country Club</td>\n</tr></table></center>",
+                "NAME": "Hamilton Golf & Country Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8106027534569,
+                    43.093154798356,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Southbrook Golf And Country Club",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Southbrook Golf And Country Club</td>\n</tr></table></center>",
+                "NAME": "Southbrook Golf And Country Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9125326466092,
+                    43.1504111621493,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Southern Pines Golf And Country Club",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Southern Pines Golf And Country Club</td>\n</tr></table></center>",
+                "NAME": "Southern Pines Golf And Country Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9303374733617,
+                    43.1926170858601,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Glancaster Golf And Country Club",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Glancaster Golf And Country Club</td>\n</tr></table></center>",
+                "NAME": "Glancaster Golf And Country Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7329520370282,
+                    43.1350505559877,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Scenic Woods Golf And Country Club",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Scenic Woods Golf And Country Club</td>\n</tr></table></center>",
+                "NAME": "Scenic Woods Golf And Country Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8116383220362,
+                    43.2153417597991,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "King's Forest Golf Course",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>King's Forest Golf Course</td>\n</tr></table></center>",
+                "NAME": "King's Forest Golf Course"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0674672357655,
+                    43.2953325033755,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Century Pines Golf Course",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Century Pines Golf Course</td>\n</tr></table></center>",
+                "NAME": "Century Pines Golf Course"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9507956039577,
+                    43.133141003423,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chippewa Creeek Golf And Country Club",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Chippewa Creeek Golf And Country Club</td>\n</tr></table></center>",
+                "NAME": "Chippewa Creeek Golf And Country Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.093195896157,
+                    43.1881205395796,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Heron Point Golf Links",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Heron Point Golf Links</td>\n</tr></table></center>",
+                "NAME": "Heron Point Golf Links"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0111864081786,
+                    43.3589674560833,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pineland Greens Golf",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Pineland Greens Golf</td>\n</tr></table></center>",
+                "NAME": "Pineland Greens Golf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9374141377254,
+                    43.307996547394,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rock Chapel Golf Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Rock Chapel Golf Centre</td>\n</tr></table></center>",
+                "NAME": "Rock Chapel Golf Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0462811900049,
+                    43.2692890341841,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beverly Golf And Country Club",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Beverly Golf And Country Club</td>\n</tr></table></center>",
+                "NAME": "Beverly Golf And Country Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8003331840677,
+                    43.207246555254,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Glendale Golf And Country Club",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Glendale Golf And Country Club</td>\n</tr></table></center>",
+                "NAME": "Glendale Golf And Country Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7637682096451,
+                    43.197217506597,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pros Golf Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Pros Golf Centre</td>\n</tr></table></center>",
+                "NAME": "Pros Golf Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6658218263864,
+                    43.2106858745281,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Winona Pitch And Putt",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Winona Pitch And Putt</td>\n</tr></table></center>",
+                "NAME": "Winona Pitch And Putt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0302114308535,
+                    43.2000384536821,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oak Gables Golf Club And Driving Range",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Oak Gables Golf Club And Driving Range</td>\n</tr></table></center>",
+                "NAME": "Oak Gables Golf Club And Driving Range"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9019548289603,
+                    43.1635402423907,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Willow Valley Golf Course",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Willow Valley Golf Course</td>\n</tr></table></center>",
+                "NAME": "Willow Valley Golf Course"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9663077887368,
+                    43.1602057212802,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fiddler's Green Driving Range",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fiddler's Green Driving Range</td>\n</tr></table></center>",
+                "NAME": "Fiddler's Green Driving Range"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0660790447359,
+                    43.2491387246776,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Flamborough Hills Golf Club",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Flamborough Hills Golf Club</td>\n</tr></table></center>",
+                "NAME": "Flamborough Hills Golf Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9783893128974,
+                    43.2669818413223,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dundas Valley Golf And Curling Club",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Dundas Valley Golf And Curling Club</td>\n</tr></table></center>",
+                "NAME": "Dundas Valley Golf And Curling Club"
+            }
+        }
+    ]
+}

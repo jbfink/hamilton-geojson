@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1396298791635,
+                    43.383616464523,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Valens Conservation Beach",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Valens Conservation Beach</td>\n</tr><tr bgcolor=\"\">\n<th>WATER_SOURCE</th>\n<td>Conservation Area</td>\n</tr></table></center>",
+                "NAME": "Valens Conservation Beach",
+                "WATER_SOURCE": "Conservation Area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0233384485772,
+                    43.2806886364289,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Christie Conservation Beach",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Christie Conservation Beach</td>\n</tr><tr bgcolor=\"\">\n<th>WATER_SOURCE</th>\n<td>Conservation Area</td>\n</tr></table></center>",
+                "NAME": "Christie Conservation Beach",
+                "WATER_SOURCE": "Conservation Area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8330901990352,
+                    43.1016328665156,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Binbrook Conservation Beach",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Binbrook Conservation Beach</td>\n</tr><tr bgcolor=\"\">\n<th>WATER_SOURCE</th>\n<td>Conservation Area</td>\n</tr></table></center>",
+                "NAME": "Binbrook Conservation Beach",
+                "WATER_SOURCE": "Conservation Area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8744236434319,
+                    43.2715625425015,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bayfront",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Bayfront</td>\n</tr><tr bgcolor=\"\">\n<th>WATER_SOURCE</th>\n<td>Hamilton Harbour</td>\n</tr></table></center>",
+                "NAME": "Bayfront",
+                "WATER_SOURCE": "Hamilton Harbour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8675059295993,
+                    43.2736627591466,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pier 4",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Pier 4</td>\n</tr><tr bgcolor=\"\">\n<th>WATER_SOURCE</th>\n<td>Hamilton Harbour</td>\n</tr></table></center>",
+                "NAME": "Pier 4",
+                "WATER_SOURCE": "Hamilton Harbour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7833748783208,
+                    43.2809154683477,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beach Boulevard",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Beach Boulevard</td>\n</tr><tr bgcolor=\"\">\n<th>WATER_SOURCE</th>\n<td>Lake Ontario</td>\n</tr></table></center>",
+                "NAME": "Beach Boulevard",
+                "WATER_SOURCE": "Lake Ontario"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7675575611818,
+                    43.2617555618005,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Van Wagner's Beach",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Van Wagner's Beach</td>\n</tr><tr bgcolor=\"\">\n<th>WATER_SOURCE</th>\n<td>Lake Ontario</td>\n</tr></table></center>",
+                "NAME": "Van Wagner's Beach",
+                "WATER_SOURCE": "Lake Ontario"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7564892515229,
+                    43.2518754222787,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Confederation Park Beach",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Confederation Park Beach</td>\n</tr><tr bgcolor=\"\">\n<th>WATER_SOURCE</th>\n<td>Lake Ontario</td>\n</tr></table></center>",
+                "NAME": "Confederation Park Beach",
+                "WATER_SOURCE": "Lake Ontario"
+            }
+        }
+    ]
+}

@@ -1,0 +1,2180 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6650331671742,
+                    43.2011268358336,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lewis Rd. East Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Lewis Rd. East Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Stoney Creek</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Stoney Creek-Winona</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Stoney Creek-Winona</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>8</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>8</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>5</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>private</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>McNeilly Rd.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>McNeilly Rd.</td>\n</tr></table></center>",
+                "NAME": "Lewis Rd. East Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Stoney Creek",
+                "TYPE": "Cascade",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Stoney Creek-Winona",
+                "NGHBRHD": "Stoney Creek-Winona",
+                "HEIGHT_IN_M": "8",
+                "HGHT_IN_M": "8",
+                "WIDTH_IN_M": "5",
+                "OWNERSHIP": "private",
+                "ACCESS_FROM": "McNeilly Rd.",
+                "ACCESS_PNT": "McNeilly Rd."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9655785321566,
+                    43.2395466599218,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Little Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Little Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Ancaster</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Tiffany-Coldwater</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Tiffany-Coldwater</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>7</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>7</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Wilson St. E.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Wilson St. E.</td>\n</tr></table></center>",
+                "NAME": "Little Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Ancaster",
+                "TYPE": "Cascade",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Tiffany-Coldwater",
+                "NGHBRHD": "Tiffany-Coldwater",
+                "HEIGHT_IN_M": "7",
+                "HGHT_IN_M": "7",
+                "WIDTH_IN_M": "3",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Wilson St. E.",
+                "ACCESS_PNT": "Wilson St. E."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9348050608793,
+                    43.2441807460928,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Scenic Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Scenic Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Chedoke-Scenic</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Chedoke-Scenic</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>20</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>20</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>6</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Scenic Dr. / Chedoke Radial Trail Head</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Scenic Dr. / Chedoke Radial Trail Head</td>\n</tr></table></center>",
+                "NAME": "Scenic Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Cascade",
+                "RANKING": "A",
+                "CLUSTER_AREA": "Chedoke-Scenic",
+                "NGHBRHD": "Chedoke-Scenic",
+                "HEIGHT_IN_M": "20",
+                "HGHT_IN_M": "20",
+                "WIDTH_IN_M": "6",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Scenic Dr. / Chedoke Radial Trail Head",
+                "ACCESS_PNT": "Scenic Dr. / Chedoke Radial Trail Head"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9299212640026,
+                    43.2459360829282,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lower Princess Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Lower Princess Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Lower Lang's Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Lower Lang's Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Chedoke-Scenic</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Chedoke-Scenic</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>39.5</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>39.5</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Hwy 403</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Hwy 403</td>\n</tr></table></center>",
+                "NAME": "Lower Princess Falls",
+                "ALTERNATE_NAME": "Lower Lang's Falls",
+                "ALT_NAME": "Lower Lang's Falls",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Cascade",
+                "RANKING": "A",
+                "CLUSTER_AREA": "Chedoke-Scenic",
+                "NGHBRHD": "Chedoke-Scenic",
+                "HEIGHT_IN_M": "39.5",
+                "HGHT_IN_M": "39.5",
+                "WIDTH_IN_M": "3",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Hwy 403",
+                "ACCESS_PNT": "Hwy 403"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9147017365448,
+                    43.2449462570971,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Upper Sanatorium Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Upper Sanatorium Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Ravine Mountain Sanatorium, Sanatorium Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Ravine Mountain Sanatorium, Sanatorium Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Chedoke-Mountview</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Chedoke-Mountview</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>9</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>9</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Sanatorium Rd. / Chedoke Civic Golf Course</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Sanatorium Rd. / Chedoke Civic Golf Course</td>\n</tr></table></center>",
+                "NAME": "Upper Sanatorium Falls",
+                "ALTERNATE_NAME": "Ravine Mountain Sanatorium, Sanatorium Falls",
+                "ALT_NAME": "Ravine Mountain Sanatorium, Sanatorium Falls",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Cascade",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Chedoke-Mountview",
+                "NGHBRHD": "Chedoke-Mountview",
+                "HEIGHT_IN_M": "9",
+                "HGHT_IN_M": "9",
+                "WIDTH_IN_M": "3",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Sanatorium Rd. / Chedoke Civic Golf Course",
+                "ACCESS_PNT": "Sanatorium Rd. / Chedoke Civic Golf Course"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9149542997996,
+                    43.2459841823167,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lower Sanatorium Cascade",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Lower Sanatorium Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Lower Sanatorium Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Lower Sanatorium Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Chedoke-Mountview</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Chedoke-Mountview</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>4</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>4</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Beddoe Dr. / Chedoke Civic Golf Course</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Beddoe Dr. / Chedoke Civic Golf Course</td>\n</tr></table></center>",
+                "NAME": "Lower Sanatorium Cascade",
+                "ALTERNATE_NAME": "Lower Sanatorium Falls",
+                "ALT_NAME": "Lower Sanatorium Falls",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Cascade",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Chedoke-Mountview",
+                "NGHBRHD": "Chedoke-Mountview",
+                "HEIGHT_IN_M": "4",
+                "HGHT_IN_M": "4",
+                "WIDTH_IN_M": "3",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Beddoe Dr. / Chedoke Civic Golf Course",
+                "ACCESS_PNT": "Beddoe Dr. / Chedoke Civic Golf Course"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9214420691539,
+                    43.2454962605811,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mountview Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Mountview Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Goulding Falls, Water Fall on the Mountain, Easterly Falls on Chedoke Radial Trail</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Goulding Falls, Water Fall on the Mountain, Easterly Falls on Chedoke Radial Trail</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Chedoke-Mountview</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Chedoke-Mountview</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>10</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>10</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>6</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Scenic Dr. / Chedoke Radial Trail Land</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Scenic Dr. / Chedoke Radial Trail Land</td>\n</tr></table></center>",
+                "NAME": "Mountview Falls",
+                "ALTERNATE_NAME": "Goulding Falls, Water Fall on the Mountain, Easterly Falls on Chedoke Radial Trail",
+                "ALT_NAME": "Goulding Falls, Water Fall on the Mountain, Easterly Falls on Chedoke Radial Trail",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Cascade",
+                "RANKING": "B",
+                "CLUSTER_AREA": "Chedoke-Mountview",
+                "NGHBRHD": "Chedoke-Mountview",
+                "HEIGHT_IN_M": "10",
+                "HGHT_IN_M": "10",
+                "WIDTH_IN_M": "6",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Scenic Dr. / Chedoke Radial Trail Land",
+                "ACCESS_PNT": "Scenic Dr. / Chedoke Radial Trail Land"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9084188428607,
+                    43.2456878806115,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lower Westcliffe Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Lower Westcliffe Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>West Double Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>West Double Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>West Chedoke</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>West Chedoke</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>9</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>9</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>6</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Beddoe Dr. / Chedoke Civic Golf Course</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Beddoe Dr. / Chedoke Civic Golf Course</td>\n</tr></table></center>",
+                "NAME": "Lower Westcliffe Falls",
+                "ALTERNATE_NAME": "West Double Falls",
+                "ALT_NAME": "West Double Falls",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Cascade",
+                "RANKING": "B",
+                "CLUSTER_AREA": "West Chedoke",
+                "NGHBRHD": "West Chedoke",
+                "HEIGHT_IN_M": "9",
+                "HGHT_IN_M": "9",
+                "WIDTH_IN_M": "6",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Beddoe Dr. / Chedoke Civic Golf Course",
+                "ACCESS_PNT": "Beddoe Dr. / Chedoke Civic Golf Course"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9083575862573,
+                    43.2456692868151,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lower Cliffview Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Lower Cliffview Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>East Double Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>East Double Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>West Chedoke</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>West Chedoke</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>4</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>4</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Beddoe Dr. / Chedoke Civic Golf Course</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Beddoe Dr. / Chedoke Civic Golf Course</td>\n</tr></table></center>",
+                "NAME": "Lower Cliffview Falls",
+                "ALTERNATE_NAME": "East Double Falls",
+                "ALT_NAME": "East Double Falls",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Cascade",
+                "RANKING": "B",
+                "CLUSTER_AREA": "West Chedoke",
+                "NGHBRHD": "West Chedoke",
+                "HEIGHT_IN_M": "4",
+                "HGHT_IN_M": "4",
+                "WIDTH_IN_M": "3",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Beddoe Dr. / Chedoke Civic Golf Course",
+                "ACCESS_PNT": "Beddoe Dr. / Chedoke Civic Golf Course"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9085225121887,
+                    43.2454007227028,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Westcliffe Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Westcliffe Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>West Chedoke</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>West Chedoke</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>15</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>15</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>2</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Beddoe Dr. / Chedoke Civic Golf Course</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Beddoe Dr. / Chedoke Civic Golf Course</td>\n</tr></table></center>",
+                "NAME": "Westcliffe Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Cascade",
+                "RANKING": "A",
+                "CLUSTER_AREA": "West Chedoke",
+                "NGHBRHD": "West Chedoke",
+                "HEIGHT_IN_M": "15",
+                "HGHT_IN_M": "15",
+                "WIDTH_IN_M": "2",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Beddoe Dr. / Chedoke Civic Golf Course",
+                "ACCESS_PNT": "Beddoe Dr. / Chedoke Civic Golf Course"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9078531075768,
+                    43.2442597534298,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cliffview Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Cliffview Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>West Chedoke</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>West Chedoke</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>15</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>15</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Beddoe Dr. / Chedoke Civic Golf Course / Scenic Dr. / Cliffview Park</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Beddoe Dr. / Chedoke Civic Golf Course / Scenic Dr. / Cliffview Park</td>\n</tr></table></center>",
+                "NAME": "Cliffview Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Cascade",
+                "RANKING": "A",
+                "CLUSTER_AREA": "West Chedoke",
+                "NGHBRHD": "West Chedoke",
+                "HEIGHT_IN_M": "15",
+                "HGHT_IN_M": "15",
+                "WIDTH_IN_M": "3",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Beddoe Dr. / Chedoke Civic Golf Course / Scenic Dr. / Cliffview Park",
+                "ACCESS_PNT": "Beddoe Dr. / Chedoke Civic Golf Course / Scenic Dr. / Cliffview Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9004136817714,
+                    43.2442425069041,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lower Chedoke Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Lower Chedoke Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Chedoke</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Chedoke</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>6</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>6</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>11</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Beddoe Dr. / Chedoke Civic Golf Course</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Beddoe Dr. / Chedoke Civic Golf Course</td>\n</tr></table></center>",
+                "NAME": "Lower Chedoke Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Cascade",
+                "RANKING": "A",
+                "CLUSTER_AREA": "Chedoke",
+                "NGHBRHD": "Chedoke",
+                "HEIGHT_IN_M": "6",
+                "HGHT_IN_M": "6",
+                "WIDTH_IN_M": "11",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Beddoe Dr. / Chedoke Civic Golf Course",
+                "ACCESS_PNT": "Beddoe Dr. / Chedoke Civic Golf Course"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8196325792583,
+                    43.2003863370476,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Albion Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Albion Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Mount Albion Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Mount Albion Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Red Hill</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Red Hill</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>19</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>19</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>18</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Mountain Brow Blvd. / King's Forest Park</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Mountain Brow Blvd. / King's Forest Park</td>\n</tr></table></center>",
+                "NAME": "Albion Falls",
+                "ALTERNATE_NAME": "Mount Albion Falls",
+                "ALT_NAME": "Mount Albion Falls",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Cascade",
+                "RANKING": "A",
+                "CLUSTER_AREA": "Red Hill",
+                "NGHBRHD": "Red Hill",
+                "HEIGHT_IN_M": "19",
+                "HGHT_IN_M": "19",
+                "WIDTH_IN_M": "18",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Mountain Brow Blvd. / King's Forest Park",
+                "ACCESS_PNT": "Mountain Brow Blvd. / King's Forest Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6956184367237,
+                    43.203523742337,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Jones Rd. Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Jones Rd. Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Stoney Creek</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Stoney Creek-Vinemount</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Stoney Creek-Vinemount</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>6</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>6</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>2</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>private</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>McNeilly Rd.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>McNeilly Rd.</td>\n</tr></table></center>",
+                "NAME": "Jones Rd. Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Stoney Creek",
+                "TYPE": "Cascade",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Stoney Creek-Vinemount",
+                "NGHBRHD": "Stoney Creek-Vinemount",
+                "HEIGHT_IN_M": "6",
+                "HGHT_IN_M": "6",
+                "WIDTH_IN_M": "2",
+                "OWNERSHIP": "private",
+                "ACCESS_FROM": "McNeilly Rd.",
+                "ACCESS_PNT": "McNeilly Rd."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9064303328189,
+                    43.3134191030291,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Upper Quarry Cascade",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Upper Quarry Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Flamborough</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Quarry</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Quarry</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>4</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>4</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>1.2</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>private</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Mountain Brow Rd.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Mountain Brow Rd.</td>\n</tr></table></center>",
+                "NAME": "Upper Quarry Cascade",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Flamborough",
+                "TYPE": "Cascade",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Quarry",
+                "NGHBRHD": "Quarry",
+                "HEIGHT_IN_M": "4",
+                "HGHT_IN_M": "4",
+                "WIDTH_IN_M": "1.2",
+                "OWNERSHIP": "private",
+                "ACCESS_FROM": "Mountain Brow Rd.",
+                "ACCESS_PNT": "Mountain Brow Rd."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9292421584705,
+                    43.2966344299901,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lower Hopkins Cascade",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Lower Hopkins Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Flamborough</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Borer's</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Borer's</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>6</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>6</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>3.5</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Valley Rd.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Valley Rd.</td>\n</tr></table></center>",
+                "NAME": "Lower Hopkins Cascade",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Flamborough",
+                "TYPE": "Cascade",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Borer's",
+                "NGHBRHD": "Borer's",
+                "HEIGHT_IN_M": "6",
+                "HGHT_IN_M": "6",
+                "WIDTH_IN_M": "3.5",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Valley Rd.",
+                "ACCESS_PNT": "Valley Rd."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9914500958772,
+                    43.2794339243329,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "East Greensville Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>East Greensville Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Flamborough</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Spencer-Logie's</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Spencer-Logie's</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>5.5</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>5.5</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>1.5</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Crooks Hollow Rd / Crooks Hollow CA</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Crooks Hollow Rd / Crooks Hollow CA</td>\n</tr></table></center>",
+                "NAME": "East Greensville Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Flamborough",
+                "TYPE": "Cascade",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Spencer-Logie's",
+                "NGHBRHD": "Spencer-Logie's",
+                "HEIGHT_IN_M": "5.5",
+                "HGHT_IN_M": "5.5",
+                "WIDTH_IN_M": "1.5",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Crooks Hollow Rd / Crooks Hollow CA",
+                "ACCESS_PNT": "Crooks Hollow Rd / Crooks Hollow CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7809020324005,
+                    43.2081923618432,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Veevers Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Veevers Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Felker</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Felker</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>14</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>14</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>2.5</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>private</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Greenhill Ave.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Greenhill Ave.</td>\n</tr></table></center>",
+                "NAME": "Veevers Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Cascade",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Felker",
+                "NGHBRHD": "Felker",
+                "HEIGHT_IN_M": "14",
+                "HGHT_IN_M": "14",
+                "WIDTH_IN_M": "2.5",
+                "OWNERSHIP": "private",
+                "ACCESS_FROM": "Greenhill Ave.",
+                "ACCESS_PNT": "Greenhill Ave."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7684967945259,
+                    43.208635776752,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Centennial Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Centennial Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Stoney Creek</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Glover-Battlefield</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Glover-Battlefield</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>10</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>10</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>4</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Centennial Pky.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Centennial Pky.</td>\n</tr></table></center>",
+                "NAME": "Centennial Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Stoney Creek",
+                "TYPE": "Cascade",
+                "RANKING": "B",
+                "CLUSTER_AREA": "Glover-Battlefield",
+                "NGHBRHD": "Glover-Battlefield",
+                "HEIGHT_IN_M": "10",
+                "HGHT_IN_M": "10",
+                "WIDTH_IN_M": "4",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Centennial Pky.",
+                "ACCESS_PNT": "Centennial Pky."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9277031201716,
+                    43.2979256671952,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Patterson West Cascade",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Patterson West Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Patterson Cascade</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Patterson Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Dundas</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Borer's</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Borer's</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>4.3</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>4.3</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>1.2</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Patterson Road</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Patterson Road</td>\n</tr></table></center>",
+                "NAME": "Patterson West Cascade",
+                "ALTERNATE_NAME": "Patterson Cascade",
+                "ALT_NAME": "Patterson Cascade",
+                "COMMUNITY": "Dundas",
+                "TYPE": "Cascade",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Borer's",
+                "NGHBRHD": "Borer's",
+                "HEIGHT_IN_M": "4.3",
+                "HGHT_IN_M": "4.3",
+                "WIDTH_IN_M": "1.2",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Patterson Road",
+                "ACCESS_PNT": "Patterson Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9270826916035,
+                    43.298153966293,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Patterson East Cascade",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Patterson East Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Dundas</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Borer's</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Borer's</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>4.6</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>4.6</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>1.5</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Patterson Road</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Patterson Road</td>\n</tr></table></center>",
+                "NAME": "Patterson East Cascade",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Dundas",
+                "TYPE": "Cascade",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Borer's",
+                "NGHBRHD": "Borer's",
+                "HEIGHT_IN_M": "4.6",
+                "HGHT_IN_M": "4.6",
+                "WIDTH_IN_M": "1.5",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Patterson Road",
+                "ACCESS_PNT": "Patterson Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6493195000052,
+                    43.1970163564411,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grand Cascade",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Grand Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Stoney Creek</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Stoney Creek-Winona</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Stoney Creek-Winona</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>4</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>4</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>1</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>private</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Fifty Rd.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Fifty Rd.</td>\n</tr></table></center>",
+                "NAME": "Grand Cascade",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Stoney Creek",
+                "TYPE": "Cascade",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Stoney Creek-Winona",
+                "NGHBRHD": "Stoney Creek-Winona",
+                "HEIGHT_IN_M": "4",
+                "HGHT_IN_M": "4",
+                "WIDTH_IN_M": "1",
+                "OWNERSHIP": "private",
+                "ACCESS_FROM": "Fifty Rd.",
+                "ACCESS_PNT": "Fifty Rd."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6469336519414,
+                    43.1958175593377,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "West of Fifty Upper Cascade",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>West of Fifty Upper Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Stoney Creek</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Stoney Creek-Winona</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Stoney Creek-Winona</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>8</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>8</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>1.5</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Fifty Rd.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Fifty Rd.</td>\n</tr></table></center>",
+                "NAME": "West of Fifty Upper Cascade",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Stoney Creek",
+                "TYPE": "Cascade",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Stoney Creek-Winona",
+                "NGHBRHD": "Stoney Creek-Winona",
+                "HEIGHT_IN_M": "8",
+                "HGHT_IN_M": "8",
+                "WIDTH_IN_M": "1.5",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Fifty Rd.",
+                "ACCESS_PNT": "Fifty Rd."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6444339198856,
+                    43.1953197231541,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fifty Rd. Cascade",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fifty Rd. Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Stoney Creek</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Stoney Creek-Winona</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Stoney Creek-Winona</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>10</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>10</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>1.2</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Fifty Rd.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Fifty Rd.</td>\n</tr></table></center>",
+                "NAME": "Fifty Rd. Cascade",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Stoney Creek",
+                "TYPE": "Cascade",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Stoney Creek-Winona",
+                "NGHBRHD": "Stoney Creek-Winona",
+                "HEIGHT_IN_M": "10",
+                "HGHT_IN_M": "10",
+                "WIDTH_IN_M": "1.2",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Fifty Rd.",
+                "ACCESS_PNT": "Fifty Rd."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6379414744332,
+                    43.1950535025401,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Puddicombe Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Puddicombe Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Stoney Creek</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Stoney Creek-Winona</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Stoney Creek-Winona</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>6</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>6</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>2</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Fifty Rd.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Fifty Rd.</td>\n</tr></table></center>",
+                "NAME": "Puddicombe Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Stoney Creek",
+                "TYPE": "Cascade",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Stoney Creek-Winona",
+                "NGHBRHD": "Stoney Creek-Winona",
+                "HEIGHT_IN_M": "6",
+                "HGHT_IN_M": "6",
+                "WIDTH_IN_M": "2",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Fifty Rd.",
+                "ACCESS_PNT": "Fifty Rd."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8094123597179,
+                    43.2024955650183,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Middle Glendale Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Middle Glendale Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Red Hill</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Red Hill</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>3.1</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>3.1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>3.4</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Bruce Trail</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Bruce Trail</td>\n</tr></table></center>",
+                "NAME": "Middle Glendale Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Cascade",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Red Hill",
+                "NGHBRHD": "Red Hill",
+                "HEIGHT_IN_M": "3.1",
+                "HGHT_IN_M": "3.1",
+                "WIDTH_IN_M": "3.4",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Bruce Trail",
+                "ACCESS_PNT": "Bruce Trail"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8304455843247,
+                    43.190403176772,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Billy Monkley Cascade",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Billy Monkley Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Red Hill</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Red Hill</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>6.4</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Chippewa Rail Trail via Rymal Road/Billy Monkley Bird Sanctuary</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Chippewa Rail Trail via Rymal Road/Billy Monkley Bird Sanctuary</td>\n</tr></table></center>",
+                "NAME": "Billy Monkley Cascade",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Cascade",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Red Hill",
+                "NGHBRHD": "Red Hill",
+                "HEIGHT_IN_M": "3",
+                "HGHT_IN_M": "3",
+                "WIDTH_IN_M": "6.4",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Chippewa Rail Trail via Rymal Road/Billy Monkley Bird Sanctuary",
+                "ACCESS_PNT": "Chippewa Rail Trail via Rymal Road/Billy Monkley Bird Sanctuary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7184324689902,
+                    43.206807171501,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dewitt Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Dewitt Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Stoney Creek</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Stoney Creek-Fruitland</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Stoney Creek-Fruitland</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>7</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>7</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>2</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Dewitt Rd.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Dewitt Rd.</td>\n</tr></table></center>",
+                "NAME": "Dewitt Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Stoney Creek",
+                "TYPE": "Cascade",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Stoney Creek-Fruitland",
+                "NGHBRHD": "Stoney Creek-Fruitland",
+                "HEIGHT_IN_M": "7",
+                "HGHT_IN_M": "7",
+                "WIDTH_IN_M": "2",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Dewitt Rd.",
+                "ACCESS_PNT": "Dewitt Rd."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.965755636659,
+                    43.2399984923333,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lower Little Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Lower Little Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Ancaster</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Tiffany-Coldwater</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Tiffany-Coldwater</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>8.199999999999999</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>8.199999999999999</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>1.8</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Wilson St. E.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Wilson St. E.</td>\n</tr></table></center>",
+                "NAME": "Lower Little Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Ancaster",
+                "TYPE": "Cascade",
+                "RANKING": "B",
+                "CLUSTER_AREA": "Tiffany-Coldwater",
+                "NGHBRHD": "Tiffany-Coldwater",
+                "HEIGHT_IN_M": "8.199999999999999",
+                "HGHT_IN_M": "8.199999999999999",
+                "WIDTH_IN_M": "1.8",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Wilson St. E.",
+                "ACCESS_PNT": "Wilson St. E."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9628410216353,
+                    43.2397379821397,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ancaster Heights Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Ancaster Heights Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Ancaster</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Tiffany-Coldwater</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Tiffany-Coldwater</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>13.4</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>13.4</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>1.8</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Wilson St. E.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Wilson St. E.</td>\n</tr></table></center>",
+                "NAME": "Ancaster Heights Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Ancaster",
+                "TYPE": "Cascade",
+                "RANKING": "B",
+                "CLUSTER_AREA": "Tiffany-Coldwater",
+                "NGHBRHD": "Tiffany-Coldwater",
+                "HEIGHT_IN_M": "13.4",
+                "HGHT_IN_M": "13.4",
+                "WIDTH_IN_M": "1.8",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Wilson St. E.",
+                "ACCESS_PNT": "Wilson St. E."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8869191380289,
+                    43.3284394445149,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grindstone Cascade",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Grindstone Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Flamborough</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Grindstone</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Grindstone</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>5</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Mill St / Smokey Hollow Resource Management Area</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Mill St / Smokey Hollow Resource Management Area</td>\n</tr></table></center>",
+                "NAME": "Grindstone Cascade",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Flamborough",
+                "TYPE": "Cascade",
+                "RANKING": "B",
+                "CLUSTER_AREA": "Grindstone",
+                "NGHBRHD": "Grindstone",
+                "HEIGHT_IN_M": "3",
+                "HGHT_IN_M": "3",
+                "WIDTH_IN_M": "5",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Mill St / Smokey Hollow Resource Management Area",
+                "ACCESS_PNT": "Mill St / Smokey Hollow Resource Management Area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0067933953861,
+                    43.2772089908452,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Darnley Cascade",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Darnley Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Stutt's Falls, Crooks Hollow Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Stutt's Falls, Crooks Hollow Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Flamborough</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Spencer-Logie's</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Spencer-Logie's</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>4</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>4</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>22</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Crooks Hollow Rd / Darnley Mill ruins</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Crooks Hollow Rd / Darnley Mill ruins</td>\n</tr></table></center>",
+                "NAME": "Darnley Cascade",
+                "ALTERNATE_NAME": "Stutt's Falls, Crooks Hollow Falls",
+                "ALT_NAME": "Stutt's Falls, Crooks Hollow Falls",
+                "COMMUNITY": "Flamborough",
+                "TYPE": "Cascade",
+                "RANKING": "A",
+                "CLUSTER_AREA": "Spencer-Logie's",
+                "NGHBRHD": "Spencer-Logie's",
+                "HEIGHT_IN_M": "4",
+                "HGHT_IN_M": "4",
+                "WIDTH_IN_M": "22",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Crooks Hollow Rd / Darnley Mill ruins",
+                "ACCESS_PNT": "Crooks Hollow Rd / Darnley Mill ruins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0124449457639,
+                    43.2363680323818,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mineral Springs Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Mineral Springs Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Ancaster</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>DV-Sulphur</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>DV-Sulphur</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>2</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>private</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Must view from owner's driveway only</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Must view from owner's driveway only</td>\n</tr></table></center>",
+                "NAME": "Mineral Springs Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Ancaster",
+                "TYPE": "Cascade",
+                "RANKING": "B",
+                "CLUSTER_AREA": "DV-Sulphur",
+                "NGHBRHD": "DV-Sulphur",
+                "HEIGHT_IN_M": "3",
+                "HGHT_IN_M": "3",
+                "WIDTH_IN_M": "2",
+                "OWNERSHIP": "private",
+                "ACCESS_FROM": "Must view from owner's driveway only",
+                "ACCESS_PNT": "Must view from owner's driveway only"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9980353554649,
+                    43.2363687864547,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hermitage Cascade",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Hermitage Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Hermitage Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Hermitage Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Ancaster</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>DV-Sulphur</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>DV-Sulphur</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>4</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>4</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>5</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Sulphur Springs Rd. / Hermitage ruins</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Sulphur Springs Rd. / Hermitage ruins</td>\n</tr></table></center>",
+                "NAME": "Hermitage Cascade",
+                "ALTERNATE_NAME": "Hermitage Falls",
+                "ALT_NAME": "Hermitage Falls",
+                "COMMUNITY": "Ancaster",
+                "TYPE": "Cascade",
+                "RANKING": "B",
+                "CLUSTER_AREA": "DV-Sulphur",
+                "NGHBRHD": "DV-Sulphur",
+                "HEIGHT_IN_M": "4",
+                "HGHT_IN_M": "4",
+                "WIDTH_IN_M": "5",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Sulphur Springs Rd. / Hermitage ruins",
+                "ACCESS_PNT": "Sulphur Springs Rd. / Hermitage ruins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0037779538242,
+                    43.2399397533163,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Heritage Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Heritage Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Griffin Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Griffin Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Ancaster</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>DV-Sulphur</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>DV-Sulphur</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>5</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>5</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Sulphur Springs Rd. / Hermitage ruins</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Sulphur Springs Rd. / Hermitage ruins</td>\n</tr></table></center>",
+                "NAME": "Heritage Falls",
+                "ALTERNATE_NAME": "Griffin Falls",
+                "ALT_NAME": "Griffin Falls",
+                "COMMUNITY": "Ancaster",
+                "TYPE": "Cascade",
+                "RANKING": "C",
+                "CLUSTER_AREA": "DV-Sulphur",
+                "NGHBRHD": "DV-Sulphur",
+                "HEIGHT_IN_M": "5",
+                "HGHT_IN_M": "5",
+                "WIDTH_IN_M": "3",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Sulphur Springs Rd. / Hermitage ruins",
+                "ACCESS_PNT": "Sulphur Springs Rd. / Hermitage ruins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9735174294091,
+                    43.2339902867941,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lower Mill Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Lower Mill Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Ancaster</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Ancaster-Sulphur</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Ancaster-Sulphur</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>6</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>6</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>4</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>private</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Old Dundas Rd. / Old Mill Rest.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Old Dundas Rd. / Old Mill Rest.</td>\n</tr></table></center>",
+                "NAME": "Lower Mill Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Ancaster",
+                "TYPE": "Cascade",
+                "RANKING": "B",
+                "CLUSTER_AREA": "Ancaster-Sulphur",
+                "NGHBRHD": "Ancaster-Sulphur",
+                "HEIGHT_IN_M": "6",
+                "HGHT_IN_M": "6",
+                "WIDTH_IN_M": "4",
+                "OWNERSHIP": "private",
+                "ACCESS_FROM": "Old Dundas Rd. / Old Mill Rest.",
+                "ACCESS_PNT": "Old Dundas Rd. / Old Mill Rest."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.980696714198,
+                    43.2369809902902,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Canterbury Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Canterbury Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Milne Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Milne Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Ancaster</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Ancaster-Sulphur</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Ancaster-Sulphur</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>9</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>9</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>4</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Old Dundas Rd.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Old Dundas Rd.</td>\n</tr></table></center>",
+                "NAME": "Canterbury Falls",
+                "ALTERNATE_NAME": "Milne Falls",
+                "ALT_NAME": "Milne Falls",
+                "COMMUNITY": "Ancaster",
+                "TYPE": "Cascade",
+                "RANKING": "B",
+                "CLUSTER_AREA": "Ancaster-Sulphur",
+                "NGHBRHD": "Ancaster-Sulphur",
+                "HEIGHT_IN_M": "9",
+                "HGHT_IN_M": "9",
+                "WIDTH_IN_M": "4",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Old Dundas Rd.",
+                "ACCESS_PNT": "Old Dundas Rd."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9800207867654,
+                    43.2368939234942,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Little Canterbury Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Little Canterbury Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Ancaster</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Cascade</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Ancaster-Sulphur</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Ancaster-Sulphur</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>5</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>5</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>2</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Old Dundas Rd.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Old Dundas Rd.</td>\n</tr></table></center>",
+                "NAME": "Little Canterbury Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Ancaster",
+                "TYPE": "Cascade",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Ancaster-Sulphur",
+                "NGHBRHD": "Ancaster-Sulphur",
+                "HEIGHT_IN_M": "5",
+                "HGHT_IN_M": "5",
+                "WIDTH_IN_M": "2",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Old Dundas Rd.",
+                "ACCESS_PNT": "Old Dundas Rd."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9581136523084,
+                    43.2381642354475,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tiffany Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Tiffany Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Ancaster</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Tiffany-Coldwater</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Tiffany-Coldwater</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>21</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>21</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>6</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Wilson St. E. / Tiffany Falls CA</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Wilson St. E. / Tiffany Falls CA</td>\n</tr></table></center>",
+                "NAME": "Tiffany Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Ancaster",
+                "TYPE": "Waterfall",
+                "RANKING": "A",
+                "CLUSTER_AREA": "Tiffany-Coldwater",
+                "NGHBRHD": "Tiffany-Coldwater",
+                "HEIGHT_IN_M": "21",
+                "HGHT_IN_M": "21",
+                "WIDTH_IN_M": "6",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Wilson St. E. / Tiffany Falls CA",
+                "ACCESS_PNT": "Wilson St. E. / Tiffany Falls CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9299229976905,
+                    43.2458370485111,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Princess Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Princess Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Lang's Falls, Upper Princess Falls, Westerly Falls on Chedoke Radial Trail</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Lang's Falls, Upper Princess Falls, Westerly Falls on Chedoke Radial Trail</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Chedoke-Scenic</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Chedoke-Scenic</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>7</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>7</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>2</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Scenic Dr. / Chedoke Radial Trail Land</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Scenic Dr. / Chedoke Radial Trail Land</td>\n</tr></table></center>",
+                "NAME": "Princess Falls",
+                "ALTERNATE_NAME": "Lang's Falls, Upper Princess Falls, Westerly Falls on Chedoke Radial Trail",
+                "ALT_NAME": "Lang's Falls, Upper Princess Falls, Westerly Falls on Chedoke Radial Trail",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Waterfall",
+                "RANKING": "B",
+                "CLUSTER_AREA": "Chedoke-Scenic",
+                "NGHBRHD": "Chedoke-Scenic",
+                "HEIGHT_IN_M": "7",
+                "HGHT_IN_M": "7",
+                "WIDTH_IN_M": "2",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Scenic Dr. / Chedoke Radial Trail Land",
+                "ACCESS_PNT": "Scenic Dr. / Chedoke Radial Trail Land"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9006560601081,
+                    43.2417235480416,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chedoke Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Chedoke Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Chedoke</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Chedoke</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>18</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>18</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>9</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Beddoe Dr. / Chedoke Civic Golf Course / Scenic Dr</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Beddoe Dr. / Chedoke Civic Golf Course / Scenic Dr</td>\n</tr></table></center>",
+                "NAME": "Chedoke Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Waterfall",
+                "RANKING": "A",
+                "CLUSTER_AREA": "Chedoke",
+                "NGHBRHD": "Chedoke",
+                "HEIGHT_IN_M": "18",
+                "HGHT_IN_M": "18",
+                "WIDTH_IN_M": "9",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Beddoe Dr. / Chedoke Civic Golf Course / Scenic Dr",
+                "ACCESS_PNT": "Beddoe Dr. / Chedoke Civic Golf Course / Scenic Dr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8096628664032,
+                    43.2022730558856,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Upper Glendale Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Upper Glendale Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Glendale Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Glendale Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Red Hill</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Red Hill</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Kingsview Dr.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Kingsview Dr.</td>\n</tr></table></center>",
+                "NAME": "Upper Glendale Falls",
+                "ALTERNATE_NAME": "Glendale Falls",
+                "ALT_NAME": "Glendale Falls",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Waterfall",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Red Hill",
+                "NGHBRHD": "Red Hill",
+                "HEIGHT_IN_M": "3",
+                "HGHT_IN_M": "3",
+                "WIDTH_IN_M": "3",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Kingsview Dr.",
+                "ACCESS_PNT": "Kingsview Dr."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8195743700729,
+                    43.2053202829319,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Buttermilk Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Buttermilk Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Inglis Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Inglis Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Red Hill</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Red Hill</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>23</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>23</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>8</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Mountain Brow Blvd. / Oak-Knoll Park</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Mountain Brow Blvd. / Oak-Knoll Park</td>\n</tr></table></center>",
+                "NAME": "Buttermilk Falls",
+                "ALTERNATE_NAME": "Inglis Falls",
+                "ALT_NAME": "Inglis Falls",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Waterfall",
+                "RANKING": "A",
+                "CLUSTER_AREA": "Red Hill",
+                "NGHBRHD": "Red Hill",
+                "HEIGHT_IN_M": "23",
+                "HGHT_IN_M": "23",
+                "WIDTH_IN_M": "8",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Mountain Brow Blvd. / Oak-Knoll Park",
+                "ACCESS_PNT": "Mountain Brow Blvd. / Oak-Knoll Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7889199226019,
+                    43.2067467434847,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Little Davis Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Little Davis Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Lower Felker's Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Lower Felker's Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Felker</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Felker</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>8</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Quigley Rd.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Quigley Rd.</td>\n</tr></table></center>",
+                "NAME": "Little Davis Falls",
+                "ALTERNATE_NAME": "Lower Felker's Falls",
+                "ALT_NAME": "Lower Felker's Falls",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Waterfall",
+                "RANKING": "B",
+                "CLUSTER_AREA": "Felker",
+                "NGHBRHD": "Felker",
+                "HEIGHT_IN_M": "3",
+                "HGHT_IN_M": "3",
+                "WIDTH_IN_M": "8",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Quigley Rd.",
+                "ACCESS_PNT": "Quigley Rd."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7901531739086,
+                    43.2035181242337,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Felker's Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Felker's Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Felker</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Felker</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>22</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>22</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>6</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Ackland St. / Felker's Falls CA</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Ackland St. / Felker's Falls CA</td>\n</tr></table></center>",
+                "NAME": "Felker's Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Waterfall",
+                "RANKING": "A",
+                "CLUSTER_AREA": "Felker",
+                "NGHBRHD": "Felker",
+                "HEIGHT_IN_M": "22",
+                "HGHT_IN_M": "22",
+                "WIDTH_IN_M": "6",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Ackland St. / Felker's Falls CA",
+                "ACCESS_PNT": "Ackland St. / Felker's Falls CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7665678321352,
+                    43.2072282806369,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Billy Green Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Billy Green Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Battlefield Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Battlefield Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Stoney Creek</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Glover-Battlefield</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Glover-Battlefield</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>17</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>17</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>6</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Centennial Pky.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Centennial Pky.</td>\n</tr></table></center>",
+                "NAME": "Billy Green Falls",
+                "ALTERNATE_NAME": "Battlefield Falls",
+                "ALT_NAME": "Battlefield Falls",
+                "COMMUNITY": "Stoney Creek",
+                "TYPE": "Waterfall",
+                "RANKING": "B",
+                "CLUSTER_AREA": "Glover-Battlefield",
+                "NGHBRHD": "Glover-Battlefield",
+                "HEIGHT_IN_M": "17",
+                "HGHT_IN_M": "17",
+                "WIDTH_IN_M": "6",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Centennial Pky.",
+                "ACCESS_PNT": "Centennial Pky."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6591924909448,
+                    43.2002931303212,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Harvey Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Harvey Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Pond Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Pond Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Stoney Creek</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Stoney Creek-Winona</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Stoney Creek-Winona</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>16</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>16</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>private</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Fifty Rd.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Fifty Rd.</td>\n</tr></table></center>",
+                "NAME": "Harvey Falls",
+                "ALTERNATE_NAME": "Pond Falls",
+                "ALT_NAME": "Pond Falls",
+                "COMMUNITY": "Stoney Creek",
+                "TYPE": "Waterfall",
+                "RANKING": "B",
+                "CLUSTER_AREA": "Stoney Creek-Winona",
+                "NGHBRHD": "Stoney Creek-Winona",
+                "HEIGHT_IN_M": "16",
+                "HGHT_IN_M": "16",
+                "WIDTH_IN_M": "3",
+                "OWNERSHIP": "private",
+                "ACCESS_FROM": "Fifty Rd.",
+                "ACCESS_PNT": "Fifty Rd."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.652167677761,
+                    43.1984636768952,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Promontory Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Promontory Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Stoney Creek</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Stoney Creek-Winona</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Stoney Creek-Winona</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>18</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>18</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>1</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>private</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Fifty Rd.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Fifty Rd.</td>\n</tr></table></center>",
+                "NAME": "Promontory Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Stoney Creek",
+                "TYPE": "Waterfall",
+                "RANKING": "B",
+                "CLUSTER_AREA": "Stoney Creek-Winona",
+                "NGHBRHD": "Stoney Creek-Winona",
+                "HEIGHT_IN_M": "18",
+                "HGHT_IN_M": "18",
+                "WIDTH_IN_M": "1",
+                "OWNERSHIP": "private",
+                "ACCESS_FROM": "Fifty Rd.",
+                "ACCESS_PNT": "Fifty Rd."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9365994570466,
+                    43.2911202630383,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rock Chapel Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Rock Chapel Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Flamborough</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Borer's</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Borer's</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>8</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>8</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>1.5</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Rock Chapel Rd.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Rock Chapel Rd.</td>\n</tr></table></center>",
+                "NAME": "Rock Chapel Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Flamborough",
+                "TYPE": "Waterfall",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Borer's",
+                "NGHBRHD": "Borer's",
+                "HEIGHT_IN_M": "8",
+                "HGHT_IN_M": "8",
+                "WIDTH_IN_M": "1.5",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Rock Chapel Rd.",
+                "ACCESS_PNT": "Rock Chapel Rd."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9491490037138,
+                    43.2781886653136,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dyment Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Dyment Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Flamborough</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Sydenham</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Sydenham</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>15.7</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>15.7</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>4</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Sydenham Rd. lookout</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Sydenham Rd. lookout</td>\n</tr></table></center>",
+                "NAME": "Dyment Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Flamborough",
+                "TYPE": "Waterfall",
+                "RANKING": "B",
+                "CLUSTER_AREA": "Sydenham",
+                "NGHBRHD": "Sydenham",
+                "HEIGHT_IN_M": "15.7",
+                "HGHT_IN_M": "15.7",
+                "WIDTH_IN_M": "4",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Sydenham Rd. lookout",
+                "ACCESS_PNT": "Sydenham Rd. lookout"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9385760550391,
+                    43.2447830911078,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "East Iroquoia Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>East Iroquoia Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Chedoke-Scenic</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Chedoke-Scenic</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>20</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>20</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>1.2</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Hwy 403</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Hwy 403</td>\n</tr></table></center>",
+                "NAME": "East Iroquoia Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Waterfall",
+                "RANKING": "B",
+                "CLUSTER_AREA": "Chedoke-Scenic",
+                "NGHBRHD": "Chedoke-Scenic",
+                "HEIGHT_IN_M": "20",
+                "HGHT_IN_M": "20",
+                "WIDTH_IN_M": "1.2",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Hwy 403",
+                "ACCESS_PNT": "Hwy 403"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8911630415482,
+                    43.2435769108695,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Auchmar Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Auchmar Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Upper Beckett Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Upper Beckett Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Chedoke</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Chedoke</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>12</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>12</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>1.5</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Beckett Drive</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Beckett Drive</td>\n</tr></table></center>",
+                "NAME": "Auchmar Falls",
+                "ALTERNATE_NAME": "Upper Beckett Falls",
+                "ALT_NAME": "Upper Beckett Falls",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Waterfall",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Chedoke",
+                "NGHBRHD": "Chedoke",
+                "HEIGHT_IN_M": "12",
+                "HGHT_IN_M": "12",
+                "WIDTH_IN_M": "1.5",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Beckett Drive",
+                "ACCESS_PNT": "Beckett Drive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6658182271599,
+                    43.2006857644618,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lewis Rd. West Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Lewis Rd. West Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Stoney Creek</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Stoney Creek-Winona</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Stoney Creek-Winona</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>9</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>9</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>private</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>McNeilly Rd.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>McNeilly Rd.</td>\n</tr></table></center>",
+                "NAME": "Lewis Rd. West Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Stoney Creek",
+                "TYPE": "Waterfall",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Stoney Creek-Winona",
+                "NGHBRHD": "Stoney Creek-Winona",
+                "HEIGHT_IN_M": "9",
+                "HGHT_IN_M": "9",
+                "WIDTH_IN_M": "3",
+                "OWNERSHIP": "private",
+                "ACCESS_FROM": "McNeilly Rd.",
+                "ACCESS_PNT": "McNeilly Rd."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8858430903808,
+                    43.2448669005313,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beckett Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Beckett Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Lower Beckett Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Lower Beckett Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Chedoke</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Chedoke</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>1.2</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Beckett Drive</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Beckett Drive</td>\n</tr></table></center>",
+                "NAME": "Beckett Falls",
+                "ALTERNATE_NAME": "Lower Beckett Falls",
+                "ALT_NAME": "Lower Beckett Falls",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Waterfall",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Chedoke",
+                "NGHBRHD": "Chedoke",
+                "HEIGHT_IN_M": "3",
+                "HGHT_IN_M": "3",
+                "WIDTH_IN_M": "1.2",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Beckett Drive",
+                "ACCESS_PNT": "Beckett Drive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6414150576666,
+                    43.1949237232525,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "East of Fifty Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>East of Fifty Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Winona Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Winona Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Stoney Creek</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Stoney Creek-Winona</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Stoney Creek-Winona</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>10</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>10</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>1.5</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>private</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Fifty Rd.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Fifty Rd.</td>\n</tr></table></center>",
+                "NAME": "East of Fifty Falls",
+                "ALTERNATE_NAME": "Winona Falls",
+                "ALT_NAME": "Winona Falls",
+                "COMMUNITY": "Stoney Creek",
+                "TYPE": "Waterfall",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Stoney Creek-Winona",
+                "NGHBRHD": "Stoney Creek-Winona",
+                "HEIGHT_IN_M": "10",
+                "HGHT_IN_M": "10",
+                "WIDTH_IN_M": "1.5",
+                "OWNERSHIP": "private",
+                "ACCESS_FROM": "Fifty Rd.",
+                "ACCESS_PNT": "Fifty Rd."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7875197393632,
+                    43.204723876927,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Heritage Green Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Heritage Green Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Taro Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Taro Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Felker</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Felker</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>12.2</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>12.2</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>1.8</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Ackland Street</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Ackland Street</td>\n</tr></table></center>",
+                "NAME": "Heritage Green Falls",
+                "ALTERNATE_NAME": "Taro Falls",
+                "ALT_NAME": "Taro Falls",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Waterfall",
+                "RANKING": "B",
+                "CLUSTER_AREA": "Felker",
+                "NGHBRHD": "Felker",
+                "HEIGHT_IN_M": "12.2",
+                "HGHT_IN_M": "12.2",
+                "WIDTH_IN_M": "1.8",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Ackland Street",
+                "ACCESS_PNT": "Ackland Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7879547579588,
+                    43.2045123757857,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mountain Spring Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Mountain Spring Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Felker</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Felker</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>15</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>15</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>2.4</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Ackland Street</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Ackland Street</td>\n</tr></table></center>",
+                "NAME": "Mountain Spring Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Waterfall",
+                "RANKING": "B",
+                "CLUSTER_AREA": "Felker",
+                "NGHBRHD": "Felker",
+                "HEIGHT_IN_M": "15",
+                "HGHT_IN_M": "15",
+                "WIDTH_IN_M": "2.4",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Ackland Street",
+                "ACCESS_PNT": "Ackland Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.928253224112,
+                    43.2974896016945,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Valley Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Valley Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Flamborough</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Borer's</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Borer's</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>4.3</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>4.3</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>4.3</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Bruce Trail at Valley Road</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Bruce Trail at Valley Road</td>\n</tr></table></center>",
+                "NAME": "Valley Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Flamborough",
+                "TYPE": "Waterfall",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Borer's",
+                "NGHBRHD": "Borer's",
+                "HEIGHT_IN_M": "4.3",
+                "HGHT_IN_M": "4.3",
+                "WIDTH_IN_M": "4.3",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Bruce Trail at Valley Road",
+                "ACCESS_PNT": "Bruce Trail at Valley Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8163322217909,
+                    43.2011086248597,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pritchard Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Pritchard Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Red Hill</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Red Hill</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>4.5</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>4.5</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>1</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Mountain Brow Blvd. / King's Forest Park</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Mountain Brow Blvd. / King's Forest Park</td>\n</tr></table></center>",
+                "NAME": "Pritchard Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Waterfall",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Red Hill",
+                "NGHBRHD": "Red Hill",
+                "HEIGHT_IN_M": "4.5",
+                "HGHT_IN_M": "4.5",
+                "WIDTH_IN_M": "1",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Mountain Brow Blvd. / King's Forest Park",
+                "ACCESS_PNT": "Mountain Brow Blvd. / King's Forest Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8160043239796,
+                    43.2142429996646,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Broman Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Broman Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Coop's Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Coop's Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Red Hill</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Red Hill</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>7</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>7</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>1.1</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Bruce Trail Escarpment Rail Trail at Mohawk Sports Park</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Bruce Trail Escarpment Rail Trail at Mohawk Sports Park</td>\n</tr></table></center>",
+                "NAME": "Broman Falls",
+                "ALTERNATE_NAME": "Coop's Falls",
+                "ALT_NAME": "Coop's Falls",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Waterfall",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Red Hill",
+                "NGHBRHD": "Red Hill",
+                "HEIGHT_IN_M": "7",
+                "HGHT_IN_M": "7",
+                "WIDTH_IN_M": "1.1",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Bruce Trail Escarpment Rail Trail at Mohawk Sports Park",
+                "ACCESS_PNT": "Bruce Trail Escarpment Rail Trail at Mohawk Sports Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8196615307721,
+                    43.2001615195114,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Baby Albion Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Baby Albion Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>C</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Red Hill</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Red Hill</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>8.5</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>8.5</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>1</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Mountain Brow Blvd. / King's Forest Park</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Mountain Brow Blvd. / King's Forest Park</td>\n</tr></table></center>",
+                "NAME": "Baby Albion Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Waterfall",
+                "RANKING": "C",
+                "CLUSTER_AREA": "Red Hill",
+                "NGHBRHD": "Red Hill",
+                "HEIGHT_IN_M": "8.5",
+                "HGHT_IN_M": "8.5",
+                "WIDTH_IN_M": "1",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Mountain Brow Blvd. / King's Forest Park",
+                "ACCESS_PNT": "Mountain Brow Blvd. / King's Forest Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7571684375446,
+                    43.2112056373173,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lower Punchbowl Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Lower Punchbowl Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Stoney Creek</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Punchbowl</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Punchbowl</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>6</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>6</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>6</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Mountain Ave.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Mountain Ave.</td>\n</tr></table></center>",
+                "NAME": "Lower Punchbowl Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Stoney Creek",
+                "TYPE": "Waterfall",
+                "RANKING": "B",
+                "CLUSTER_AREA": "Punchbowl",
+                "NGHBRHD": "Punchbowl",
+                "HEIGHT_IN_M": "6",
+                "HGHT_IN_M": "6",
+                "WIDTH_IN_M": "6",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Mountain Ave.",
+                "ACCESS_PNT": "Mountain Ave."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.755905605913,
+                    43.2103454751626,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Devil's Punchbowl Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Devil's Punchbowl Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Horseshoe Falls, Devil's Punch Bowl</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Horseshoe Falls, Devil's Punch Bowl</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Stoney Creek</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Punchbowl</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Punchbowl</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>37</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>37</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Ridge Rd. / Devil's Punchbowl CA</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Ridge Rd. / Devil's Punchbowl CA</td>\n</tr></table></center>",
+                "NAME": "Devil's Punchbowl Falls",
+                "ALTERNATE_NAME": "Horseshoe Falls, Devil's Punch Bowl",
+                "ALT_NAME": "Horseshoe Falls, Devil's Punch Bowl",
+                "COMMUNITY": "Stoney Creek",
+                "TYPE": "Waterfall",
+                "RANKING": "A",
+                "CLUSTER_AREA": "Punchbowl",
+                "NGHBRHD": "Punchbowl",
+                "HEIGHT_IN_M": "37",
+                "HGHT_IN_M": "37",
+                "WIDTH_IN_M": "3",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Ridge Rd. / Devil's Punchbowl CA",
+                "ACCESS_PNT": "Ridge Rd. / Devil's Punchbowl CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9404919918444,
+                    43.2443956465195,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "West Iroquoia Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>West Iroquoia Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Chedoke-Scenic</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Chedoke-Scenic</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>19.8</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>19.8</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>1</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Hwy 403</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Hwy 403</td>\n</tr></table></center>",
+                "NAME": "West Iroquoia Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Hamilton",
+                "TYPE": "Waterfall",
+                "RANKING": "B",
+                "CLUSTER_AREA": "Chedoke-Scenic",
+                "NGHBRHD": "Chedoke-Scenic",
+                "HEIGHT_IN_M": "19.8",
+                "HGHT_IN_M": "19.8",
+                "WIDTH_IN_M": "1",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Hwy 403",
+                "ACCESS_PNT": "Hwy 403"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9375407316529,
+                    43.284492664236,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sugar Shack Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Sugar Shack Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Dundas</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Borer's</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Borer's</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>9</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>9</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>4</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Rock Chapel Rd. / Rock Chapel Sanctuary</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Rock Chapel Rd. / Rock Chapel Sanctuary</td>\n</tr></table></center>",
+                "NAME": "Sugar Shack Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Dundas",
+                "TYPE": "Waterfall",
+                "RANKING": "B",
+                "CLUSTER_AREA": "Borer's",
+                "NGHBRHD": "Borer's",
+                "HEIGHT_IN_M": "9",
+                "HGHT_IN_M": "9",
+                "WIDTH_IN_M": "4",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Rock Chapel Rd. / Rock Chapel Sanctuary",
+                "ACCESS_PNT": "Rock Chapel Rd. / Rock Chapel Sanctuary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9599213686299,
+                    43.3981005764233,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Progreston Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Progreston Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Flamborough</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Bronte</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Bronte</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>6.7</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>6.7</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>16.5</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>private</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Progreston Rd.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Progreston Rd.</td>\n</tr></table></center>",
+                "NAME": "Progreston Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Flamborough",
+                "TYPE": "Waterfall",
+                "RANKING": "A",
+                "CLUSTER_AREA": "Bronte",
+                "NGHBRHD": "Bronte",
+                "HEIGHT_IN_M": "6.7",
+                "HGHT_IN_M": "6.7",
+                "WIDTH_IN_M": "16.5",
+                "OWNERSHIP": "private",
+                "ACCESS_FROM": "Progreston Rd.",
+                "ACCESS_PNT": "Progreston Rd."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8872384750833,
+                    43.3305405931572,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Great Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Great Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Waterdown Falls, Grindstone Falls, Smokey Hollow Falls, Dunn's Falls, The Falls, Palmer's Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Waterdown Falls, Grindstone Falls, Smokey Hollow Falls, Dunn's Falls, The Falls, Palmer's Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Flamborough</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Grindstone</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Grindstone</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>10</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>10</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>5</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Mill St / Smokey Hollow Resource Management Area</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Mill St / Smokey Hollow Resource Management Area</td>\n</tr></table></center>",
+                "NAME": "Great Falls",
+                "ALTERNATE_NAME": "Waterdown Falls, Grindstone Falls, Smokey Hollow Falls, Dunn's Falls, The Falls, Palmer's Falls",
+                "ALT_NAME": "Waterdown Falls, Grindstone Falls, Smokey Hollow Falls, Dunn's Falls, The Falls, Palmer's Falls",
+                "COMMUNITY": "Flamborough",
+                "TYPE": "Waterfall",
+                "RANKING": "A",
+                "CLUSTER_AREA": "Grindstone",
+                "NGHBRHD": "Grindstone",
+                "HEIGHT_IN_M": "10",
+                "HGHT_IN_M": "10",
+                "WIDTH_IN_M": "5",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Mill St / Smokey Hollow Resource Management Area",
+                "ACCESS_PNT": "Mill St / Smokey Hollow Resource Management Area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9367867326861,
+                    43.2938143595938,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Borer's Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Borer's Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Rock Chapel Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Rock Chapel Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Flamborough</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Borer's</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Borer's</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>15</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>15</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>5</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Rock Chapel Rd. / Rock Chapel Sanctuary</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Rock Chapel Rd. / Rock Chapel Sanctuary</td>\n</tr></table></center>",
+                "NAME": "Borer's Falls",
+                "ALTERNATE_NAME": "Rock Chapel Falls",
+                "ALT_NAME": "Rock Chapel Falls",
+                "COMMUNITY": "Flamborough",
+                "TYPE": "Waterfall",
+                "RANKING": "A",
+                "CLUSTER_AREA": "Borer's",
+                "NGHBRHD": "Borer's",
+                "HEIGHT_IN_M": "15",
+                "HGHT_IN_M": "15",
+                "WIDTH_IN_M": "5",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Rock Chapel Rd. / Rock Chapel Sanctuary",
+                "ACCESS_PNT": "Rock Chapel Rd. / Rock Chapel Sanctuary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9583534540946,
+                    43.2739596761965,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lower Sydenham Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Lower Sydenham Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Sydenham Ravine</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Sydenham Ravine</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Dundas</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Sydenham</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Sydenham</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>4</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>4</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>4</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>private</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Livingstone Dr. / Cascades Park</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Livingstone Dr. / Cascades Park</td>\n</tr></table></center>",
+                "NAME": "Lower Sydenham Falls",
+                "ALTERNATE_NAME": "Sydenham Ravine",
+                "ALT_NAME": "Sydenham Ravine",
+                "COMMUNITY": "Dundas",
+                "TYPE": "Waterfall",
+                "RANKING": "B",
+                "CLUSTER_AREA": "Sydenham",
+                "NGHBRHD": "Sydenham",
+                "HEIGHT_IN_M": "4",
+                "HGHT_IN_M": "4",
+                "WIDTH_IN_M": "4",
+                "OWNERSHIP": "private",
+                "ACCESS_FROM": "Livingstone Dr. / Cascades Park",
+                "ACCESS_PNT": "Livingstone Dr. / Cascades Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9782660679126,
+                    43.280712618478,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tew's Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Tew's Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Hopkins Falls, Tunis Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Hopkins Falls, Tunis Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Flamborough</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Spencer-Logie's</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Spencer-Logie's</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>41</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>41</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>9</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Harvest Rd. / Spencer Gorge / Webster's Falls CA</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Harvest Rd. / Spencer Gorge / Webster's Falls CA</td>\n</tr></table></center>",
+                "NAME": "Tew's Falls",
+                "ALTERNATE_NAME": "Hopkins Falls, Tunis Falls",
+                "ALT_NAME": "Hopkins Falls, Tunis Falls",
+                "COMMUNITY": "Flamborough",
+                "TYPE": "Waterfall",
+                "RANKING": "A",
+                "CLUSTER_AREA": "Spencer-Logie's",
+                "NGHBRHD": "Spencer-Logie's",
+                "HEIGHT_IN_M": "41",
+                "HGHT_IN_M": "41",
+                "WIDTH_IN_M": "9",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Harvest Rd. / Spencer Gorge / Webster's Falls CA",
+                "ACCESS_PNT": "Harvest Rd. / Spencer Gorge / Webster's Falls CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9809177599539,
+                    43.2761709620516,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Webster's Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Webster's Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Spencer Falls, Hatt's Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Spencer Falls, Hatt's Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Flamborough</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Spencer-Logie's</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Spencer-Logie's</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>22</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>22</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>30</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Fallsview Rd. / Spencer Gorge / Webster's Falls CA</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Fallsview Rd. / Spencer Gorge / Webster's Falls CA</td>\n</tr></table></center>",
+                "NAME": "Webster's Falls",
+                "ALTERNATE_NAME": "Spencer Falls, Hatt's Falls",
+                "ALT_NAME": "Spencer Falls, Hatt's Falls",
+                "COMMUNITY": "Flamborough",
+                "TYPE": "Waterfall",
+                "RANKING": "A",
+                "CLUSTER_AREA": "Spencer-Logie's",
+                "NGHBRHD": "Spencer-Logie's",
+                "HEIGHT_IN_M": "22",
+                "HGHT_IN_M": "22",
+                "WIDTH_IN_M": "30",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Fallsview Rd. / Spencer Gorge / Webster's Falls CA",
+                "ACCESS_PNT": "Fallsview Rd. / Spencer Gorge / Webster's Falls CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9818994596115,
+                    43.2756844533531,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Baby Webster's Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Baby Webster's Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Flamborough</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Spencer-Logie's</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Spencer-Logie's</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>9</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>9</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>3</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>public</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Fallsview Rd. / Spencer Gorge / Webster's Falls CA</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Fallsview Rd. / Spencer Gorge / Webster's Falls CA</td>\n</tr></table></center>",
+                "NAME": "Baby Webster's Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Flamborough",
+                "TYPE": "Waterfall",
+                "RANKING": "B",
+                "CLUSTER_AREA": "Spencer-Logie's",
+                "NGHBRHD": "Spencer-Logie's",
+                "HEIGHT_IN_M": "9",
+                "HGHT_IN_M": "9",
+                "WIDTH_IN_M": "3",
+                "OWNERSHIP": "public",
+                "ACCESS_FROM": "Fallsview Rd. / Spencer Gorge / Webster's Falls CA",
+                "ACCESS_PNT": "Fallsview Rd. / Spencer Gorge / Webster's Falls CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9721588727099,
+                    43.2730400390464,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dundas Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Dundas Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>no data</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Dundas</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Spencer-Logie's</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Spencer-Logie's</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>6.4</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>6.4</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>6.7</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>private</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>King St.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>King St.</td>\n</tr></table></center>",
+                "NAME": "Dundas Falls",
+                "ALTERNATE_NAME": "no data",
+                "ALT_NAME": "no data",
+                "COMMUNITY": "Dundas",
+                "TYPE": "Waterfall",
+                "RANKING": "B",
+                "CLUSTER_AREA": "Spencer-Logie's",
+                "NGHBRHD": "Spencer-Logie's",
+                "HEIGHT_IN_M": "6.4",
+                "HGHT_IN_M": "6.4",
+                "WIDTH_IN_M": "6.7",
+                "OWNERSHIP": "private",
+                "ACCESS_FROM": "King St.",
+                "ACCESS_PNT": "King St."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9738975613898,
+                    43.2333543686237,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mill Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Mill Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Wilson Falls, Mill Stream Waterfall, Upper Mill Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Wilson Falls, Mill Stream Waterfall, Upper Mill Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Ancaster</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>B</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Ancaster-Sulphur</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Ancaster-Sulphur</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>7</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>7</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>4</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>private</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Old Dundas Rd. / Old Mill Rest.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Old Dundas Rd. / Old Mill Rest.</td>\n</tr></table></center>",
+                "NAME": "Mill Falls",
+                "ALTERNATE_NAME": "Wilson Falls, Mill Stream Waterfall, Upper Mill Falls",
+                "ALT_NAME": "Wilson Falls, Mill Stream Waterfall, Upper Mill Falls",
+                "COMMUNITY": "Ancaster",
+                "TYPE": "Waterfall",
+                "RANKING": "B",
+                "CLUSTER_AREA": "Ancaster-Sulphur",
+                "NGHBRHD": "Ancaster-Sulphur",
+                "HEIGHT_IN_M": "7",
+                "HGHT_IN_M": "7",
+                "WIDTH_IN_M": "4",
+                "OWNERSHIP": "private",
+                "ACCESS_FROM": "Old Dundas Rd. / Old Mill Rest.",
+                "ACCESS_PNT": "Old Dundas Rd. / Old Mill Rest."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9729308522898,
+                    43.2381181449099,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sherman Falls",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Sherman Falls</td>\n</tr><tr bgcolor=\"\">\n<th>ALTERNATE_NAME</th>\n<td>Smith's Falls, Whitton Falls, Fairy Falls, Angel Falls</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ALT_NAME</th>\n<td>Smith's Falls, Whitton Falls, Fairy Falls, Angel Falls</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Ancaster</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Waterfall</td>\n</tr><tr bgcolor=\"\">\n<th>RANKING</th>\n<td>A</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>CLUSTER_AREA</th>\n<td>Ancaster-Sulphur</td>\n</tr><tr bgcolor=\"\">\n<th>NGHBRHD</th>\n<td>Ancaster-Sulphur</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HEIGHT_IN_M</th>\n<td>17</td>\n</tr><tr bgcolor=\"\">\n<th>HGHT_IN_M</th>\n<td>17</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WIDTH_IN_M</th>\n<td>8</td>\n</tr><tr bgcolor=\"\">\n<th>OWNERSHIP</th>\n<td>private</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ACCESS_FROM</th>\n<td>Lions Club Rd.</td>\n</tr><tr bgcolor=\"\">\n<th>ACCESS_PNT</th>\n<td>Lions Club Rd.</td>\n</tr></table></center>",
+                "NAME": "Sherman Falls",
+                "ALTERNATE_NAME": "Smith's Falls, Whitton Falls, Fairy Falls, Angel Falls",
+                "ALT_NAME": "Smith's Falls, Whitton Falls, Fairy Falls, Angel Falls",
+                "COMMUNITY": "Ancaster",
+                "TYPE": "Waterfall",
+                "RANKING": "A",
+                "CLUSTER_AREA": "Ancaster-Sulphur",
+                "NGHBRHD": "Ancaster-Sulphur",
+                "HEIGHT_IN_M": "17",
+                "HGHT_IN_M": "17",
+                "WIDTH_IN_M": "8",
+                "OWNERSHIP": "private",
+                "ACCESS_FROM": "Lions Club Rd.",
+                "ACCESS_PNT": "Lions Club Rd."
+            }
+        }
+    ]
+}

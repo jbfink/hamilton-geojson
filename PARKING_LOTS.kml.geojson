@@ -1,0 +1,1240 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8733472013691,
+                    43.2548936818307,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>40</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>CITY HALL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>71 MAIN STREET WEST</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "40",
+                "LOCATION": "CITY HALL",
+                "ADDRESS": "71 MAIN STREET WEST",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8401674031216,
+                    43.2571450746649,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>42</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>BARTON STREET EAST AND BIRCH AVENUE</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>Barton and Birch</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "42",
+                "LOCATION": "BARTON STREET EAST AND BIRCH AVENUE",
+                "ADDRESS": "Barton and Birch",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.816020286661,
+                    43.2499775120754,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>2A</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>OTTAWA STREET NORTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>115 CAMPBELL AVENUE</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "2A",
+                "LOCATION": "OTTAWA STREET NORTH",
+                "ADDRESS": "115 CAMPBELL AVENUE",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8164161518898,
+                    43.2490658347388,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>2B</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>OTTAWA STREET NORTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>116 CAMPBELL AVENUE</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "2B",
+                "LOCATION": "OTTAWA STREET NORTH",
+                "ADDRESS": "116 CAMPBELL AVENUE",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8166241769628,
+                    43.2484090304053,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>2C</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>OTTAWA STREET NORTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>11 BRITANNIA AVENUE</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "2C",
+                "LOCATION": "OTTAWA STREET NORTH",
+                "ADDRESS": "11 BRITANNIA AVENUE",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8168064503828,
+                    43.2477323562665,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>2D</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>OTTAWA STREET NORTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>18 BRITANNIA AVENUE</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "2D",
+                "LOCATION": "OTTAWA STREET NORTH",
+                "ADDRESS": "18 BRITANNIA AVENUE",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8652497374592,
+                    43.257090138164,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>1</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>JOHN STREET NORTH AND REBECCA STREET</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>76 JOHN STREET NORTH</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "1",
+                "LOCATION": "JOHN STREET NORTH AND REBECCA STREET",
+                "ADDRESS": "76 JOHN STREET NORTH",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7576149444081,
+                    43.2160599566483,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>3</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>MOUNTAIN AVENUE SOUTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>14 MOUNTAIN AVENUE SOUTH, STONEY CREEK</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "3",
+                "LOCATION": "MOUNTAIN AVENUE SOUTH",
+                "ADDRESS": "14 MOUNTAIN AVENUE SOUTH, STONEY CREEK",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8066501275022,
+                    43.2464577481421,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>4</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>KENILWORTH AVENUE NORTH AND HARMONY AVENUE</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>70 HOPE AVENUE</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "4",
+                "LOCATION": "KENILWORTH AVENUE NORTH AND HARMONY AVENUE",
+                "ADDRESS": "70 HOPE AVENUE",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.86328450675,
+                    43.2555177135004,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>5</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>KING WILLIAM STREET AND MARY STREET</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>140 KING WILLIAM STREET</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "5",
+                "LOCATION": "KING WILLIAM STREET AND MARY STREET",
+                "ADDRESS": "140 KING WILLIAM STREET",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8627886404074,
+                    43.2539574761203,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>7</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>MAIN STREET EAST AND FERGUSON AVENUE SOUTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>171 MAIN STREET EAST</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "7",
+                "LOCATION": "MAIN STREET EAST AND FERGUSON AVENUE SOUTH",
+                "ADDRESS": "171 MAIN STREET EAST",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8601627279584,
+                    43.2541626406411,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>8</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>KING STREET EAST AND JARVIS STREET</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>297 KING STREET EAST</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "8",
+                "LOCATION": "KING STREET EAST AND JARVIS STREET",
+                "ADDRESS": "297 KING STREET EAST",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8672774061349,
+                    43.2381230795897,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>9</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>UPPER WELLINGTON STREET</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>584 UPPER WELLINGTON STREET</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "9",
+                "LOCATION": "UPPER WELLINGTON STREET",
+                "ADDRESS": "584 UPPER WELLINGTON STREET",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8078248880246,
+                    43.2401610542806,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>11</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>MAIN STREET EAST AND GARSIDE AVENUE NORTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>1457 MAIN STREET EAST</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "11",
+                "LOCATION": "MAIN STREET EAST AND GARSIDE AVENUE NORTH",
+                "ADDRESS": "1457 MAIN STREET EAST",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8675239373719,
+                    43.2590298520387,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>13</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>WILSON STREET AND JAMES STREET NORTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>96 JAMES STREET NORTH</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "13",
+                "LOCATION": "WILSON STREET AND JAMES STREET NORTH",
+                "ADDRESS": "96 JAMES STREET NORTH",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8219243353634,
+                    43.2435745787733,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>16</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>MAIN STREET EAST AND BALMORAL AVENUE NORTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>53 BALMORAL AVENUE NORTH</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "16",
+                "LOCATION": "MAIN STREET EAST AND BALMORAL AVENUE NORTH",
+                "ADDRESS": "53 BALMORAL AVENUE NORTH",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8122011583636,
+                    43.2406395382058,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>17</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>MAIN STREET EAST AND HUXLEY AVENUE SOUTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>1358 MAIN STREET EAST</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "17",
+                "LOCATION": "MAIN STREET EAST AND HUXLEY AVENUE SOUTH",
+                "ADDRESS": "1358 MAIN STREET EAST",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8190835341337,
+                    43.2426814009169,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>19</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>MAIN STREET EAST AND OTTAWA STREET NORTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>1203 MAIN STREET EAST</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "19",
+                "LOCATION": "MAIN STREET EAST AND OTTAWA STREET NORTH",
+                "ADDRESS": "1203 MAIN STREET EAST",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.876824071447,
+                    43.2407982592843,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>20</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>UPPER JAMES STREET AND BRANTDALE AVENUE</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>552 UPPER JAMES STREET</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "20",
+                "LOCATION": "UPPER JAMES STREET AND BRANTDALE AVENUE",
+                "ADDRESS": "552 UPPER JAMES STREET",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.811065157741,
+                    43.2409106239438,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>21</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>MAIN STREET EAST AND TUXEDO AVENUE NORTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>1375 MAIN STREET EAST</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "21",
+                "LOCATION": "MAIN STREET EAST AND TUXEDO AVENUE NORTH",
+                "ADDRESS": "1375 MAIN STREET EAST",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8828193734064,
+                    43.2603447339015,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>22</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>KING STREET WEST AND LOCKE STREET SOUTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>451 KING STREET WEST</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "22",
+                "LOCATION": "KING STREET WEST AND LOCKE STREET SOUTH",
+                "ADDRESS": "451 KING STREET WEST",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8524962197068,
+                    43.2604134769197,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>32</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>EAST AVENUE NORTH AND BARTON STREET EAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>255 EAST AVENUE NORTH</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "32",
+                "LOCATION": "EAST AVENUE NORTH AND BARTON STREET EAST",
+                "ADDRESS": "255 EAST AVENUE NORTH",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8778949623484,
+                    43.2392157438967,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>33</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>UPPER JAMES STREET AND GENESSE STREET</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>15 BRUCEDALE AVENUE WEST</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "33",
+                "LOCATION": "UPPER JAMES STREET AND GENESSE STREET",
+                "ADDRESS": "15 BRUCEDALE AVENUE WEST",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8055046381222,
+                    43.2395832921764,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>34</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>MAIN STREET EAST AND COPE STREET</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>1503 MAIN STREET EAST</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "34",
+                "LOCATION": "MAIN STREET EAST AND COPE STREET",
+                "ADDRESS": "1503 MAIN STREET EAST",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8535946727095,
+                    43.2407663575891,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>35</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>EAST 21ST STREET AND CONCESSION STREET</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>8 EAST 21ST STREET</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "35",
+                "LOCATION": "EAST 21ST STREET AND CONCESSION STREET",
+                "ADDRESS": "8 EAST 21ST STREET",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8676171968521,
+                    43.2623418436158,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>36</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>MULBERRY STREET</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>22 MULBERRY STREET</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "36",
+                "LOCATION": "MULBERRY STREET",
+                "ADDRESS": "22 MULBERRY STREET",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8719832263699,
+                    43.256721309322,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>37</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>CONVENTION CENTRE AND C65</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>80 MAIN STREET WEST</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "37",
+                "LOCATION": "CONVENTION CENTRE AND C65",
+                "ADDRESS": "80 MAIN STREET WEST",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8186792615619,
+                    43.251589186838,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>39D</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>BARTION STREET EAST AND GROSVENOR AVENUE NORTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>299 BALMORAL AVENUE NORTH</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "39D",
+                "LOCATION": "BARTION STREET EAST AND GROSVENOR AVENUE NORTH",
+                "ADDRESS": "299 BALMORAL AVENUE NORTH",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7531237943182,
+                    43.2172194128636,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>6</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>Rosedale Drive</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>Rosedale Dr and King E Stoney Creek</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "6",
+                "LOCATION": "Rosedale Drive",
+                "ADDRESS": "Rosedale Dr and King E Stoney Creek",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8180813029582,
+                    43.2514608643049,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>39C</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>BARTON STREET EAST AND GROSVENOR AVENUE NORTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>302 BALMORAL AVENUE NORTH</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "39C",
+                "LOCATION": "BARTON STREET EAST AND GROSVENOR AVENUE NORTH",
+                "ADDRESS": "302 BALMORAL AVENUE NORTH",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8176571962181,
+                    43.2513507079938,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>39B</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>BARTON STREET EAST AND GROSVENOR AVENUE NORTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>309 GROSVENOR AVENUE NORTH</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "39B",
+                "LOCATION": "BARTON STREET EAST AND GROSVENOR AVENUE NORTH",
+                "ADDRESS": "309 GROSVENOR AVENUE NORTH",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8061854144077,
+                    43.2482751874258,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>43</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>KENILWORTH AVENUE NORTH AND NEWLANDS AVENUE</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>268 KENILWORTH AVENUE NORTH</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "43",
+                "LOCATION": "KENILWORTH AVENUE NORTH AND NEWLANDS AVENUE",
+                "ADDRESS": "268 KENILWORTH AVENUE NORTH",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8508093294663,
+                    43.260130038041,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>44</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>BARTON STREET EAST AND EMERALD STREET NORTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>346 BARTON STREET EAST</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "44",
+                "LOCATION": "BARTON STREET EAST AND EMERALD STREET NORTH",
+                "ADDRESS": "346 BARTON STREET EAST",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8427714361435,
+                    43.258027275522,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>45</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>BARTON STREET EAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>540 BARTON STREET EAST</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "45",
+                "LOCATION": "BARTON STREET EAST",
+                "ADDRESS": "540 BARTON STREET EAST",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8470101234483,
+                    43.2598675681467,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>46</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>BARTON STREET EAST AND WILLIAM STREET</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>14 CHEEVER STREET AND 11 WILLIAM STREET</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "46",
+                "LOCATION": "BARTON STREET EAST AND WILLIAM STREET",
+                "ADDRESS": "14 CHEEVER STREET AND 11 WILLIAM STREET",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8335161840725,
+                    43.2561102972399,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>47</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>BARTON STREET EAST AND BARNESDALE AVENUE NORTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>121 BARNESDALE AVENUE NORTH AND 735 BARTON STREET EAST</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "47",
+                "LOCATION": "BARTON STREET EAST AND BARNESDALE AVENUE NORTH",
+                "ADDRESS": "121 BARNESDALE AVENUE NORTH AND 735 BARTON STREET EAST",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8730538166775,
+                    43.265662767388,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>49</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>BARTON STREET WEST AND CAROLINE STREET NORTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>167 BARTON STREET WEST</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "49",
+                "LOCATION": "BARTON STREET WEST AND CAROLINE STREET NORTH",
+                "ADDRESS": "167 BARTON STREET WEST",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8412583574342,
+                    43.2546418038054,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>50</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>CANNON STREET EAST AND BIRCH AVENUE</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>625 WILSON STREET</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "50",
+                "LOCATION": "CANNON STREET EAST AND BIRCH AVENUE",
+                "ADDRESS": "625 WILSON STREET",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8550408977384,
+                    43.2519239779416,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>56</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>MAIN STREET EAST AND EMERALD STREET SOUTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>30 EMERALD STREET SOUTH</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "56",
+                "LOCATION": "MAIN STREET EAST AND EMERALD STREET SOUTH",
+                "ADDRESS": "30 EMERALD STREET SOUTH",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8045076834624,
+                    43.2485848238761,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>58</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>BARTON STREET EAST AND HARMONY AVENUE</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>1368 BARTON STREET EAST</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "58",
+                "LOCATION": "BARTON STREET EAST AND HARMONY AVENUE",
+                "ADDRESS": "1368 BARTON STREET EAST",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8685806240102,
+                    43.2604771885764,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>62</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>VINE STREET</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>14 VINE STREET</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "62",
+                "LOCATION": "VINE STREET",
+                "ADDRESS": "14 VINE STREET",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8356352399162,
+                    43.2569525253279,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>64</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>SHERMAN AVENUE NORTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>168 SHERMAN AVENUE NORTH</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "64",
+                "LOCATION": "SHERMAN AVENUE NORTH",
+                "ADDRESS": "168 SHERMAN AVENUE NORTH",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8718830460814,
+                    43.2613814267556,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>66</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>BAY STREET NORTH AND CANNON STREET WEST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>106 BAY STREET NORTH</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "66",
+                "LOCATION": "BAY STREET NORTH AND CANNON STREET WEST",
+                "ADDRESS": "106 BAY STREET NORTH",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8690237157901,
+                    43.2595704376783,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>68</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>EATON CENTRE PARKADE</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>28 YORK BOULEVARD</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "68",
+                "LOCATION": "EATON CENTRE PARKADE",
+                "ADDRESS": "28 YORK BOULEVARD",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8686465637599,
+                    43.2593263903346,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>69</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>YORK BOULEVARD PARKETTE</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>12 YORK BOULEVARD</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "69",
+                "LOCATION": "YORK BOULEVARD PARKETTE",
+                "ADDRESS": "12 YORK BOULEVARD",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8653650745309,
+                    43.2625875024747,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>70</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>HUGHSON STREET NORTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>207-211 HUGHSON STREET NORTH</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "70",
+                "LOCATION": "HUGHSON STREET NORTH",
+                "ADDRESS": "207-211 HUGHSON STREET NORTH",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8556101003267,
+                    43.2533129936955,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>72</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>EAST AVENUE NORTH AND KING STREET EAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>11 EAST AVENUE NORTH</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "72",
+                "LOCATION": "EAST AVENUE NORTH AND KING STREET EAST",
+                "ADDRESS": "11 EAST AVENUE NORTH",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8591315768969,
+                    43.2551852896247,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>73</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>KING WILLIAM STREET AND WELLINGTON STREET NORTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>253 KING WILLIAM STREET</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "73",
+                "LOCATION": "KING WILLIAM STREET AND WELLINGTON STREET NORTH",
+                "ADDRESS": "253 KING WILLIAM STREET",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.877186991419,
+                    43.2587257002922,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>74</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>KING STREET WEST AND HESS STREET SOUTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>263 KING STREET WEST</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "74",
+                "LOCATION": "KING STREET WEST AND HESS STREET SOUTH",
+                "ADDRESS": "263 KING STREET WEST",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8660517150588,
+                    43.2528259906154,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>76</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>CATHARINE STREET SOUTH AND HUNTER STREET EAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>75 CATHARINE STREET SOUTH</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "76",
+                "LOCATION": "CATHARINE STREET SOUTH AND HUNTER STREET EAST",
+                "ADDRESS": "75 CATHARINE STREET SOUTH",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8483303699492,
+                    43.2594348459921,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>79</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>BARTON STREET EAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>402 BARTON STREET EAST</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "79",
+                "LOCATION": "BARTON STREET EAST",
+                "ADDRESS": "402 BARTON STREET EAST",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8746177560549,
+                    43.2577294872566,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>80</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>BAY STREET SOUTH AND KING STREET WEST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>22 BAY STREET SOUTH AND 191 KING STREET WEST</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "80",
+                "LOCATION": "BAY STREET SOUTH AND KING STREET WEST",
+                "ADDRESS": "22 BAY STREET SOUTH AND 191 KING STREET WEST",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.861951499207,
+                    43.254835641555,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>81</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>FERGUSON AVENUE NORTH</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>11 FERGUSON AVENUE NORTH</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "81",
+                "LOCATION": "FERGUSON AVENUE NORTH",
+                "ADDRESS": "11 FERGUSON AVENUE NORTH",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8526221457341,
+                    43.2615537419035,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>82</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>VICTORIA AVENUE NORTH AND BARTON STREET EAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>294 VICTORIA AVENUE NORTH</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "82",
+                "LOCATION": "VICTORIA AVENUE NORTH AND BARTON STREET EAST",
+                "ADDRESS": "294 VICTORIA AVENUE NORTH",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8071894278649,
+                    43.2482825537563,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>84</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>KENILWORTH AVENUE NORTH AND ALBANY AVENUE</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>36 NEWLANDS AVENUE</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "84",
+                "LOCATION": "KENILWORTH AVENUE NORTH AND ALBANY AVENUE",
+                "ADDRESS": "36 NEWLANDS AVENUE",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.955389981756,
+                    43.266847758232,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>1D</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>BOOTH STREET</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>45 KING STREET WEST, DUNDAS</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "1D",
+                "LOCATION": "BOOTH STREET",
+                "ADDRESS": "45 KING STREET WEST, DUNDAS",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9583528338253,
+                    43.2662328787143,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>2DU</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>POST OFFICE</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>8 FOUNDRY STREET</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "2DU",
+                "LOCATION": "POST OFFICE",
+                "ADDRESS": "8 FOUNDRY STREET",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9574335668412,
+                    43.2658914742526,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>3D</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>CANADA TRUST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>82 KING STREET WEST, DUNDAS</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "3D",
+                "LOCATION": "CANADA TRUST",
+                "ADDRESS": "82 KING STREET WEST, DUNDAS",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9564463767999,
+                    43.2659621026512,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>4D</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>ROYAL BANK</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>48-70 KING STREET WEST, DUNDAS</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "4D",
+                "LOCATION": "ROYAL BANK",
+                "ADDRESS": "48-70 KING STREET WEST, DUNDAS",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9555975369404,
+                    43.2654161861723,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>7D</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>HATT STREET</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>23 HATT STREET, DUNDAS</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "7D",
+                "LOCATION": "HATT STREET",
+                "ADDRESS": "23 HATT STREET, DUNDAS",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9565577915722,
+                    43.26677953576,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>9D</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>BANK OF MONTREAL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>77 KING STREET WEST, DUNDAS</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "9D",
+                "LOCATION": "BANK OF MONTREAL",
+                "ADDRESS": "77 KING STREET WEST, DUNDAS",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9570282779483,
+                    43.2670182438259,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>6D</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>COACH HOUSE</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>83 KING STREET WEST, DUNDAS</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "6D",
+                "LOCATION": "COACH HOUSE",
+                "ADDRESS": "83 KING STREET WEST, DUNDAS",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9579194531829,
+                    43.2671482815321,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>5D</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>GOLDEN VALLEY</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>93-107 KING STREET WEST, DUNDAS</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "5D",
+                "LOCATION": "GOLDEN VALLEY",
+                "ADDRESS": "93-107 KING STREET WEST, DUNDAS",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9759646836971,
+                    43.2262991300451,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>10A</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>WILSON STREET EAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>334 WILSON STREET EAST, ANCASTER</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "10A",
+                "LOCATION": "WILSON STREET EAST",
+                "ADDRESS": "334 WILSON STREET EAST, ANCASTER",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8923638968039,
+                    43.334212068845,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>CARPARK_ID</th>\n<td>11W</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>DUNDAS STREET EAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>319 DUNDAS STREET EAST, WATERDOWN</td>\n</tr><tr bgcolor=\"\">\n<th>OWNER</th>\n<td>CITY OF HAMILTON</td>\n</tr></table></center>",
+                "CARPARK_ID": "11W",
+                "LOCATION": "DUNDAS STREET EAST",
+                "ADDRESS": "319 DUNDAS STREET EAST, WATERDOWN",
+                "OWNER": "CITY OF HAMILTON"
+            }
+        }
+    ]
+}

@@ -1,0 +1,635 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.942329061492,
+                    43.2691918668498,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 29 - (Fpb)",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 29 - (Fpb)</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>29</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>189 King Street East</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Dundas</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>NO</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Fire Prevention - Main Office</td>\n</tr></table></center>",
+                "NAME": "Fire Station 29 - (Fpb)",
+                "STATION_NO": "29",
+                "ADDRESS": "189 King Street East",
+                "COMMUNITY": "Dundas",
+                "HES_EMS": "NO",
+                "TYPE": "Fire Prevention - Main Office"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0387939656712,
+                    43.3978037987631,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 28",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 28</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>28</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>1801 Brock Road</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Freelton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>NO</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Volunteer</td>\n</tr></table></center>",
+                "NAME": "Fire Station 28",
+                "STATION_NO": "28",
+                "ADDRESS": "1801 Brock Road",
+                "COMMUNITY": "Freelton",
+                "HES_EMS": "NO",
+                "TYPE": "Volunteer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1264854452309,
+                    43.2999654081642,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 27",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 27</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>27</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>795 Old Highway 8</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Rockton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>NO</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Volunteer</td>\n</tr></table></center>",
+                "NAME": "Fire Station 27",
+                "STATION_NO": "27",
+                "ADDRESS": "795 Old Highway 8",
+                "COMMUNITY": "Rockton",
+                "HES_EMS": "NO",
+                "TYPE": "Volunteer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9942271754966,
+                    43.281883184061,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 25",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 25</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>25</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>361 Old Brock Road</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Greensville</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>NO</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Volunteer</td>\n</tr></table></center>",
+                "NAME": "Fire Station 25",
+                "STATION_NO": "25",
+                "ADDRESS": "361 Old Brock Road",
+                "COMMUNITY": "Greensville",
+                "HES_EMS": "NO",
+                "TYPE": "Volunteer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1480396072699,
+                    43.2369988313073,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 26",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 26</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>26</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>119 Lynden Road</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Lynden</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>NO</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Volunteer</td>\n</tr></table></center>",
+                "NAME": "Fire Station 26",
+                "STATION_NO": "26",
+                "ADDRESS": "119 Lynden Road",
+                "COMMUNITY": "Lynden",
+                "HES_EMS": "NO",
+                "TYPE": "Volunteer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9052659724971,
+                    43.3357898417739,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 24",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 24</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>24</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>256 Parkside Drive</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Waterdown</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>YES</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Composite</td>\n</tr></table></center>",
+                "NAME": "Fire Station 24",
+                "STATION_NO": "24",
+                "ADDRESS": "256 Parkside Drive",
+                "COMMUNITY": "Waterdown",
+                "HES_EMS": "YES",
+                "TYPE": "Composite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9569715623243,
+                    43.2657423145878,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 23",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 23</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>23</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>19 Sydenham Street, Memorial Square</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Dundas</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>YES</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Career</td>\n</tr></table></center>",
+                "NAME": "Fire Station 23",
+                "STATION_NO": "23",
+                "ADDRESS": "19 Sydenham Street, Memorial Square",
+                "COMMUNITY": "Dundas",
+                "HES_EMS": "YES",
+                "TYPE": "Career"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8717640323361,
+                    43.2639218736199,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 13",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 13</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>13</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>177 Bay Street North</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>NO</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Mechanical Shop</td>\n</tr></table></center>",
+                "NAME": "Fire Station 13",
+                "STATION_NO": "13",
+                "ADDRESS": "177 Bay Street North",
+                "COMMUNITY": "Hamilton",
+                "HES_EMS": "NO",
+                "TYPE": "Mechanical Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0021659315445,
+                    43.2085527103025,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 21",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 21</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>21</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>365 Wilson Street West</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Ancaster</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>YES</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Composite</td>\n</tr></table></center>",
+                "NAME": "Fire Station 21",
+                "STATION_NO": "21",
+                "ADDRESS": "365 Wilson Street West",
+                "COMMUNITY": "Ancaster",
+                "HES_EMS": "YES",
+                "TYPE": "Composite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9234232708361,
+                    43.2572997337479,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 10",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 10</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>10</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>1455 Main Street West</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>YES</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Career</td>\n</tr></table></center>",
+                "NAME": "Fire Station 10",
+                "STATION_NO": "10",
+                "ADDRESS": "1455 Main Street West",
+                "COMMUNITY": "Hamilton",
+                "HES_EMS": "YES",
+                "TYPE": "Career"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9015890248068,
+                    43.2307671549113,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 3",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 3</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>3</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>965 Garth Street</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>YES</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Career</td>\n</tr></table></center>",
+                "NAME": "Fire Station 3",
+                "STATION_NO": "3",
+                "ADDRESS": "965 Garth Street",
+                "COMMUNITY": "Hamilton",
+                "HES_EMS": "YES",
+                "TYPE": "Career"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.88090517563,
+                    43.2592883438465,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 11",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 11</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>11</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>24 Ray Street</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>NO</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Career</td>\n</tr></table></center>",
+                "NAME": "Fire Station 11",
+                "STATION_NO": "11",
+                "ADDRESS": "24 Ray Street",
+                "COMMUNITY": "Hamilton",
+                "HES_EMS": "NO",
+                "TYPE": "Career"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8661802420295,
+                    43.2570891261798,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 1- (Fpb)",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 1- (Fpb)</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>35-43 John Street North</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>YES</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Career</td>\n</tr></table></center>",
+                "NAME": "Fire Station 1- (Fpb)",
+                "STATION_NO": "1",
+                "ADDRESS": "35-43 John Street North",
+                "COMMUNITY": "Hamilton",
+                "HES_EMS": "YES",
+                "TYPE": "Career"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8453357889,
+                    43.259270491245,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 6",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 6</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>6</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>246 Wentworth Street North</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>NO</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Career</td>\n</tr></table></center>",
+                "NAME": "Fire Station 6",
+                "STATION_NO": "6",
+                "ADDRESS": "246 Wentworth Street North",
+                "COMMUNITY": "Hamilton",
+                "HES_EMS": "NO",
+                "TYPE": "Career"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8796938323056,
+                    43.2104494922515,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 2",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 2</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>2</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>1400 Upper Wellington Street</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>NO</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Career</td>\n</tr></table></center>",
+                "NAME": "Fire Station 2",
+                "STATION_NO": "2",
+                "ADDRESS": "1400 Upper Wellington Street",
+                "COMMUNITY": "Hamilton",
+                "HES_EMS": "NO",
+                "TYPE": "Career"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8500142324571,
+                    43.2245293652602,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 4",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 4</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>4</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>729 Upper Sherman Avenue</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>YES</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Career</td>\n</tr></table></center>",
+                "NAME": "Fire Station 4",
+                "STATION_NO": "4",
+                "ADDRESS": "729 Upper Sherman Avenue",
+                "COMMUNITY": "Hamilton",
+                "HES_EMS": "YES",
+                "TYPE": "Career"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8349658012201,
+                    43.1983295236389,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 5",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 5</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>5</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>1227 Stone Church Road East</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>NO</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Career</td>\n</tr></table></center>",
+                "NAME": "Fire Station 5",
+                "STATION_NO": "5",
+                "ADDRESS": "1227 Stone Church Road East",
+                "COMMUNITY": "Hamilton",
+                "HES_EMS": "NO",
+                "TYPE": "Career"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8359584409839,
+                    43.1995835647547,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Training Academy / Administration",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Training Academy / Administration</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>22</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>1227 Stone Church Road East</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>NO</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Training Academy / Administration</td>\n</tr></table></center>",
+                "NAME": "Training Academy / Administration",
+                "STATION_NO": "22",
+                "ADDRESS": "1227 Stone Church Road East",
+                "COMMUNITY": "Hamilton",
+                "HES_EMS": "NO",
+                "TYPE": "Training Academy / Administration"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8087369869621,
+                    43.2441647271423,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 9",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 9</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>9</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>125 Kenilworth Avenue North</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>YES</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Career</td>\n</tr></table></center>",
+                "NAME": "Fire Station 9",
+                "STATION_NO": "9",
+                "ADDRESS": "125 Kenilworth Avenue North",
+                "COMMUNITY": "Hamilton",
+                "HES_EMS": "YES",
+                "TYPE": "Career"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7792829498573,
+                    43.2408450131642,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 8",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 8</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>8</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>400 Melvin Avenue</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>NO</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Career</td>\n</tr></table></center>",
+                "NAME": "Fire Station 8",
+                "STATION_NO": "8",
+                "ADDRESS": "400 Melvin Avenue",
+                "COMMUNITY": "Hamilton",
+                "HES_EMS": "NO",
+                "TYPE": "Career"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9164842014262,
+                    43.1533554707626,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 19",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 19</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>19</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>3302 Homestead Road</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Mount Hope</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>YES</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Volunteer</td>\n</tr></table></center>",
+                "NAME": "Fire Station 19",
+                "STATION_NO": "19",
+                "ADDRESS": "3302 Homestead Road",
+                "COMMUNITY": "Mount Hope",
+                "HES_EMS": "YES",
+                "TYPE": "Volunteer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7893675711813,
+                    43.1942435885197,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 17",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 17</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>17</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>363 Isaac Brock Street</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Stoney Creek</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>YES</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Composite</td>\n</tr></table></center>",
+                "NAME": "Fire Station 17",
+                "STATION_NO": "17",
+                "ADDRESS": "363 Isaac Brock Street",
+                "COMMUNITY": "Stoney Creek",
+                "HES_EMS": "YES",
+                "TYPE": "Composite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7841725010393,
+                    43.2157660854166,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 7",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 7</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>7</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>225 Quigley Road</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>YES</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Career</td>\n</tr></table></center>",
+                "NAME": "Fire Station 7",
+                "STATION_NO": "7",
+                "ADDRESS": "225 Quigley Road",
+                "COMMUNITY": "Hamilton",
+                "HES_EMS": "YES",
+                "TYPE": "Career"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7400922342832,
+                    43.2231291568817,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 12",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 12</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>12</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>199 Highway 8</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Stoney Creek</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>NO</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Career</td>\n</tr></table></center>",
+                "NAME": "Fire Station 12",
+                "STATION_NO": "12",
+                "ADDRESS": "199 Highway 8",
+                "COMMUNITY": "Stoney Creek",
+                "HES_EMS": "NO",
+                "TYPE": "Career"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7165233637066,
+                    43.2299332356313,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 15",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 15</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>15</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>415 Arvin Avenue</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Stoney Creek</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>YES</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Volunteer</td>\n</tr></table></center>",
+                "NAME": "Fire Station 15",
+                "STATION_NO": "15",
+                "ADDRESS": "415 Arvin Avenue",
+                "COMMUNITY": "Stoney Creek",
+                "HES_EMS": "YES",
+                "TYPE": "Volunteer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6755124012763,
+                    43.2171403254746,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 16",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 16</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>16</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>939 Barton Street East</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Winona</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>NO</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Volunteer</td>\n</tr></table></center>",
+                "NAME": "Fire Station 16",
+                "STATION_NO": "16",
+                "ADDRESS": "939 Barton Street East",
+                "COMMUNITY": "Winona",
+                "HES_EMS": "NO",
+                "TYPE": "Volunteer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8050114494722,
+                    43.1217067618055,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 18",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 18</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>18</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>2636 Highway 56</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Binbrook</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>NO</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Volunteer</td>\n</tr></table></center>",
+                "NAME": "Fire Station 18",
+                "STATION_NO": "18",
+                "ADDRESS": "2636 Highway 56",
+                "COMMUNITY": "Binbrook",
+                "HES_EMS": "NO",
+                "TYPE": "Volunteer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8504849870019,
+                    43.2686530323952,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ems Station 30",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Ems Station 30</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>30</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>489 Victoria Avenue North</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>YES</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>EMS only - Fleet Centre</td>\n</tr></table></center>",
+                "NAME": "Ems Station 30",
+                "STATION_NO": "30",
+                "ADDRESS": "489 Victoria Avenue North",
+                "COMMUNITY": "Hamilton",
+                "HES_EMS": "YES",
+                "TYPE": "EMS only - Fleet Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7182076156846,
+                    43.1585760466992,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 14",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 14</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>14</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>585 Chapel Hill Road</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Glanbrook</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>NO</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Volunteer</td>\n</tr></table></center>",
+                "NAME": "Fire Station 14",
+                "STATION_NO": "14",
+                "ADDRESS": "585 Chapel Hill Road",
+                "COMMUNITY": "Glanbrook",
+                "HES_EMS": "NO",
+                "TYPE": "Volunteer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9536203440199,
+                    43.2069469517937,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fire Station 20",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fire Station 20</td>\n</tr><tr bgcolor=\"\">\n<th>STATION_NO</th>\n<td>20</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADDRESS</th>\n<td>661 Garner Rd</td>\n</tr><tr bgcolor=\"\">\n<th>COMMUNITY</th>\n<td>Ancaster</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HES_EMS</th>\n<td>YES</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>Career</td>\n</tr></table></center>",
+                "NAME": "Fire Station 20",
+                "STATION_NO": "20",
+                "ADDRESS": "661 Garner Rd",
+                "COMMUNITY": "Ancaster",
+                "HES_EMS": "YES",
+                "TYPE": "Career"
+            }
+        }
+    ]
+}

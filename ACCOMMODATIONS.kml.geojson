@@ -1,0 +1,1283 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.007225826897,
+                    43.2134010245806,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Carole's Bed and Breakfast",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Carole's Bed and Breakfast</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>167 Daniels Street, Ancaster, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-304-6629</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.bbcanada.com/5409.html</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20101109</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20110117</td>\n</tr></table></center>",
+                "NAME": "Carole's Bed and Breakfast",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "167 Daniels Street, Ancaster, ON",
+                "PHONE": "905-304-6629",
+                "URL": "http://www.bbcanada.com/5409.html",
+                "ADD_DATE": "20101109",
+                "MOD_DATE": "20110117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0276405042024,
+                    43.3781645323575,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cedarbrook Farm",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Cedarbrook Farm</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>812 8th Concession Road West, Puslinch, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-659-1566</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>905-659-0681</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.bedbreakfasthome.com/cedarbrookfarm/</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20101109</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20130612</td>\n</tr></table></center>",
+                "NAME": "Cedarbrook Farm",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "812 8th Concession Road West, Puslinch, ON",
+                "PHONE": "905-659-1566",
+                "FAX": "905-659-0681",
+                "URL": "http://www.bedbreakfasthome.com/cedarbrookfarm/",
+                "ADD_DATE": "20101109",
+                "MOD_DATE": "20130612"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.046451104343,
+                    43.1556652565256,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Duck Tail Inn",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Duck Tail Inn</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>1573 Butter Road West, Ancaster, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-648-3596</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.bbcanada.com/371.html</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20101109</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20121220</td>\n</tr></table></center>",
+                "NAME": "Duck Tail Inn",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "1573 Butter Road West, Ancaster, ON",
+                "PHONE": "905-648-3596",
+                "URL": "http://www.bbcanada.com/371.html",
+                "ADD_DATE": "20101109",
+                "MOD_DATE": "20121220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9476090850359,
+                    43.261734144959,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Glenwood Bed and Breakfast",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Glenwood Bed and Breakfast</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>42 Osler Drive, Dundas, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-628-8104</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.glenwoodbb.ca/</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20101109</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20101109</td>\n</tr></table></center>",
+                "NAME": "Glenwood Bed and Breakfast",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "42 Osler Drive, Dundas, ON",
+                "PHONE": "905-628-8104",
+                "URL": "http://www.glenwoodbb.ca/",
+                "ADD_DATE": "20101109",
+                "MOD_DATE": "20101109"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8427272988986,
+                    43.2450047345869,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Heritage House 1914",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Heritage House 1914</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>202 St. Clair Boulevard, Hamilton, ON   </td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-549-5247</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.bedbreakfasthome.com/heritagehouse1914bedandbreakfast/</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20101109</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20121220</td>\n</tr></table></center>",
+                "NAME": "Heritage House 1914",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "202 St. Clair Boulevard, Hamilton, ON   ",
+                "PHONE": "905-549-5247",
+                "URL": "http://www.bedbreakfasthome.com/heritagehouse1914bedandbreakfast/",
+                "ADD_DATE": "20101109",
+                "MOD_DATE": "20121220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9160371058779,
+                    43.1539828406188,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Homestead House",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Homestead House</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>3272 Homestead Drive, Mount Hope, ON   </td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-679-2581</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>905-639-4860</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.bbcanada.com/homesteadhouse</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20101109</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20101109</td>\n</tr></table></center>",
+                "NAME": "Homestead House",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "3272 Homestead Drive, Mount Hope, ON   ",
+                "PHONE": "905-679-2581",
+                "FAX": "905-639-4860",
+                "URL": "http://www.bbcanada.com/homesteadhouse",
+                "ADD_DATE": "20101109",
+                "MOD_DATE": "20101109"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8759506322758,
+                    43.249458619362,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ivy Manor",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Ivy Manor</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>272 Park Street South, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-521-0925</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>905-521-1555</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.bedbreakfasthome.com/ivymanor1710/?from=listing</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20101109</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20121220</td>\n</tr></table></center>",
+                "NAME": "Ivy Manor",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "272 Park Street South, Hamilton, ON",
+                "PHONE": "905-521-0925",
+                "FAX": "905-521-1555",
+                "URL": "http://www.bedbreakfasthome.com/ivymanor1710/?from=listing",
+                "ADD_DATE": "20101109",
+                "MOD_DATE": "20121220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9129487131922,
+                    43.1298773351694,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Log Inn",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Log Inn</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>8211 Chippewa Road East, Mount Hope, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-679-1876</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>905-679-0431</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.loginnbb.ca/loginne.htm</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20101109</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20121220</td>\n</tr></table></center>",
+                "NAME": "Log Inn",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "8211 Chippewa Road East, Mount Hope, ON",
+                "PHONE": "905-679-1876",
+                "FAX": "905-679-0431",
+                "URL": "http://www.loginnbb.ca/loginne.htm",
+                "ADD_DATE": "20101109",
+                "MOD_DATE": "20121220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8479007801293,
+                    43.2414904636509,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rose Arden",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Rose Arden</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>266 Mountain Park Avenue, Hamilton, ON </td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-387-2000</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.rosearden.com/</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20101109</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20121220</td>\n</tr></table></center>",
+                "NAME": "Rose Arden",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "266 Mountain Park Avenue, Hamilton, ON ",
+                "PHONE": "905-387-2000",
+                "URL": "http://www.rosearden.com/",
+                "ADD_DATE": "20101109",
+                "MOD_DATE": "20121220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8756990273383,
+                    43.2488068172853,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rutherford House",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Rutherford House</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>293 Park Street South, Hamilton, ON </td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-525-2422</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>905-525-5236</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.rutherfordbb.com/</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20101109</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20121220</td>\n</tr></table></center>",
+                "NAME": "Rutherford House",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "293 Park Street South, Hamilton, ON ",
+                "PHONE": "905-525-2422",
+                "FAX": "905-525-5236",
+                "URL": "http://www.rutherfordbb.com/",
+                "ADD_DATE": "20101109",
+                "MOD_DATE": "20121220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.840541246446,
+                    43.2188233645977,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sadwick's Place",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Sadwick's Place</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>725 Mohawk Road East, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-383-2783</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.bbcanada.com/1137.html</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20101109</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20101109</td>\n</tr></table></center>",
+                "NAME": "Sadwick's Place",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "725 Mohawk Road East, Hamilton, ON",
+                "PHONE": "905-383-2783",
+                "URL": "http://www.bbcanada.com/1137.html",
+                "ADD_DATE": "20101109",
+                "MOD_DATE": "20101109"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0015300117176,
+                    43.2095386391478,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tranquility Base",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Tranquility Base</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>110 Abbey Close, Ancaster, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-648-1506</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>905-648-9104</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.tranquilitybase.on.ca</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20101109</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20121220</td>\n</tr></table></center>",
+                "NAME": "Tranquility Base",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "110 Abbey Close, Ancaster, ON",
+                "PHONE": "905-648-1506",
+                "FAX": "905-648-9104",
+                "URL": "http://www.tranquilitybase.on.ca",
+                "ADD_DATE": "20101109",
+                "MOD_DATE": "20121220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.866814319454,
+                    43.2649564648067,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "MacNab Terrace Guest House",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>MacNab Terrace Guest House</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>256-258 MacNab Street North, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-572-7878</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>905-572-9625</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.macnabterrace.ca</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20101109</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20101109</td>\n</tr></table></center>",
+                "NAME": "MacNab Terrace Guest House",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "256-258 MacNab Street North, Hamilton, ON",
+                "PHONE": "905-572-7878",
+                "FAX": "905-572-9625",
+                "URL": "http://www.macnabterrace.ca",
+                "ADD_DATE": "20101109",
+                "MOD_DATE": "20101109"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.866624767946,
+                    43.2627153663476,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "An Architect's Guest House",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>An Architect's Guest House</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>237 1/2 James Street North, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-870-9671</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://anarchitectsguesthouse.ca/index.html</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20110118</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20121221</td>\n</tr></table></center>",
+                "NAME": "An Architect's Guest House",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "237 1/2 James Street North, Hamilton, ON",
+                "PHONE": "905-870-9671",
+                "URL": "http://anarchitectsguesthouse.ca/index.html",
+                "ADD_DATE": "20110118",
+                "MOD_DATE": "20121221"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9827284728233,
+                    43.2006428759116,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Fiddler's Inn",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>The Fiddler's Inn</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>558 Fiddler's Green Road, Ancaster, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-648-0045</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>905-648-0330</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.bedbreakfasthome.com/thefiddlersinn/</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20101109</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20121220</td>\n</tr></table></center>",
+                "NAME": "The Fiddler's Inn",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "558 Fiddler's Green Road, Ancaster, ON",
+                "PHONE": "905-648-0045",
+                "FAX": "905-648-0330",
+                "URL": "http://www.bedbreakfasthome.com/thefiddlersinn/",
+                "ADD_DATE": "20101109",
+                "MOD_DATE": "20121220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8927161705288,
+                    43.2153871312526,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cottage in the City",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Cottage in the City</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>918 West 5th Street, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-389-5067</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.bbcanada.com/8212.html</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20101109</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20101109</td>\n</tr></table></center>",
+                "NAME": "Cottage in the City",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "918 West 5th Street, Hamilton, ON",
+                "PHONE": "905-389-5067",
+                "URL": "http://www.bbcanada.com/8212.html",
+                "ADD_DATE": "20101109",
+                "MOD_DATE": "20101109"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8672734128912,
+                    43.2697723161256,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mulberry House Suites",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Mulberry House Suites</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>78 Ferrie Street West, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-518-1493</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.mulberryhouse.ca/</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20101109</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20110117</td>\n</tr></table></center>",
+                "NAME": "Mulberry House Suites",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "78 Ferrie Street West, Hamilton, ON",
+                "PHONE": "905-518-1493",
+                "URL": "http://www.mulberryhouse.ca/",
+                "ADD_DATE": "20101109",
+                "MOD_DATE": "20110117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9484511451858,
+                    43.2608788588267,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Osler House",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Osler House</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>30 South Street West, Dundas, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>289-238-9278</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.oslerhouse.com/</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20101109</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20101109</td>\n</tr></table></center>",
+                "NAME": "Osler House",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "30 South Street West, Dundas, ON",
+                "PHONE": "289-238-9278",
+                "URL": "http://www.oslerhouse.com/",
+                "ADD_DATE": "20101109",
+                "MOD_DATE": "20101109"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0111148150002,
+                    43.1823308316492,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ridgemoor",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Ridgemoor</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>902 Shaver Road, Ancaster, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-648-0116</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.ridgemoor.ca/</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20101109</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20121220</td>\n</tr></table></center>",
+                "NAME": "Ridgemoor",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "902 Shaver Road, Ancaster, ON",
+                "PHONE": "905-648-0116",
+                "URL": "http://www.ridgemoor.ca/",
+                "ADD_DATE": "20101109",
+                "MOD_DATE": "20121220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0643243675962,
+                    43.1883284852306,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Serenity Ranch",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Serenity Ranch</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>2171 Wilson Street West, Jerseyville, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>289-346-0278</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.serenityranchbb.com/</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20101109</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20121220</td>\n</tr></table></center>",
+                "NAME": "Serenity Ranch",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "2171 Wilson Street West, Jerseyville, ON",
+                "PHONE": "289-346-0278",
+                "URL": "http://www.serenityranchbb.com/",
+                "ADD_DATE": "20101109",
+                "MOD_DATE": "20121220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0052659144561,
+                    43.20902938546,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Meadows",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>The Meadows</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>58 Galley Road, Ancaster, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-648-6853</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.bbcanada.com/10178.html</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20101109</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20121220</td>\n</tr></table></center>",
+                "NAME": "The Meadows",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "58 Galley Road, Ancaster, ON",
+                "PHONE": "905-648-6853",
+                "URL": "http://www.bbcanada.com/10178.html",
+                "ADD_DATE": "20101109",
+                "MOD_DATE": "20121220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0006591701975,
+                    43.1520158368426,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Shaver's",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>The Shaver's</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>1868 Shaver Road, Ancaster, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-648-3326</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.theshaversbnb.ca/</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20101109</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20121220</td>\n</tr></table></center>",
+                "NAME": "The Shaver's",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "1868 Shaver Road, Ancaster, ON",
+                "PHONE": "905-648-3326",
+                "URL": "http://www.theshaversbnb.ca/",
+                "ADD_DATE": "20101109",
+                "MOD_DATE": "20121220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.179716782481,
+                    43.2742447211676,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Weekswood Farm",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Weekswood Farm</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>585 Hunter Road, Troy, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>519-647-3343</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>519-647-3343</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.bnbstar.ca/id_351686.html</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20101109</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20121220</td>\n</tr></table></center>",
+                "NAME": "Weekswood Farm",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "585 Hunter Road, Troy, ON",
+                "PHONE": "519-647-3343",
+                "FAX": "519-647-3343",
+                "URL": "http://www.bnbstar.ca/id_351686.html",
+                "ADD_DATE": "20101109",
+                "MOD_DATE": "20121220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6336400862954,
+                    43.2051235925475,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Caboose One",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Caboose One</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>1468 Highway No. 8, Winona, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-643-1015</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://tourismhamilton.com/events/viewPartner.php?partnerID=109736&refer=stay</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20110118</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20121221</td>\n</tr></table></center>",
+                "NAME": "Caboose One",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "1468 Highway No. 8, Winona, ON",
+                "PHONE": "905-643-1015",
+                "URL": "http://tourismhamilton.com/events/viewPartner.php?partnerID=109736&refer=stay",
+                "ADD_DATE": "20110118",
+                "MOD_DATE": "20121221"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0875781273402,
+                    43.2408559148361,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Maple Acres Retreat",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Maple Acres Retreat</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>35 Orkney Road, Lynden, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-617-6700</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>905-921-3481</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://lodging.worldweb.com/4-211305-Maple_Acres_Retreat_Lynden.html</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20110118</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20130612</td>\n</tr></table></center>",
+                "NAME": "Maple Acres Retreat",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "35 Orkney Road, Lynden, ON",
+                "PHONE": "905-617-6700",
+                "FAX": "905-921-3481",
+                "URL": "http://lodging.worldweb.com/4-211305-Maple_Acres_Retreat_Lynden.html",
+                "ADD_DATE": "20110118",
+                "MOD_DATE": "20130612"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9555777891615,
+                    43.2681204844525,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Homestead 1867",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>The Homestead 1867</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>BED AND BREAKFAST</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>36 Melville Street, Dundas, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>289-238-8720</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.thehomestead1867.ca/</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20110118</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20130612</td>\n</tr></table></center>",
+                "NAME": "The Homestead 1867",
+                "TYPE": "BED AND BREAKFAST",
+                "LOCATION": "36 Melville Street, Dundas, ON",
+                "PHONE": "289-238-8720",
+                "URL": "http://www.thehomestead1867.ca/",
+                "ADD_DATE": "20110118",
+                "MOD_DATE": "20130612"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8894001929318,
+                    43.2401187521304,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mohawk Residence & Conference Centre - Hamilton",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Mohawk Residence & Conference Centre - Hamilton</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>CAMPUS</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>245 Fennell Avenue West, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-385-3200</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>905-385-2170</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.stayrcc.com/hamilton/</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20101104</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20110328</td>\n</tr></table></center>",
+                "NAME": "Mohawk Residence & Conference Centre - Hamilton",
+                "TYPE": "CAMPUS",
+                "LOCATION": "245 Fennell Avenue West, Hamilton, ON",
+                "PHONE": "905-385-3200",
+                "FAX": "905-385-2170",
+                "URL": "http://www.stayrcc.com/hamilton/",
+                "ADD_DATE": "20101104",
+                "MOD_DATE": "20110328"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9228553834144,
+                    43.2627628299071,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "McMaster Housing and Conference Services",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>McMaster Housing and Conference Services</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>CAMPUS</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>1280 Main Street West, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-525-9140 X 24781</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>905-524-2611</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://housing.mcmaster.ca/index.php</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20101104</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20130612</td>\n</tr></table></center>",
+                "NAME": "McMaster Housing and Conference Services",
+                "TYPE": "CAMPUS",
+                "LOCATION": "1280 Main Street West, Hamilton, ON",
+                "PHONE": "905-525-9140 X 24781",
+                "FAX": "905-524-2611",
+                "URL": "http://housing.mcmaster.ca/index.php",
+                "ADD_DATE": "20101104",
+                "MOD_DATE": "20130612"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9489868815158,
+                    43.2085605328125,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Redeemer Conference Accomodations",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Redeemer Conference Accomodations</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>CAMPUS</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>777 Garner Road East, Ancaster, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-648-2131 ext4124</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.redeemer.ca/about/campusServices/conferenceServices/ConferenceAccommodations.aspx</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20110113</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20121220</td>\n</tr></table></center>",
+                "NAME": "Redeemer Conference Accomodations",
+                "TYPE": "CAMPUS",
+                "LOCATION": "777 Garner Road East, Ancaster, ON",
+                "PHONE": "905-648-2131 ext4124",
+                "URL": "http://www.redeemer.ca/about/campusServices/conferenceServices/ConferenceAccommodations.aspx",
+                "ADD_DATE": "20110113",
+                "MOD_DATE": "20121220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.822678229945,
+                    43.1943209955993,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Best Western Premier C Hotel by Carmen's",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Best Western Premier C Hotel by Carmen's</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>HOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>1530 Stone Church Road East, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-381-9898</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>905-381-9888</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://bestwesternontario.com/hotels/best-western-premier-c-hotel-by-carmens</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20111116</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20121221</td>\n</tr></table></center>",
+                "NAME": "Best Western Premier C Hotel by Carmen's",
+                "TYPE": "HOTEL",
+                "LOCATION": "1530 Stone Church Road East, Hamilton, ON",
+                "PHONE": "905-381-9898",
+                "FAX": "905-381-9888",
+                "URL": "http://bestwesternontario.com/hotels/best-western-premier-c-hotel-by-carmens",
+                "ADD_DATE": "20111116",
+                "MOD_DATE": "20121221"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8762525926858,
+                    43.2580063229381,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Staybridge Suites Hamilton - Downtown",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Staybridge Suites Hamilton - Downtown</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>HOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>20 Caroline Street South, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-527-1001</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.staybridge.com/hotels/us/en/hamilton/yhmha/hoteldetail?dp=true</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20130402</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20130402</td>\n</tr></table></center>",
+                "NAME": "Staybridge Suites Hamilton - Downtown",
+                "TYPE": "HOTEL",
+                "LOCATION": "20 Caroline Street South, Hamilton, ON",
+                "PHONE": "905-527-1001",
+                "URL": "http://www.staybridge.com/hotels/us/en/hamilton/yhmha/hoteldetail?dp=true",
+                "ADD_DATE": "20130402",
+                "MOD_DATE": "20130402"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8889247189398,
+                    43.2154931502368,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Courtyard Hamilton Marriott",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Courtyard Hamilton Marriott</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>HOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>1224 Upper James Street, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-383-7772</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>905-383-7895</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.marriott.com/hotels/travel/yhmcy-courtyard-hamilton/</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20101104</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20110328</td>\n</tr></table></center>",
+                "NAME": "Courtyard Hamilton Marriott",
+                "TYPE": "HOTEL",
+                "LOCATION": "1224 Upper James Street, Hamilton, ON",
+                "PHONE": "905-383-7772",
+                "FAX": "905-383-7895",
+                "URL": "http://www.marriott.com/hotels/travel/yhmcy-courtyard-hamilton/",
+                "ADD_DATE": "20101104",
+                "MOD_DATE": "20110328"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8614487929068,
+                    43.2529443817814,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Days Inn Hamilton",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Days Inn Hamilton</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>HOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>210 Main Street East, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-528-3297</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>905-528-0101</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.hamiltondaysinn.com/</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20101104</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20121217</td>\n</tr></table></center>",
+                "NAME": "Days Inn Hamilton",
+                "TYPE": "HOTEL",
+                "LOCATION": "210 Main Street East, Hamilton, ON",
+                "PHONE": "905-528-3297",
+                "FAX": "905-528-0101",
+                "URL": "http://www.hamiltondaysinn.com/",
+                "ADD_DATE": "20101104",
+                "MOD_DATE": "20121217"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8859519801003,
+                    43.2675448276802,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Admiral Inn Hamilton",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Admiral Inn Hamilton</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>HOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>149 Dundurn Street North, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-529-2311</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>905-529-9100</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.admiralinnhamilton.com/</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20101104</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20110328</td>\n</tr></table></center>",
+                "NAME": "Admiral Inn Hamilton",
+                "TYPE": "HOTEL",
+                "LOCATION": "149 Dundurn Street North, Hamilton, ON",
+                "PHONE": "905-529-2311",
+                "FAX": "905-529-9100",
+                "URL": "http://www.admiralinnhamilton.com/",
+                "ADD_DATE": "20101104",
+                "MOD_DATE": "20110328"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7620837502329,
+                    43.2349568760838,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Comfort Inn",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Comfort Inn</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>HOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>183 Centennial Parkway North, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-560-4500</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>905-560-6223</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.choicehotels.ca/hotels/hotel?hotel=CN268</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20101104</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20121217</td>\n</tr></table></center>",
+                "NAME": "Comfort Inn",
+                "TYPE": "HOTEL",
+                "LOCATION": "183 Centennial Parkway North, Hamilton, ON",
+                "PHONE": "905-560-4500",
+                "FAX": "905-560-6223",
+                "URL": "http://www.choicehotels.ca/hotels/hotel?hotel=CN268",
+                "ADD_DATE": "20101104",
+                "MOD_DATE": "20121217"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8865018382316,
+                    43.2161094335344,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Howard Johnson Hamilton",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Howard Johnson Hamilton</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>HOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>1187 Upper James Street, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-575-9666</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>905-575-1098</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.hojo.com/HowardJohnson/control/Booking/property_info?propertyId=32482</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20101104</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20110328</td>\n</tr></table></center>",
+                "NAME": "Howard Johnson Hamilton",
+                "TYPE": "HOTEL",
+                "LOCATION": "1187 Upper James Street, Hamilton, ON",
+                "PHONE": "905-575-9666",
+                "FAX": "905-575-1098",
+                "URL": "http://www.hojo.com/HowardJohnson/control/Booking/property_info?propertyId=32482",
+                "ADD_DATE": "20101104",
+                "MOD_DATE": "20110328"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7592802376952,
+                    43.2443227989428,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Holiday Inn Express Hamilton/Stoney Creek ",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Holiday Inn Express Hamilton/Stoney Creek </td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>HOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>51 Keefer Court, Stoney Creek, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-578-1212</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>905-578-6468</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.ichotelsgroup.com/h/d/ex/1/en/hd/yhmex?irs=null</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20101104</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20130612</td>\n</tr></table></center>",
+                "NAME": "Holiday Inn Express Hamilton/Stoney Creek ",
+                "TYPE": "HOTEL",
+                "LOCATION": "51 Keefer Court, Stoney Creek, ON",
+                "PHONE": "905-578-1212",
+                "FAX": "905-578-6468",
+                "URL": "http://www.ichotelsgroup.com/h/d/ex/1/en/hd/yhmex?irs=null",
+                "ADD_DATE": "20101104",
+                "MOD_DATE": "20130612"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8645284798053,
+                    43.2548540344672,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Crowne Plaza Hotel",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Crowne Plaza Hotel</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>HOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>150 King Street East, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-528-3451</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>905-522-2281</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.cphamilton.com/</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20101104</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20121217</td>\n</tr></table></center>",
+                "NAME": "Crowne Plaza Hotel",
+                "TYPE": "HOTEL",
+                "LOCATION": "150 King Street East, Hamilton, ON",
+                "PHONE": "905-528-3451",
+                "FAX": "905-522-2281",
+                "URL": "http://www.cphamilton.com/",
+                "ADD_DATE": "20101104",
+                "MOD_DATE": "20121217"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8720637197939,
+                    43.2579655137197,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sheraton Hamilton Hotel",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Sheraton Hamilton Hotel</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>HOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>116 King Street West, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-529-5515</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>905-529-8266\r\n</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.starwoodhotels.com/sheraton/property/overview/index.html?propertyID=185</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20101104</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20110328</td>\n</tr></table></center>",
+                "NAME": "Sheraton Hamilton Hotel",
+                "TYPE": "HOTEL",
+                "LOCATION": "116 King Street West, Hamilton, ON",
+                "PHONE": "905-529-5515",
+                "FAX": "905-529-8266\r\n",
+                "URL": "http://www.starwoodhotels.com/sheraton/property/overview/index.html?propertyID=185",
+                "ADD_DATE": "20101104",
+                "MOD_DATE": "20110328"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8966373292126,
+                    43.2599858125986,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Visitors Inn Hotel",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Visitors Inn Hotel</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>HOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>649 Main Street West, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-529-6979</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>905-529-6979</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.visitorsinn.com/</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20101104</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20121217</td>\n</tr></table></center>",
+                "NAME": "Visitors Inn Hotel",
+                "TYPE": "HOTEL",
+                "LOCATION": "649 Main Street West, Hamilton, ON",
+                "PHONE": "905-529-6979",
+                "FAX": "905-529-6979",
+                "URL": "http://www.visitorsinn.com/",
+                "ADD_DATE": "20101104",
+                "MOD_DATE": "20121217"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8770330138772,
+                    43.2568790409006,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Arrival Inn",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Arrival Inn</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>HOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>175 Main Street West, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-528-0611</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>905-528-1130</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.arrivalinn.com/</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20101104</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20130612</td>\n</tr></table></center>",
+                "NAME": "Arrival Inn",
+                "TYPE": "HOTEL",
+                "LOCATION": "175 Main Street West, Hamilton, ON",
+                "PHONE": "905-528-0611",
+                "FAX": "905-528-1130",
+                "URL": "http://www.arrivalinn.com/",
+                "ADD_DATE": "20101104",
+                "MOD_DATE": "20130612"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9106668745207,
+                    43.1619028015413,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Super 8 Mount Hope",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Super 8 Mount Hope</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>HOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>2975 Homestead Drive, Mount Hope, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-679-3355</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAX</th>\n<td>905-679-5109</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.super8.com/hotels/ontario/mount-hope/super8-mt-hope-hamilton-intl-arpt-on/hotel-overview?partner_id=&hotel_id=08259</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20101104</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20130612</td>\n</tr></table></center>",
+                "NAME": "Super 8 Mount Hope",
+                "TYPE": "HOTEL",
+                "LOCATION": "2975 Homestead Drive, Mount Hope, ON",
+                "PHONE": "905-679-3355",
+                "FAX": "905-679-5109",
+                "URL": "http://www.super8.com/hotels/ontario/mount-hope/super8-mt-hope-hamilton-intl-arpt-on/hotel-overview?partner_id=&hotel_id=08259",
+                "ADD_DATE": "20101104",
+                "MOD_DATE": "20130612"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.845871245062,
+                    43.2520047018842,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Budget Inn Hamilton",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Budget Inn Hamilton</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>HOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>737 King Street East, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-527-2708</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.budgetinnhamilton.com/</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20110113</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20130612</td>\n</tr></table></center>",
+                "NAME": "Budget Inn Hamilton",
+                "TYPE": "HOTEL",
+                "LOCATION": "737 King Street East, Hamilton, ON",
+                "PHONE": "905-527-2708",
+                "URL": "http://www.budgetinnhamilton.com/",
+                "ADD_DATE": "20110113",
+                "MOD_DATE": "20130612"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9408130343988,
+                    43.251193459366,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hamilton Inn",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Hamilton Inn</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>MOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>1870 Main Street West, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-528-8383</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.hamiltoninn.ca/index.html</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20110113</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20121220</td>\n</tr></table></center>",
+                "NAME": "Hamilton Inn",
+                "TYPE": "MOTEL",
+                "LOCATION": "1870 Main Street West, Hamilton, ON",
+                "PHONE": "905-528-8383",
+                "URL": "http://www.hamiltoninn.ca/index.html",
+                "ADD_DATE": "20110113",
+                "MOD_DATE": "20121220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7804108559813,
+                    43.273705719447,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beach Motor Inn",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Beach Motor Inn</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>MOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>400 Beach Boulevard, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-547-8906</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.yellowpages.ca/bus/Ontario/Hamilton/Beach-Motor-Inn-Motel/167831.html?what=motels+and+inns&where=Hamilton%2C+ON&le=cd13c6d21a%7C1379edcb21a</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20110113</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20121220</td>\n</tr></table></center>",
+                "NAME": "Beach Motor Inn",
+                "TYPE": "MOTEL",
+                "LOCATION": "400 Beach Boulevard, Hamilton, ON",
+                "PHONE": "905-547-8906",
+                "URL": "http://www.yellowpages.ca/bus/Ontario/Hamilton/Beach-Motor-Inn-Motel/167831.html?what=motels+and+inns&where=Hamilton%2C+ON&le=cd13c6d21a%7C1379edcb21a",
+                "ADD_DATE": "20110113",
+                "MOD_DATE": "20121220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7776276175516,
+                    43.231389858579,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Red Rose",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Red Rose</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>MOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>553 Queenston Road, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-560-7060</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.yellowpages.ca/bus/Ontario/Hamilton/Red-Rose-Motel/5982867.html?what=motels+and+inns&where=Hamilton%2C+ON&le=9ed6979b5a</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20110113</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20121220</td>\n</tr></table></center>",
+                "NAME": "Red Rose",
+                "TYPE": "MOTEL",
+                "LOCATION": "553 Queenston Road, Hamilton, ON",
+                "PHONE": "905-560-7060",
+                "URL": "http://www.yellowpages.ca/bus/Ontario/Hamilton/Red-Rose-Motel/5982867.html?what=motels+and+inns&where=Hamilton%2C+ON&le=9ed6979b5a",
+                "ADD_DATE": "20110113",
+                "MOD_DATE": "20121220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7588738050684,
+                    43.2420176281435,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pines",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Pines</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>MOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>395 Centennial Parkway North, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-561-5652</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.yellowpages.ca/bus/Ontario/Hamilton/Pines-Motel/2669659.html</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20110113</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20121220</td>\n</tr></table></center>",
+                "NAME": "Pines",
+                "TYPE": "MOTEL",
+                "LOCATION": "395 Centennial Parkway North, Hamilton, ON",
+                "PHONE": "905-561-5652",
+                "URL": "http://www.yellowpages.ca/bus/Ontario/Hamilton/Pines-Motel/2669659.html",
+                "ADD_DATE": "20110113",
+                "MOD_DATE": "20121220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0168193672563,
+                    43.2000104991227,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Motel California",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Motel California</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>MOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>1075 Wilson Street West, Ancaster, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-648-1821</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.yellowpages.ca/bus/Ontario/Ancaster/Motel-California/1089087.html</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20110114</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20121221</td>\n</tr></table></center>",
+                "NAME": "Motel California",
+                "TYPE": "MOTEL",
+                "LOCATION": "1075 Wilson Street West, Ancaster, ON",
+                "PHONE": "905-648-1821",
+                "URL": "http://www.yellowpages.ca/bus/Ontario/Ancaster/Motel-California/1089087.html",
+                "ADD_DATE": "20110114",
+                "MOD_DATE": "20121221"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0215216852992,
+                    43.1972436898355,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Maple Farm",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Maple Farm</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>MOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>1185 Wilson Street West, Ancaster, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-648-4466</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.profilecanada.com/companydetail.cfm?company=2344745_Maple_Farms_Motel_Ancaster_ON</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20110114</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20121221</td>\n</tr></table></center>",
+                "NAME": "Maple Farm",
+                "TYPE": "MOTEL",
+                "LOCATION": "1185 Wilson Street West, Ancaster, ON",
+                "PHONE": "905-648-4466",
+                "URL": "http://www.profilecanada.com/companydetail.cfm?company=2344745_Maple_Farms_Motel_Ancaster_ON",
+                "ADD_DATE": "20110114",
+                "MOD_DATE": "20121221"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0859823295334,
+                    43.1803627432476,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pleasant Stay",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Pleasant Stay</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>MOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>2692 Wilson Street West, Ancaster, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-648-2728</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.booking.com/hotel/ca/pleasant-stay-motel.en.html?aid=311088;label=pleasant-stay-motel-uCL57VDo2lE3owmO1lT*ZAS12873663723:pl:ta:p1:p2:ac:ap1t1:neg;ws=&gclid=CJnR5LHYq7QCFcU-MgodfjcAow</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20110114</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20121221</td>\n</tr></table></center>",
+                "NAME": "Pleasant Stay",
+                "TYPE": "MOTEL",
+                "LOCATION": "2692 Wilson Street West, Ancaster, ON",
+                "PHONE": "905-648-2728",
+                "URL": "http://www.booking.com/hotel/ca/pleasant-stay-motel.en.html?aid=311088;label=pleasant-stay-motel-uCL57VDo2lE3owmO1lT*ZAS12873663723:pl:ta:p1:p2:ac:ap1t1:neg;ws=&gclid=CJnR5LHYq7QCFcU-MgodfjcAow",
+                "ADD_DATE": "20110114",
+                "MOD_DATE": "20121221"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7356339423144,
+                    43.2209258518088,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stoney Creek",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Stoney Creek</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>MOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>254 Highway No. 8, Stoney Creek, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-662-8844</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.stoneycreekmotel.ca/</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20110114</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20121221</td>\n</tr></table></center>",
+                "NAME": "Stoney Creek",
+                "TYPE": "MOTEL",
+                "LOCATION": "254 Highway No. 8, Stoney Creek, ON",
+                "PHONE": "905-662-8844",
+                "URL": "http://www.stoneycreekmotel.ca/",
+                "ADD_DATE": "20110114",
+                "MOD_DATE": "20121221"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7000622984183,
+                    43.212824056341,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fruitland",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fruitland</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>MOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>687 Highway No. 8, Stoney Creek, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-643-2931</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://lodging.worldweb.com/4-184801-Fruitland_Motel.html</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20110114</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20121221</td>\n</tr></table></center>",
+                "NAME": "Fruitland",
+                "TYPE": "MOTEL",
+                "LOCATION": "687 Highway No. 8, Stoney Creek, ON",
+                "PHONE": "905-643-2931",
+                "URL": "http://lodging.worldweb.com/4-184801-Fruitland_Motel.html",
+                "ADD_DATE": "20110114",
+                "MOD_DATE": "20121221"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9002332758841,
+                    43.3276313523588,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Waterdown",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Waterdown</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>MOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>219 Highway No. 5 East, Waterdown, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-689-5278</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.staycanada.ca/17877-waterdown_motel_waterdown/</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20110114</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20121221</td>\n</tr></table></center>",
+                "NAME": "Waterdown",
+                "TYPE": "MOTEL",
+                "LOCATION": "219 Highway No. 5 East, Waterdown, ON",
+                "PHONE": "905-689-5278",
+                "URL": "http://www.staycanada.ca/17877-waterdown_motel_waterdown/",
+                "ADD_DATE": "20110114",
+                "MOD_DATE": "20121221"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7142853326871,
+                    43.2367418844792,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lake Trail",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Lake Trail</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>MOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>423 North Service Road, Stoney Creek, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-662-1599</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.yellowpages.ca/bus/Ontario/Stoney-Creek/Lake-Trail-Motel/4393132.html</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20110114</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20121221</td>\n</tr></table></center>",
+                "NAME": "Lake Trail",
+                "TYPE": "MOTEL",
+                "LOCATION": "423 North Service Road, Stoney Creek, ON",
+                "PHONE": "905-662-1599",
+                "URL": "http://www.yellowpages.ca/bus/Ontario/Stoney-Creek/Lake-Trail-Motel/4393132.html",
+                "ADD_DATE": "20110114",
+                "MOD_DATE": "20121221"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9236746905734,
+                    43.3064604873934,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Escarpment Motor Inn",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Escarpment Motor Inn</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>MOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>76 Highway No. 5 West, Waterdown, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-689-6969</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.yellowpages.ca/bus/Ontario/Waterdown/Escarpment-Motor-Inn/6666871.html</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20110114</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20121221</td>\n</tr></table></center>",
+                "NAME": "Escarpment Motor Inn",
+                "TYPE": "MOTEL",
+                "LOCATION": "76 Highway No. 5 West, Waterdown, ON",
+                "PHONE": "905-689-6969",
+                "URL": "http://www.yellowpages.ca/bus/Ontario/Waterdown/Escarpment-Motor-Inn/6666871.html",
+                "ADD_DATE": "20110114",
+                "MOD_DATE": "20121221"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8002723880136,
+                    43.2371174427466,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "City Motor Inn",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>City Motor Inn</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>MOTEL</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>55 Queenston Road, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-549-1371</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.yellowpages.ca/bus/Ontario/Hamilton/City-Motor-Inn/8097439.html</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20110114</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20121221</td>\n</tr></table></center>",
+                "NAME": "City Motor Inn",
+                "TYPE": "MOTEL",
+                "LOCATION": "55 Queenston Road, Hamilton, ON",
+                "PHONE": "905-549-1371",
+                "URL": "http://www.yellowpages.ca/bus/Ontario/Hamilton/City-Motor-Inn/8097439.html",
+                "ADD_DATE": "20110114",
+                "MOD_DATE": "20121221"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8618485182148,
+                    43.259609905952,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hamilton Guesthouse",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Hamilton Guesthouse</td>\n</tr><tr bgcolor=\"\">\n<th>TYPE</th>\n<td>OTHER</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LOCATION</th>\n<td>158 Mary Street, Hamilton, ON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>289-396-1659</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>URL</th>\n<td>http://www.hamiltonguesthouse.info/</td>\n</tr><tr bgcolor=\"\">\n<th>ADD_DATE</th>\n<td>20130612</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>MOD_DATE</th>\n<td>20130612</td>\n</tr></table></center>",
+                "NAME": "Hamilton Guesthouse",
+                "TYPE": "OTHER",
+                "LOCATION": "158 Mary Street, Hamilton, ON",
+                "PHONE": "289-396-1659",
+                "URL": "http://www.hamiltonguesthouse.info/",
+                "ADD_DATE": "20130612",
+                "MOD_DATE": "20130612"
+            }
+        }
+    ]
+}

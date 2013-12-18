@@ -1,0 +1,530 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.817125562186,
+                    43.2094725486725,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mohawk 4 Ice Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Mohawk 4 Ice Centre</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>710 Mountain Brow Boulevard</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-318-5111</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20070815</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20080620</td>\n</tr></table></center>",
+                "NAME": "Mohawk 4 Ice Centre",
+                "ADDRESS": "710 Mountain Brow Boulevard",
+                "COMMUNITY": "Hamilton",
+                "PHONE": "905-318-5111",
+                "ADD_DATE": "20070815",
+                "MOD_DATE": "20080620"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1113269820537,
+                    43.2985097579411,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beverly Arena",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Beverly Arena</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>680 Highway 8</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Flamborough</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>519-647-2722</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20070815</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20131212</td>\n</tr></table></center>",
+                "NAME": "Beverly Arena",
+                "ADDRESS": "680 Highway 8",
+                "COMMUNITY": "Flamborough",
+                "PHONE": "519-647-2722",
+                "ADD_DATE": "20070815",
+                "MOD_DATE": "20131212"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9813199613665,
+                    43.3967784957488,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Carlisle Arena",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Carlisle Arena</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>1496 Centre Road</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Flamborough</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-689-7283</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20070815</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20131212</td>\n</tr></table></center>",
+                "NAME": "Carlisle Arena",
+                "ADDRESS": "1496 Centre Road",
+                "COMMUNITY": "Flamborough",
+                "PHONE": "905-689-7283",
+                "ADD_DATE": "20070815",
+                "MOD_DATE": "20131212"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9205994310691,
+                    43.238669620889,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chedoke Twin Pad Arena",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Chedoke Twin Pad Arena</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>91 Chedmac Drive</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-546-2429</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20070815</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20131212</td>\n</tr></table></center>",
+                "NAME": "Chedoke Twin Pad Arena",
+                "ADDRESS": "91 Chedmac Drive",
+                "COMMUNITY": "Hamilton",
+                "PHONE": "905-546-2429",
+                "ADD_DATE": "20070815",
+                "MOD_DATE": "20131212"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8721996657143,
+                    43.2591379168877,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Copps Coliseum",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Copps Coliseum</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>101 York Boulevard</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-546-3100</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20070815</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20110307</td>\n</tr></table></center>",
+                "NAME": "Copps Coliseum",
+                "ADDRESS": "101 York Boulevard",
+                "COMMUNITY": "Hamilton",
+                "PHONE": "905-546-3100",
+                "ADD_DATE": "20070815",
+                "MOD_DATE": "20110307"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8962604750285,
+                    43.2646441217284,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Coronation Arena",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Coronation Arena</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>81 Macklin Street North</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-546-3109</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20070815</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20131212</td>\n</tr></table></center>",
+                "NAME": "Coronation Arena",
+                "ADDRESS": "81 Macklin Street North",
+                "COMMUNITY": "Hamilton",
+                "PHONE": "905-546-3109",
+                "ADD_DATE": "20070815",
+                "MOD_DATE": "20131212"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8563297984946,
+                    43.272418850382,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Eastwood Arena",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Eastwood Arena</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>111 Burlington Street East</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-546-3152</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20070815</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20131212</td>\n</tr></table></center>",
+                "NAME": "Eastwood Arena",
+                "ADDRESS": "111 Burlington Street East",
+                "COMMUNITY": "Hamilton",
+                "PHONE": "905-546-3152",
+                "ADD_DATE": "20070815",
+                "MOD_DATE": "20131212"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8387049819343,
+                    43.1300300295569,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Glanbrook Arena",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Glanbrook Arena</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>4300 Binbrook Road</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Glanbrook</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-692-9331</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20070815</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20110307</td>\n</tr></table></center>",
+                "NAME": "Glanbrook Arena",
+                "ADDRESS": "4300 Binbrook Road",
+                "COMMUNITY": "Glanbrook",
+                "PHONE": "905-692-9331",
+                "ADD_DATE": "20070815",
+                "MOD_DATE": "20110307"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7824945523085,
+                    43.2445813717615,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hamilton Doublerink Arena",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Hamilton Doublerink Arena</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>1911 Barton Street East</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-545-5894</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20070815</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20110307</td>\n</tr></table></center>",
+                "NAME": "Hamilton Doublerink Arena",
+                "ADDRESS": "1911 Barton Street East",
+                "COMMUNITY": "Hamilton",
+                "PHONE": "905-545-5894",
+                "ADD_DATE": "20070815",
+                "MOD_DATE": "20110307"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8595960405578,
+                    43.2370651664542,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Inch Park Arena",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Inch Park Arena</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>400 Queensdale Avenue East</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-546-4922</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20070815</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20090602</td>\n</tr></table></center>",
+                "NAME": "Inch Park Arena",
+                "ADDRESS": "400 Queensdale Avenue East",
+                "COMMUNITY": "Hamilton",
+                "PHONE": "905-546-4922",
+                "ADD_DATE": "20070815",
+                "MOD_DATE": "20090602"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8507511806624,
+                    43.2148401214334,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lawfield Arena",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Lawfield Arena</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>150 Folkstone Avenue</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-546-4923</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20070815</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20131212</td>\n</tr></table></center>",
+                "NAME": "Lawfield Arena",
+                "ADDRESS": "150 Folkstone Avenue",
+                "COMMUNITY": "Hamilton",
+                "PHONE": "905-546-4923",
+                "ADD_DATE": "20070815",
+                "MOD_DATE": "20131212"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9625218232929,
+                    43.2660138807633,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "J.L. Grightmire (Market Street) Arena",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>J.L. Grightmire (Market Street) Arena</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>35 Market Street South</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Dundas</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-540-6678</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20070815</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20130613</td>\n</tr></table></center>",
+                "NAME": "J.L. Grightmire (Market Street) Arena",
+                "ADDRESS": "35 Market Street South",
+                "COMMUNITY": "Dundas",
+                "PHONE": "905-540-6678",
+                "ADD_DATE": "20070815",
+                "MOD_DATE": "20130613"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0076160967766,
+                    43.2180512043962,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Morgan Firestone Arena",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Morgan Firestone Arena</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>385 Jerseyville Road West</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Ancaster</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-546-3769</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20070815</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20110307</td>\n</tr></table></center>",
+                "NAME": "Morgan Firestone Arena",
+                "ADDRESS": "385 Jerseyville Road West",
+                "COMMUNITY": "Ancaster",
+                "PHONE": "905-546-3769",
+                "ADD_DATE": "20070815",
+                "MOD_DATE": "20110307"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8812341882988,
+                    43.2251618714863,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mountain (Dave Andreychuk) Arena",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Mountain (Dave Andreychuk) Arena</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>25 Hester Street</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-546-4938</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20070815</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20090602</td>\n</tr></table></center>",
+                "NAME": "Mountain (Dave Andreychuk) Arena",
+                "ADDRESS": "25 Hester Street",
+                "COMMUNITY": "Hamilton",
+                "PHONE": "905-546-4938",
+                "ADD_DATE": "20070815",
+                "MOD_DATE": "20090602"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9227884036923,
+                    43.3130883837715,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "North Wentworth Twin Pad Arena",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>North Wentworth Twin Pad Arena</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>27 Highway No. 5 West</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Flamborough</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-689-6666</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20070815</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20130131</td>\n</tr></table></center>",
+                "NAME": "North Wentworth Twin Pad Arena",
+                "ADDRESS": "27 Highway No. 5 West",
+                "COMMUNITY": "Flamborough",
+                "PHONE": "905-689-6666",
+                "ADD_DATE": "20070815",
+                "MOD_DATE": "20130131"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9342620884875,
+                    43.2728772302957,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Olympic Arena",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Olympic Arena</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>70 Olympic Drive</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Dundas</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-540-6686</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20070815</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20131212</td>\n</tr></table></center>",
+                "NAME": "Olympic Arena",
+                "ADDRESS": "70 Olympic Drive",
+                "COMMUNITY": "Dundas",
+                "PHONE": "905-540-6686",
+                "ADD_DATE": "20070815",
+                "MOD_DATE": "20131212"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7937883726024,
+                    43.2363302593052,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Parkdale (Pat Quinn) Arena",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Parkdale (Pat Quinn) Arena</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>1770 Main Street East</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-546-4785</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20070815</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20090602</td>\n</tr></table></center>",
+                "NAME": "Parkdale (Pat Quinn) Arena",
+                "ADDRESS": "1770 Main Street East",
+                "COMMUNITY": "Hamilton",
+                "PHONE": "905-546-4785",
+                "ADD_DATE": "20070815",
+                "MOD_DATE": "20090602"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8069601338853,
+                    43.2188758694406,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rosedale Arena",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Rosedale Arena</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>100 Greenhill Avenue</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-546-4805</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20070815</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20131212</td>\n</tr></table></center>",
+                "NAME": "Rosedale Arena",
+                "ADDRESS": "100 Greenhill Avenue",
+                "COMMUNITY": "Hamilton",
+                "PHONE": "905-546-4805",
+                "ADD_DATE": "20070815",
+                "MOD_DATE": "20131212"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7048409511809,
+                    43.2179602214929,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Saltfleet Arena",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Saltfleet Arena</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>24 Sherwood Park Road</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Stoney Creek</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-643-3883</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20070815</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20131212</td>\n</tr></table></center>",
+                "NAME": "Saltfleet Arena",
+                "ADDRESS": "24 Sherwood Park Road",
+                "COMMUNITY": "Stoney Creek",
+                "PHONE": "905-643-3883",
+                "ADD_DATE": "20070815",
+                "MOD_DATE": "20131212"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8303653663706,
+                    43.2501753673659,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Scott Park Arena",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Scott Park Arena</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>876 Cannon Street East</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Hamilton</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-546-4919</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20070815</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20131212</td>\n</tr></table></center>",
+                "NAME": "Scott Park Arena",
+                "ADDRESS": "876 Cannon Street East",
+                "COMMUNITY": "Hamilton",
+                "PHONE": "905-546-4919",
+                "ADD_DATE": "20070815",
+                "MOD_DATE": "20131212"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9977987848252,
+                    43.217120828269,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Spring Valley Arena",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Spring Valley Arena</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>29 Orchard Drive</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Ancaster</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-648-4404</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20070815</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20131212</td>\n</tr></table></center>",
+                "NAME": "Spring Valley Arena",
+                "ADDRESS": "29 Orchard Drive",
+                "COMMUNITY": "Ancaster",
+                "PHONE": "905-648-4404",
+                "ADD_DATE": "20070815",
+                "MOD_DATE": "20131212"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7640058102266,
+                    43.2165318980856,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stoney Creek Arena",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Stoney Creek Arena</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>37 King Street West</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Stoney Creek</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-662-2426</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20070815</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20131212</td>\n</tr></table></center>",
+                "NAME": "Stoney Creek Arena",
+                "ADDRESS": "37 King Street West",
+                "COMMUNITY": "Stoney Creek",
+                "PHONE": "905-662-2426",
+                "ADD_DATE": "20070815",
+                "MOD_DATE": "20131212"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7979820374786,
+                    43.1928494830023,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Valley Park Arena",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Valley Park Arena</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>970 Paramount Drive</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Stoney Creek</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-546-2424 ext.1185</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20070815</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20130613</td>\n</tr></table></center>",
+                "NAME": "Valley Park Arena",
+                "ADDRESS": "970 Paramount Drive",
+                "COMMUNITY": "Stoney Creek",
+                "PHONE": "905-546-2424 ext.1185",
+                "ADD_DATE": "20070815",
+                "MOD_DATE": "20130613"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6999269371777,
+                    43.228809026647,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gateway Ice Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Gateway Ice Centre</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>610 South Service Road</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Stoney Creek</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-643-8668</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20130813</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20130813</td>\n</tr></table></center>",
+                "NAME": "Gateway Ice Centre",
+                "ADDRESS": "610 South Service Road",
+                "COMMUNITY": "Stoney Creek",
+                "PHONE": "905-643-8668",
+                "ADD_DATE": "20130813",
+                "MOD_DATE": "20130813"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9459516708869,
+                    43.2478343431676,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wentworth Arenas",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Wentworth Arenas</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>1249 Wilson Street East</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>Ancaster</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>905-525-6233</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>ADD_DATE</th>\n<td>20130613</td>\n</tr><tr bgcolor=\"\">\n<th>MOD_DATE</th>\n<td>20130613</td>\n</tr></table></center>",
+                "NAME": "Wentworth Arenas",
+                "ADDRESS": "1249 Wilson Street East",
+                "COMMUNITY": "Ancaster",
+                "PHONE": "905-525-6233",
+                "ADD_DATE": "20130613",
+                "MOD_DATE": "20130613"
+            }
+        }
+    ]
+}

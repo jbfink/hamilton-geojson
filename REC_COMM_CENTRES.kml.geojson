@@ -1,0 +1,1061 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8772558438723,
+                    43.1980478292743,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ymca - Les Chater Family",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Ymca - Les Chater Family</td>\n</tr></table></center>",
+                "NAME": "Ymca - Les Chater Family"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8776473283943,
+                    43.2560368769634,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Main Hess Senior Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Main Hess Senior Centre</td>\n</tr></table></center>",
+                "NAME": "Main Hess Senior Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0062829838576,
+                    43.2151687992692,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ancaster Aquatic Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Ancaster Aquatic Centre</td>\n</tr></table></center>",
+                "NAME": "Ancaster Aquatic Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0077893378293,
+                    43.2180722477552,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ancaster Rotary Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Ancaster Rotary Centre</td>\n</tr></table></center>",
+                "NAME": "Ancaster Rotary Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8617827318956,
+                    43.2580513433436,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beasley Community Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Beasley Community Centre</td>\n</tr></table></center>",
+                "NAME": "Beasley Community Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8609369744169,
+                    43.2700897658162,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Bennetto Community Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Bennetto Community Centre</td>\n</tr></table></center>",
+                "NAME": "Bennetto Community Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1112781832198,
+                    43.2986764023949,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beverly Community Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Beverly Community Centre</td>\n</tr></table></center>",
+                "NAME": "Beverly Community Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1266330443565,
+                    43.3004720738553,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beverly Township Hall",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Beverly Township Hall</td>\n</tr></table></center>",
+                "NAME": "Beverly Township Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8040378466526,
+                    43.123005532962,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Binbrook Memorial Hall",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Binbrook Memorial Hall</td>\n</tr></table></center>",
+                "NAME": "Binbrook Memorial Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7115433389847,
+                    43.2180999133172,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "H.g Brewster Pool",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>H.g Brewster Pool</td>\n</tr></table></center>",
+                "NAME": "H.g Brewster Pool"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9813199613665,
+                    43.3967784957488,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Carlisle Community Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Carlisle Community Centre</td>\n</tr></table></center>",
+                "NAME": "Carlisle Community Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9814798595997,
+                    43.3939428969837,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Carlisle Memorial Hall",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Carlisle Memorial Hall</td>\n</tr></table></center>",
+                "NAME": "Carlisle Memorial Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9854754138969,
+                    43.1454074754527,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Carluke Hall",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Carluke Hall</td>\n</tr></table></center>",
+                "NAME": "Carluke Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8592428230778,
+                    43.2495432907997,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Central Memorial Recreation Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Central Memorial Recreation Centre</td>\n</tr></table></center>",
+                "NAME": "Central Memorial Recreation Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.758342357415,
+                    43.2173550373226,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ada Bland \"Club 60\" Senior Citizen Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Ada Bland \"Club 60\" Senior Citizen Centre</td>\n</tr></table></center>",
+                "NAME": "Ada Bland \"Club 60\" Senior Citizen Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9131545804993,
+                    43.2583639493863,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dalewood Recreation Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Dalewood Recreation Centre</td>\n</tr></table></center>",
+                "NAME": "Dalewood Recreation Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9635563258091,
+                    43.265474427191,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dundas Community Pool",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Dundas Community Pool</td>\n</tr></table></center>",
+                "NAME": "Dundas Community Pool"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9635935974891,
+                    43.2673790563363,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dundas Lions Memorial Community Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Dundas Lions Memorial Community Centre</td>\n</tr></table></center>",
+                "NAME": "Dundas Lions Memorial Community Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8486600437273,
+                    43.2364337167704,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Eastmount Community Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Eastmount Community Centre</td>\n</tr></table></center>",
+                "NAME": "Eastmount Community Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7045989964928,
+                    43.2185366380691,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fruitland Lions Community Hall",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fruitland Lions Community Hall</td>\n</tr></table></center>",
+                "NAME": "Fruitland Lions Community Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8387209675796,
+                    43.1300260700366,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Glanbrook Arena & Auditorium",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Glanbrook Arena & Auditorium</td>\n</tr></table></center>",
+                "NAME": "Glanbrook Arena & Auditorium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9883648362764,
+                    43.2768461333776,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Greensville Hall",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Greensville Hall</td>\n</tr></table></center>",
+                "NAME": "Greensville Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8188462636479,
+                    43.2439614809337,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ywca - Hamilton Family - Ottawa St",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Ywca - Hamilton Family - Ottawa St</td>\n</tr></table></center>",
+                "NAME": "Ywca - Hamilton Family - Ottawa St"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8631251082116,
+                    43.2278185054199,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hill Park Recreation Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Hill Park Recreation Centre</td>\n</tr></table></center>",
+                "NAME": "Hill Park Recreation Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8293933872826,
+                    43.2207472283886,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Huntington Park Recreation Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Huntington Park Recreation Centre</td>\n</tr></table></center>",
+                "NAME": "Huntington Park Recreation Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8306538856094,
+                    43.2497352133072,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Jimmy Thompson Pool",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Jimmy Thompson Pool</td>\n</tr></table></center>",
+                "NAME": "Jimmy Thompson Pool"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8107383864252,
+                    43.2485541454723,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "East Kiwanis Boys & Girls Club",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>East Kiwanis Boys & Girls Club</td>\n</tr></table></center>",
+                "NAME": "East Kiwanis Boys & Girls Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6912760112206,
+                    43.2134815009392,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kiwanis Community Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Kiwanis Community Centre</td>\n</tr></table></center>",
+                "NAME": "Kiwanis Community Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9996996726104,
+                    43.218232499873,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ancaster Lion's Outdoor Pool",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Ancaster Lion's Outdoor Pool</td>\n</tr></table></center>",
+                "NAME": "Ancaster Lion's Outdoor Pool"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1462104153592,
+                    43.2265798594887,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lynden Community Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Lynden Community Centre</td>\n</tr></table></center>",
+                "NAME": "Lynden Community Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9594280261017,
+                    43.3351535939815,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Millgrove Community Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Millgrove Community Centre</td>\n</tr></table></center>",
+                "NAME": "Millgrove Community Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9114287821351,
+                    43.1602246921923,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mount Hope Community Hall/youth Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Mount Hope Community Hall/youth Centre</td>\n</tr></table></center>",
+                "NAME": "Mount Hope Community Hall/youth Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8449577023531,
+                    43.2567338916011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Norman Pinky Lewis Recreation Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Norman Pinky Lewis Recreation Centre</td>\n</tr></table></center>",
+                "NAME": "Norman Pinky Lewis Recreation Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8428644899188,
+                    43.2649495508317,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Eva Rothwell Resource Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Eva Rothwell Resource Centre</td>\n</tr></table></center>",
+                "NAME": "Eva Rothwell Resource Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9225463466688,
+                    43.3129472124939,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "North Wentworth Community Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>North Wentworth Community Centre</td>\n</tr></table></center>",
+                "NAME": "North Wentworth Community Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9762645435941,
+                    43.2255123043966,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ancaster Old Town Hall",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Ancaster Old Town Hall</td>\n</tr></table></center>",
+                "NAME": "Ancaster Old Town Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8823564421021,
+                    43.2538127878813,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ryerson Recreation Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Ryerson Recreation Centre</td>\n</tr></table></center>",
+                "NAME": "Ryerson Recreation Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8892204429005,
+                    43.3308152096868,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sealey Park Scout Hall",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Sealey Park Scout Hall</td>\n</tr></table></center>",
+                "NAME": "Sealey Park Scout Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2007439892497,
+                    43.2970406758366,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sheffield Community Hall",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Sheffield Community Hall</td>\n</tr></table></center>",
+                "NAME": "Sheffield Community Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.922706577794,
+                    43.2314975312611,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sir Allan Macnab Recreation Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Sir Allan Macnab Recreation Centre</td>\n</tr></table></center>",
+                "NAME": "Sir Allan Macnab Recreation Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7867616642975,
+                    43.2178171041328,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sir Wilfrid Laurier Recreation Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Sir Wilfrid Laurier Recreation Centre</td>\n</tr></table></center>",
+                "NAME": "Sir Wilfrid Laurier Recreation Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7957143397388,
+                    43.2375585004059,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sir Winston Churchill Recreation Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Sir Winston Churchill Recreation Centre</td>\n</tr></table></center>",
+                "NAME": "Sir Winston Churchill Recreation Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7585276868391,
+                    43.2257408936449,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stoney Creek Optomist Community Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Stoney Creek Optomist Community Centre</td>\n</tr></table></center>",
+                "NAME": "Stoney Creek Optomist Community Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9520016237206,
+                    43.2121063039573,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Redeemer Sports Complex",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Redeemer Sports Complex</td>\n</tr></table></center>",
+                "NAME": "Redeemer Sports Complex"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0705837209586,
+                    43.1845381754786,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ancaster Senior Achievement Centre (Asac)",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Ancaster Senior Achievement Centre (Asac)</td>\n</tr></table></center>",
+                "NAME": "Ancaster Senior Achievement Centre (Asac)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1308984838933,
+                    43.3828622273035,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Valens Community Hall",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Valens Community Hall</td>\n</tr></table></center>",
+                "NAME": "Valens Community Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9084657527275,
+                    43.301660703865,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Valley Community Centre (Nigel Charlong)",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Valley Community Centre (Nigel Charlong)</td>\n</tr></table></center>",
+                "NAME": "Valley Community Centre (Nigel Charlong)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7981058356979,
+                    43.1929042384281,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Valley Park Rec Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Valley Park Rec Centre</td>\n</tr></table></center>",
+                "NAME": "Valley Park Rec Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8925915301853,
+                    43.3340871321879,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Waterdown Memorial Hall",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Waterdown Memorial Hall</td>\n</tr></table></center>",
+                "NAME": "Waterdown Memorial Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8956630131667,
+                    43.2278073604715,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Westmount Recreation Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Westmount Recreation Centre</td>\n</tr></table></center>",
+                "NAME": "Westmount Recreation Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6456425667715,
+                    43.2096952994601,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Winona Scout Hall",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Winona Scout Hall</td>\n</tr></table></center>",
+                "NAME": "Winona Scout Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6530848686011,
+                    43.2087443863136,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Winona Senior Citizen Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Winona Senior Citizen Centre</td>\n</tr></table></center>",
+                "NAME": "Winona Senior Citizen Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7428063412829,
+                    43.1465689066684,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Woodburn Centennial Hall",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Woodburn Centennial Hall</td>\n</tr></table></center>",
+                "NAME": "Woodburn Centennial Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8698842335985,
+                    43.254323270734,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ymca - Hamilton Downtown Family",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Ymca - Hamilton Downtown Family</td>\n</tr></table></center>",
+                "NAME": "Ymca - Hamilton Downtown Family"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.04209171656,
+                    43.4342264631284,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mountsberg Hall",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Mountsberg Hall</td>\n</tr></table></center>",
+                "NAME": "Mountsberg Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8626042659291,
+                    43.2244769051232,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sackville Hill Senior's Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Sackville Hill Senior's Centre</td>\n</tr></table></center>",
+                "NAME": "Sackville Hill Senior's Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9978395312602,
+                    43.2171449102894,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Spring Valley Community Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Spring Valley Community Centre</td>\n</tr></table></center>",
+                "NAME": "Spring Valley Community Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7567098931884,
+                    43.2323345950803,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dominic Agostino Riverdale Recreation Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Dominic Agostino Riverdale Recreation Centre</td>\n</tr></table></center>",
+                "NAME": "Dominic Agostino Riverdale Recreation Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9122713236169,
+                    43.3342859588055,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ymca - Flamborough Family",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Ymca - Flamborough Family</td>\n</tr></table></center>",
+                "NAME": "Ymca - Flamborough Family"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.871564810148,
+                    43.254230894503,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ywca - Hamilton Family - Macnab St",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Ywca - Hamilton Family - Macnab St</td>\n</tr></table></center>",
+                "NAME": "Ywca - Hamilton Family - Macnab St"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8941398527162,
+                    43.257219650326,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Soccer World",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Soccer World</td>\n</tr></table></center>",
+                "NAME": "Soccer World"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8370718656413,
+                    43.1988719508865,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mountain Sports Complex",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Mountain Sports Complex</td>\n</tr></table></center>",
+                "NAME": "Mountain Sports Complex"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7024801336758,
+                    43.231070277464,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Players Paradise Sports Complex",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Players Paradise Sports Complex</td>\n</tr></table></center>",
+                "NAME": "Players Paradise Sports Complex"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7697822472654,
+                    43.2632644714331,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lakeland Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Lakeland Centre</td>\n</tr></table></center>",
+                "NAME": "Lakeland Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7630602456387,
+                    43.217630505961,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stoney Creek Recreation Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Stoney Creek Recreation Centre</td>\n</tr></table></center>",
+                "NAME": "Stoney Creek Recreation Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9161653895365,
+                    43.2650436433284,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "David Braley Athletic Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>David Braley Athletic Centre</td>\n</tr></table></center>",
+                "NAME": "David Braley Athletic Centre"
+            }
+        }
+    ]
+}

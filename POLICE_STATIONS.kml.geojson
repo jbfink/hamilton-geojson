@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8625898697154,
+                    43.2562236037336,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Station 10 - Central Area",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Station 10 - Central Area</td>\n</tr></table></center>",
+                "NAME": "Station 10 - Central Area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8765177044807,
+                    43.197946151342,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Station 30 - Mountain And Glanbrook",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Station 30 - Mountain And Glanbrook</td>\n</tr></table></center>",
+                "NAME": "Station 30 - Mountain And Glanbrook"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7709823816253,
+                    43.2204088706219,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Station 20 - East Hamilton And Stoney Creek",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Station 20 - East Hamilton And Stoney Creek</td>\n</tr></table></center>",
+                "NAME": "Station 20 - East Hamilton And Stoney Creek"
+            }
+        }
+    ]
+}

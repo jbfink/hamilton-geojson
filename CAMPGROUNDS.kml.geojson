@@ -1,0 +1,396 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0776488051631,
+                    43.3884885933885,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Flamboro Valley Camping Resort",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Flamboro Valley Camping Resort</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>1158 Regional Road 97, Puslinch, ON</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>PHONE</th>\n<td>905-659-5053</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.flamborovalley.com/index.php</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TIME_OPEN</th>\n<td>May 1 - Oct. 15</td>\n</tr><tr bgcolor=\"\">\n<th>HYDRO</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WATER</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>SHOWERS</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LAUNDRY</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>STORE</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>PETS_ALLOWED</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>NUDIST</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAMILY</th>\n<td>-1</td>\n</tr></table></center>",
+                "NAME": "Flamboro Valley Camping Resort",
+                "LOCATION": "1158 Regional Road 97, Puslinch, ON",
+                "PHONE": "905-659-5053",
+                "URL": "http://www.flamborovalley.com/index.php",
+                "TIME_OPEN": "May 1 - Oct. 15",
+                "HYDRO": "-1",
+                "WATER": "-1",
+                "SHOWERS": "-1",
+                "LAUNDRY": "-1",
+                "STORE": "-1",
+                "PETS_ALLOWED": "-1",
+                "NUDIST": "0",
+                "FAMILY": "-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.12932220907,
+                    43.4106253433367,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Emerald Lake Trailer Resort and Waterpark",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Emerald Lake Trailer Resort and Waterpark</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>7248 Gore Road, Puslinch, ON</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>PHONE</th>\n<td>905-659-7923</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.emeraldlake.ca/</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HYDRO</th>\n<td>0</td>\n</tr><tr bgcolor=\"\">\n<th>WATER</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>SHOWERS</th>\n<td>0</td>\n</tr><tr bgcolor=\"\">\n<th>LAUNDRY</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>STORE</th>\n<td>0</td>\n</tr><tr bgcolor=\"\">\n<th>BAIT_SHOP</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FIREWOOD</th>\n<td>0</td>\n</tr><tr bgcolor=\"\">\n<th>PETS_ALLOWED</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>NUDIST</th>\n<td>0</td>\n</tr><tr bgcolor=\"\">\n<th>FAMILY</th>\n<td>-1</td>\n</tr></table></center>",
+                "NAME": "Emerald Lake Trailer Resort and Waterpark",
+                "LOCATION": "7248 Gore Road, Puslinch, ON",
+                "PHONE": "905-659-7923",
+                "URL": "http://www.emeraldlake.ca/",
+                "HYDRO": "0",
+                "WATER": "0",
+                "SHOWERS": "0",
+                "LAUNDRY": "0",
+                "STORE": "0",
+                "BAIT_SHOP": "0",
+                "FIREWOOD": "0",
+                "PETS_ALLOWED": "0",
+                "NUDIST": "0",
+                "FAMILY": "-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6264160007726,
+                    43.2200504841217,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Fifty Point Conservation Area",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Fifty Point Conservation Area</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>1479 Baseline Road, Winona, ON</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>PHONE</th>\n<td>905-525-2187</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.conservationhamilton.ca/fifty-point-conservation-area</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TIME_OPEN</th>\n<td>Mar. 1 - Nov. 30</td>\n</tr><tr bgcolor=\"\">\n<th>HYDRO</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WATER</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>SHOWERS</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LAUNDRY</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>STORE</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>BAIT_SHOP</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>FIREWOOD</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>PETS_ALLOWED</th>\n<td>0</td>\n</tr><tr bgcolor=\"\">\n<th>NUDIST</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAMILY</th>\n<td>-1</td>\n</tr></table></center>",
+                "NAME": "Fifty Point Conservation Area",
+                "LOCATION": "1479 Baseline Road, Winona, ON",
+                "PHONE": "905-525-2187",
+                "URL": "http://www.conservationhamilton.ca/fifty-point-conservation-area",
+                "TIME_OPEN": "Mar. 1 - Nov. 30",
+                "HYDRO": "-1",
+                "WATER": "-1",
+                "SHOWERS": "-1",
+                "LAUNDRY": "-1",
+                "STORE": "-1",
+                "BAIT_SHOP": "-1",
+                "FIREWOOD": "-1",
+                "PETS_ALLOWED": "0",
+                "NUDIST": "0",
+                "FAMILY": "-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0224083108512,
+                    43.3564279726058,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gulliver's Lake Park",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Gulliver's Lake Park</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>792 Safari Road, Millgrove, ON</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>PHONE</th>\n<td>905-659-7300</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.gulliverslake.com/</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TIME_OPEN</th>\n<td>May 1 - Oct. 15</td>\n</tr><tr bgcolor=\"\">\n<th>HYDRO</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WATER</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>SHOWERS</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LAUNDRY</th>\n<td>0</td>\n</tr><tr bgcolor=\"\">\n<th>STORE</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>BAIT_SHOP</th>\n<td>0</td>\n</tr><tr bgcolor=\"\">\n<th>FIREWOOD</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>PETS_ALLOWED</th>\n<td>0</td>\n</tr><tr bgcolor=\"\">\n<th>NUDIST</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAMILY</th>\n<td>0</td>\n</tr></table></center>",
+                "NAME": "Gulliver's Lake Park",
+                "LOCATION": "792 Safari Road, Millgrove, ON",
+                "PHONE": "905-659-7300",
+                "URL": "http://www.gulliverslake.com/",
+                "TIME_OPEN": "May 1 - Oct. 15",
+                "HYDRO": "-1",
+                "WATER": "-1",
+                "SHOWERS": "0",
+                "LAUNDRY": "0",
+                "STORE": "0",
+                "BAIT_SHOP": "0",
+                "FIREWOOD": "0",
+                "PETS_ALLOWED": "0",
+                "NUDIST": "0",
+                "FAMILY": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1257579299392,
+                    43.4092442492382,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Maple Grove Trailer Park",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Maple Grove Trailer Park</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>1488 Concession 11 West, Flamborough, ON</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>PHONE</th>\n<td>905-659-3311</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.maplegroveflamborough.com/</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TIME_OPEN</th>\n<td>Mid-May - Mid-Oct</td>\n</tr><tr bgcolor=\"\">\n<th>HYDRO</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WATER</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>SHOWERS</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LAUNDRY</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>STORE</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>BAIT_SHOP</th>\n<td>0</td>\n</tr><tr bgcolor=\"\">\n<th>FIREWOOD</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>PETS_ALLOWED</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>NUDIST</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAMILY</th>\n<td>-1</td>\n</tr></table></center>",
+                "NAME": "Maple Grove Trailer Park",
+                "LOCATION": "1488 Concession 11 West, Flamborough, ON",
+                "PHONE": "905-659-3311",
+                "URL": "http://www.maplegroveflamborough.com/",
+                "TIME_OPEN": "Mid-May - Mid-Oct",
+                "HYDRO": "-1",
+                "WATER": "-1",
+                "SHOWERS": "-1",
+                "LAUNDRY": "-1",
+                "STORE": "-1",
+                "BAIT_SHOP": "0",
+                "FIREWOOD": "-1",
+                "PETS_ALLOWED": "-1",
+                "NUDIST": "0",
+                "FAMILY": "-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2128110631513,
+                    43.3359567854984,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "John Bayus Park",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>John Bayus Park</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>1429 Sheffield Road, Flamborough, ON</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>PHONE</th>\n<td>519-623-2845</td>\n</tr><tr bgcolor=\"\">\n<th>HYDRO</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WATER</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>SHOWERS</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LAUNDRY</th>\n<td>0</td>\n</tr><tr bgcolor=\"\">\n<th>STORE</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>BAIT_SHOP</th>\n<td>0</td>\n</tr><tr bgcolor=\"\">\n<th>FIREWOOD</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>PETS_ALLOWED</th>\n<td>0</td>\n</tr><tr bgcolor=\"\">\n<th>NUDIST</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAMILY</th>\n<td>0</td>\n</tr></table></center>",
+                "NAME": "John Bayus Park",
+                "LOCATION": "1429 Sheffield Road, Flamborough, ON",
+                "PHONE": "519-623-2845",
+                "HYDRO": "-1",
+                "WATER": "-1",
+                "SHOWERS": "0",
+                "LAUNDRY": "0",
+                "STORE": "0",
+                "BAIT_SHOP": "0",
+                "FIREWOOD": "0",
+                "PETS_ALLOWED": "0",
+                "NUDIST": "0",
+                "FAMILY": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0022830635114,
+                    43.4178111249531,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lawson Park",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Lawson Park</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>322 Concession 11 Road East, Freelton, ON</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>PHONE</th>\n<td>905-659-3395</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.lawsonpark.ca/main.php</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HYDRO</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>WATER</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>SHOWERS</th>\n<td>0</td>\n</tr><tr bgcolor=\"\">\n<th>LAUNDRY</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>STORE</th>\n<td>0</td>\n</tr><tr bgcolor=\"\">\n<th>BAIT_SHOP</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FIREWOOD</th>\n<td>0</td>\n</tr><tr bgcolor=\"\">\n<th>PETS_ALLOWED</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>NUDIST</th>\n<td>0</td>\n</tr><tr bgcolor=\"\">\n<th>FAMILY</th>\n<td>0</td>\n</tr></table></center>",
+                "NAME": "Lawson Park",
+                "LOCATION": "322 Concession 11 Road East, Freelton, ON",
+                "PHONE": "905-659-3395",
+                "URL": "http://www.lawsonpark.ca/main.php",
+                "HYDRO": "-1",
+                "WATER": "-1",
+                "SHOWERS": "0",
+                "LAUNDRY": "0",
+                "STORE": "0",
+                "BAIT_SHOP": "0",
+                "FIREWOOD": "0",
+                "PETS_ALLOWED": "0",
+                "NUDIST": "0",
+                "FAMILY": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9007307043757,
+                    43.3767577487878,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lost Forest Park",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Lost Forest Park</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>4449 Millborough Line, Millgrove, ON</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>PHONE</th>\n<td>905-689-7648</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.lostforestpark.com/</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TIME_OPEN</th>\n<td>Opens May 16</td>\n</tr><tr bgcolor=\"\">\n<th>HYDRO</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WATER</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>SHOWERS</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LAUNDRY</th>\n<td>0</td>\n</tr><tr bgcolor=\"\">\n<th>STORE</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>BAIT_SHOP</th>\n<td>0</td>\n</tr><tr bgcolor=\"\">\n<th>FIREWOOD</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>PETS_ALLOWED</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>NUDIST</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAMILY</th>\n<td>-1</td>\n</tr></table></center>",
+                "NAME": "Lost Forest Park",
+                "LOCATION": "4449 Millborough Line, Millgrove, ON",
+                "PHONE": "905-689-7648",
+                "URL": "http://www.lostforestpark.com/",
+                "TIME_OPEN": "Opens May 16",
+                "HYDRO": "-1",
+                "WATER": "-1",
+                "SHOWERS": "-1",
+                "LAUNDRY": "0",
+                "STORE": "0",
+                "BAIT_SHOP": "0",
+                "FIREWOOD": "-1",
+                "PETS_ALLOWED": "-1",
+                "NUDIST": "0",
+                "FAMILY": "-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0509253923126,
+                    43.3058389762518,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Olympia Village RV Park and Campground",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Olympia Village RV Park and Campground</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>1161 Concession 4 West, Waterdown, ON</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>PHONE</th>\n<td>905-627-1923</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.olympiavillage.ca/</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TIME_OPEN</th>\n<td>May 1 - Oct. 16</td>\n</tr><tr bgcolor=\"\">\n<th>HYDRO</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WATER</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>SHOWERS</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LAUNDRY</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>STORE</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>BAIT_SHOP</th>\n<td>0</td>\n</tr><tr bgcolor=\"\">\n<th>FIREWOOD</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>PETS_ALLOWED</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>NUDIST</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAMILY</th>\n<td>-1</td>\n</tr></table></center>",
+                "NAME": "Olympia Village RV Park and Campground",
+                "LOCATION": "1161 Concession 4 West, Waterdown, ON",
+                "PHONE": "905-627-1923",
+                "URL": "http://www.olympiavillage.ca/",
+                "TIME_OPEN": "May 1 - Oct. 16",
+                "HYDRO": "-1",
+                "WATER": "-1",
+                "SHOWERS": "-1",
+                "LAUNDRY": "-1",
+                "STORE": "-1",
+                "BAIT_SHOP": "0",
+                "FIREWOOD": "-1",
+                "PETS_ALLOWED": "-1",
+                "NUDIST": "0",
+                "FAMILY": "-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1137884588553,
+                    43.3182789525151,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pine Valley Park",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Pine Valley Park</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>955 Valens Road, Flamborough, ON</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>PHONE</th>\n<td>519-623-4998</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.pinevalleypark.on.ca</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HYDRO</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>WATER</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>SHOWERS</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>LAUNDRY</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>STORE</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>BAIT_SHOP</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FIREWOOD</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>PETS_ALLOWED</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>NUDIST</th>\n<td>0</td>\n</tr><tr bgcolor=\"\">\n<th>FAMILY</th>\n<td>-1</td>\n</tr></table></center>",
+                "NAME": "Pine Valley Park",
+                "LOCATION": "955 Valens Road, Flamborough, ON",
+                "PHONE": "519-623-4998",
+                "URL": "http://www.pinevalleypark.on.ca",
+                "HYDRO": "-1",
+                "WATER": "-1",
+                "SHOWERS": "-1",
+                "LAUNDRY": "-1",
+                "STORE": "-1",
+                "BAIT_SHOP": "0",
+                "FIREWOOD": "-1",
+                "PETS_ALLOWED": "-1",
+                "NUDIST": "0",
+                "FAMILY": "-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1401959812785,
+                    43.3831850767764,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Valens Conservation Area",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Valens Conservation Area</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>1691 Regional Road 97, Flamborough, ON</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>PHONE</th>\n<td>905-525-2183</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://www.conservationhamilton.ca/valens-conservation-area</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TIME_OPEN</th>\n<td>Open Year Round</td>\n</tr><tr bgcolor=\"\">\n<th>HYDRO</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>WATER</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>SHOWERS</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>LAUNDRY</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>STORE</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>BAIT_SHOP</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>FIREWOOD</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>PETS_ALLOWED</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>NUDIST</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAMILY</th>\n<td>-1</td>\n</tr></table></center>",
+                "NAME": "Valens Conservation Area",
+                "LOCATION": "1691 Regional Road 97, Flamborough, ON",
+                "PHONE": "905-525-2183",
+                "URL": "http://www.conservationhamilton.ca/valens-conservation-area",
+                "TIME_OPEN": "Open Year Round",
+                "HYDRO": "-1",
+                "WATER": "-1",
+                "SHOWERS": "-1",
+                "LAUNDRY": "-1",
+                "STORE": "-1",
+                "BAIT_SHOP": "-1",
+                "FIREWOOD": "-1",
+                "PETS_ALLOWED": "-1",
+                "NUDIST": "0",
+                "FAMILY": "-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0432069946897,
+                    43.4126549532169,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Four Seasons Nudist Resort",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Four Seasons Nudist Resort</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>57 Concession 12 East, Freelton, ON</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>PHONE</th>\n<td>905-659-7784</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://gorving.ca/campground/four-seasons-nudist-resort</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HYDRO</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>WATER</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>SHOWERS</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>LAUNDRY</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>STORE</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>FIREWOOD</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>PETS_ALLOWED</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>NUDIST</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>FAMILY</th>\n<td>-1</td>\n</tr></table></center>",
+                "NAME": "Four Seasons Nudist Resort",
+                "LOCATION": "57 Concession 12 East, Freelton, ON",
+                "PHONE": "905-659-7784",
+                "URL": "http://gorving.ca/campground/four-seasons-nudist-resort",
+                "HYDRO": "-1",
+                "WATER": "-1",
+                "SHOWERS": "-1",
+                "LAUNDRY": "-1",
+                "STORE": "-1",
+                "FIREWOOD": "-1",
+                "PETS_ALLOWED": "-1",
+                "NUDIST": "-1",
+                "FAMILY": "-1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0434640832222,
+                    43.3295456890308,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cedars",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Cedars</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>1039 Concession 5 West, Millgrove, ON</td>\n</tr></table></center>",
+                "NAME": "Cedars",
+                "LOCATION": "1039 Concession 5 West, Millgrove, ON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0780415949912,
+                    43.369848821561,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ponderosa Nature Resort",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Ponderosa Nature Resort</td>\n</tr><tr bgcolor=\"\">\n<th>LOCATION</th>\n<td>1218 Concession Road 8 West, Flamborough, ON</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>PHONE</th>\n<td>905-659-3410</td>\n</tr><tr bgcolor=\"\">\n<th>URL</th>\n<td>http://ponderosaresort.ca/</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HYDRO</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>WATER</th>\n<td>-1</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>SHOWERS</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>NUDIST</th>\n<td>-1</td>\n</tr></table></center>",
+                "NAME": "Ponderosa Nature Resort",
+                "LOCATION": "1218 Concession Road 8 West, Flamborough, ON",
+                "PHONE": "905-659-3410",
+                "URL": "http://ponderosaresort.ca/",
+                "HYDRO": "-1",
+                "WATER": "-1",
+                "SHOWERS": "-1",
+                "NUDIST": "-1"
+            }
+        }
+    ]
+}

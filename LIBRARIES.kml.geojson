@@ -1,0 +1,424 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9766606314013,
+                    43.2253091733857,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ancaster Library",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Ancaster Library</td>\n</tr><tr bgcolor=\"\">\n<th>BUILDING_SQ_FT</th>\n<td>7500</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HOLDINGS</th>\n<td>58884</td>\n</tr><tr bgcolor=\"\">\n<th>CIRCULATION</th>\n<td>247037</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>RANKING</th>\n<td>-3</td>\n</tr><tr bgcolor=\"\">\n<th>RADIUS_KM</th>\n<td>2</td>\n</tr></table></center>",
+                "NAME": "Ancaster Library",
+                "BUILDING_SQ_FT": "7500",
+                "HOLDINGS": "58884",
+                "CIRCULATION": "247037",
+                "RANKING": "-3",
+                "RADIUS_KM": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.841218981389,
+                    43.2580316994508,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Barton Library",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Barton Library</td>\n</tr><tr bgcolor=\"\">\n<th>BUILDING_SQ_FT</th>\n<td>6272</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HOLDINGS</th>\n<td>25027</td>\n</tr><tr bgcolor=\"\">\n<th>CIRCULATION</th>\n<td>69297</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>RANKING</th>\n<td>-2</td>\n</tr><tr bgcolor=\"\">\n<th>RADIUS_KM</th>\n<td>1</td>\n</tr></table></center>",
+                "NAME": "Barton Library",
+                "BUILDING_SQ_FT": "6272",
+                "HOLDINGS": "25027",
+                "CIRCULATION": "69297",
+                "RANKING": "-2",
+                "RADIUS_KM": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8034294721349,
+                    43.1217043785147,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Binbrook Library",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Binbrook Library</td>\n</tr><tr bgcolor=\"\">\n<th>BUILDING_SQ_FT</th>\n<td>3192</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HOLDINGS</th>\n<td>18858</td>\n</tr><tr bgcolor=\"\">\n<th>CIRCULATION</th>\n<td>46545</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>RANKING</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>RADIUS_KM</th>\n<td>10</td>\n</tr></table></center>",
+                "NAME": "Binbrook Library",
+                "BUILDING_SQ_FT": "3192",
+                "HOLDINGS": "18858",
+                "CIRCULATION": "46545",
+                "RANKING": "-1",
+                "RADIUS_KM": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9810862109679,
+                    43.3960533858142,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Carlisle Library",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Carlisle Library</td>\n</tr><tr bgcolor=\"\">\n<th>BUILDING_SQ_FT</th>\n<td>2491</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HOLDINGS</th>\n<td>18434</td>\n</tr><tr bgcolor=\"\">\n<th>CIRCULATION</th>\n<td>45113</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>RANKING</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>RADIUS_KM</th>\n<td>10</td>\n</tr></table></center>",
+                "NAME": "Carlisle Library",
+                "BUILDING_SQ_FT": "2491",
+                "HOLDINGS": "18434",
+                "CIRCULATION": "45113",
+                "RANKING": "-1",
+                "RADIUS_KM": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8513682515424,
+                    43.2410415988121,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Concession Library",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Concession Library</td>\n</tr><tr bgcolor=\"\">\n<th>BUILDING_SQ_FT</th>\n<td>8380</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HOLDINGS</th>\n<td>47689</td>\n</tr><tr bgcolor=\"\">\n<th>CIRCULATION</th>\n<td>173618</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>RANKING</th>\n<td>-3</td>\n</tr><tr bgcolor=\"\">\n<th>RADIUS_KM</th>\n<td>2</td>\n</tr></table></center>",
+                "NAME": "Concession Library",
+                "BUILDING_SQ_FT": "8380",
+                "HOLDINGS": "47689",
+                "CIRCULATION": "173618",
+                "RANKING": "-3",
+                "RADIUS_KM": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9549487116795,
+                    43.2654838922355,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dundas Library",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Dundas Library</td>\n</tr><tr bgcolor=\"\">\n<th>BUILDING_SQ_FT</th>\n<td>13712</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HOLDINGS</th>\n<td>86203</td>\n</tr><tr bgcolor=\"\">\n<th>CIRCULATION</th>\n<td>280443</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>RANKING</th>\n<td>-3</td>\n</tr><tr bgcolor=\"\">\n<th>RADIUS_KM</th>\n<td>2</td>\n</tr></table></center>",
+                "NAME": "Dundas Library",
+                "BUILDING_SQ_FT": "13712",
+                "HOLDINGS": "86203",
+                "CIRCULATION": "280443",
+                "RANKING": "-3",
+                "RADIUS_KM": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8706997157627,
+                    43.2589415606587,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hamilton Central Library",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Hamilton Central Library</td>\n</tr><tr bgcolor=\"\">\n<th>BUILDING_SQ_FT</th>\n<td>146131</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HOLDINGS</th>\n<td>146131</td>\n</tr><tr bgcolor=\"\">\n<th>CIRCULATION</th>\n<td>830909</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>RANKING</th>\n<td>-5</td>\n</tr><tr bgcolor=\"\">\n<th>RADIUS_KM</th>\n<td>5</td>\n</tr></table></center>",
+                "NAME": "Hamilton Central Library",
+                "BUILDING_SQ_FT": "146131",
+                "HOLDINGS": "146131",
+                "CIRCULATION": "830909",
+                "RANKING": "-5",
+                "RADIUS_KM": "5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8088416293107,
+                    43.2434982371679,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kenilworth Library",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Kenilworth Library</td>\n</tr><tr bgcolor=\"\">\n<th>BUILDING_SQ_FT</th>\n<td>8000</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HOLDINGS</th>\n<td>46702</td>\n</tr><tr bgcolor=\"\">\n<th>CIRCULATION</th>\n<td>145651</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>RANKING</th>\n<td>-3</td>\n</tr><tr bgcolor=\"\">\n<th>RADIUS_KM</th>\n<td>2</td>\n</tr></table></center>",
+                "NAME": "Kenilworth Library",
+                "BUILDING_SQ_FT": "8000",
+                "HOLDINGS": "46702",
+                "CIRCULATION": "145651",
+                "RANKING": "-3",
+                "RADIUS_KM": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8870220380872,
+                    43.251822854014,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Locke Library",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Locke Library</td>\n</tr><tr bgcolor=\"\">\n<th>BUILDING_SQ_FT</th>\n<td>1451</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HOLDINGS</th>\n<td>23853</td>\n</tr><tr bgcolor=\"\">\n<th>CIRCULATION</th>\n<td>92902</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>RANKING</th>\n<td>-2</td>\n</tr><tr bgcolor=\"\">\n<th>RADIUS_KM</th>\n<td>1</td>\n</tr></table></center>",
+                "NAME": "Locke Library",
+                "BUILDING_SQ_FT": "1451",
+                "HOLDINGS": "23853",
+                "CIRCULATION": "92902",
+                "RANKING": "-2",
+                "RADIUS_KM": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9589276807531,
+                    43.3351999922339,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Millgrove Library",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Millgrove Library</td>\n</tr><tr bgcolor=\"\">\n<th>BUILDING_SQ_FT</th>\n<td>1672</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HOLDINGS</th>\n<td>13867</td>\n</tr><tr bgcolor=\"\">\n<th>CIRCULATION</th>\n<td>20653</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>RANKING</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>RADIUS_KM</th>\n<td>10</td>\n</tr></table></center>",
+                "NAME": "Millgrove Library",
+                "BUILDING_SQ_FT": "1672",
+                "HOLDINGS": "13867",
+                "CIRCULATION": "20653",
+                "RANKING": "-1",
+                "RADIUS_KM": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9120621995045,
+                    43.160579870785,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mount Hope Library",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Mount Hope Library</td>\n</tr><tr bgcolor=\"\">\n<th>BUILDING_SQ_FT</th>\n<td>2230</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HOLDINGS</th>\n<td>15457</td>\n</tr><tr bgcolor=\"\">\n<th>CIRCULATION</th>\n<td>31195</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>RANKING</th>\n<td>-1</td>\n</tr><tr bgcolor=\"\">\n<th>RADIUS_KM</th>\n<td>10</td>\n</tr></table></center>",
+                "NAME": "Mount Hope Library",
+                "BUILDING_SQ_FT": "2230",
+                "HOLDINGS": "15457",
+                "CIRCULATION": "31195",
+                "RANKING": "-1",
+                "RADIUS_KM": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.771944719145,
+                    43.2302821137772,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Red Hill Library",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Red Hill Library</td>\n</tr><tr bgcolor=\"\">\n<th>BUILDING_SQ_FT</th>\n<td>11760</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HOLDINGS</th>\n<td>61550</td>\n</tr><tr bgcolor=\"\">\n<th>CIRCULATION</th>\n<td>236902</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>RANKING</th>\n<td>-3</td>\n</tr><tr bgcolor=\"\">\n<th>RADIUS_KM</th>\n<td>2</td>\n</tr></table></center>",
+                "NAME": "Red Hill Library",
+                "BUILDING_SQ_FT": "11760",
+                "HOLDINGS": "61550",
+                "CIRCULATION": "236902",
+                "RANKING": "-3",
+                "RADIUS_KM": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7450750933288,
+                    43.2222924491722,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Saltfleet Library",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Saltfleet Library</td>\n</tr><tr bgcolor=\"\">\n<th>BUILDING_SQ_FT</th>\n<td>15481</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HOLDINGS</th>\n<td>70643</td>\n</tr><tr bgcolor=\"\">\n<th>CIRCULATION</th>\n<td>252049</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>RANKING</th>\n<td>-3</td>\n</tr><tr bgcolor=\"\">\n<th>RADIUS_KM</th>\n<td>2</td>\n</tr></table></center>",
+                "NAME": "Saltfleet Library",
+                "BUILDING_SQ_FT": "15481",
+                "HOLDINGS": "70643",
+                "CIRCULATION": "252049",
+                "RANKING": "-3",
+                "RADIUS_KM": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8286176859523,
+                    43.2265691283814,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sherwood Library",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Sherwood Library</td>\n</tr><tr bgcolor=\"\">\n<th>BUILDING_SQ_FT</th>\n<td>20400</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HOLDINGS</th>\n<td>74754</td>\n</tr><tr bgcolor=\"\">\n<th>CIRCULATION</th>\n<td>333168</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>RANKING</th>\n<td>-3</td>\n</tr><tr bgcolor=\"\">\n<th>RADIUS_KM</th>\n<td>2</td>\n</tr></table></center>",
+                "NAME": "Sherwood Library",
+                "BUILDING_SQ_FT": "20400",
+                "HOLDINGS": "74754",
+                "CIRCULATION": "333168",
+                "RANKING": "-3",
+                "RADIUS_KM": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.886749082178,
+                    43.2303142800355,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Terryberry Library",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Terryberry Library</td>\n</tr><tr bgcolor=\"\">\n<th>BUILDING_SQ_FT</th>\n<td>30000</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HOLDINGS</th>\n<td>121339</td>\n</tr><tr bgcolor=\"\">\n<th>CIRCULATION</th>\n<td>590659</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>RANKING</th>\n<td>-4</td>\n</tr><tr bgcolor=\"\">\n<th>RADIUS_KM</th>\n<td>5</td>\n</tr></table></center>",
+                "NAME": "Terryberry Library",
+                "BUILDING_SQ_FT": "30000",
+                "HOLDINGS": "121339",
+                "CIRCULATION": "590659",
+                "RANKING": "-4",
+                "RADIUS_KM": "5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7979075635895,
+                    43.1928579720461,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Valley Park Library",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Valley Park Library</td>\n</tr><tr bgcolor=\"\">\n<th>BUILDING_SQ_FT</th>\n<td>3100</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HOLDINGS</th>\n<td>23668</td>\n</tr><tr bgcolor=\"\">\n<th>CIRCULATION</th>\n<td>94484</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>RANKING</th>\n<td>-2</td>\n</tr><tr bgcolor=\"\">\n<th>RADIUS_KM</th>\n<td>1</td>\n</tr></table></center>",
+                "NAME": "Valley Park Library",
+                "BUILDING_SQ_FT": "3100",
+                "HOLDINGS": "23668",
+                "CIRCULATION": "94484",
+                "RANKING": "-2",
+                "RADIUS_KM": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8927969317732,
+                    43.3347131214768,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Waterdown Library",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Waterdown Library</td>\n</tr><tr bgcolor=\"\">\n<th>BUILDING_SQ_FT</th>\n<td>3410</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HOLDINGS</th>\n<td>31253</td>\n</tr><tr bgcolor=\"\">\n<th>CIRCULATION</th>\n<td>143223</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>RANKING</th>\n<td>-2</td>\n</tr><tr bgcolor=\"\">\n<th>RADIUS_KM</th>\n<td>2</td>\n</tr></table></center>",
+                "NAME": "Waterdown Library",
+                "BUILDING_SQ_FT": "3410",
+                "HOLDINGS": "31253",
+                "CIRCULATION": "143223",
+                "RANKING": "-2",
+                "RADIUS_KM": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.903476765601,
+                    43.2625686215203,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Westdale Library",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Westdale Library</td>\n</tr><tr bgcolor=\"\">\n<th>BUILDING_SQ_FT</th>\n<td>9950</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HOLDINGS</th>\n<td>56499</td>\n</tr><tr bgcolor=\"\">\n<th>CIRCULATION</th>\n<td>274285</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>RANKING</th>\n<td>-3</td>\n</tr><tr bgcolor=\"\">\n<th>RADIUS_KM</th>\n<td>2</td>\n</tr></table></center>",
+                "NAME": "Westdale Library",
+                "BUILDING_SQ_FT": "9950",
+                "HOLDINGS": "56499",
+                "CIRCULATION": "274285",
+                "RANKING": "-3",
+                "RADIUS_KM": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6914052959589,
+                    43.2128643467711,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stoney Creek Library",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Stoney Creek Library</td>\n</tr><tr bgcolor=\"\">\n<th>BUILDING_SQ_FT</th>\n<td>6404</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HOLDINGS</th>\n<td>32989</td>\n</tr><tr bgcolor=\"\">\n<th>CIRCULATION</th>\n<td>87659</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>RANKING</th>\n<td>-2</td>\n</tr><tr bgcolor=\"\">\n<th>RADIUS_KM</th>\n<td>2</td>\n</tr></table></center>",
+                "NAME": "Stoney Creek Library",
+                "BUILDING_SQ_FT": "6404",
+                "HOLDINGS": "32989",
+                "CIRCULATION": "87659",
+                "RANKING": "-2",
+                "RADIUS_KM": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8786670616225,
+                    43.1983788525877,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Turner Park Library",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Turner Park Library</td>\n</tr><tr bgcolor=\"\">\n<th>BUILDING_SQ_FT</th>\n<td>23918</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>HOLDINGS</th>\n<td>58400</td>\n</tr><tr bgcolor=\"\">\n<th>CIRCULATION</th>\n<td>0</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>RADIUS_KM</th>\n<td>0</td>\n</tr></table></center>",
+                "NAME": "Turner Park Library",
+                "BUILDING_SQ_FT": "23918",
+                "HOLDINGS": "58400",
+                "CIRCULATION": "0",
+                "RADIUS_KM": "0"
+            }
+        }
+    ]
+}

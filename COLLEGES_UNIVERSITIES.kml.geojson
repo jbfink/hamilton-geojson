@@ -1,0 +1,117 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6645417143818,
+                    43.2227346167114,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ontario College Of Health & Technology",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Ontario College Of Health & Technology</td>\n</tr></table></center>",
+                "NAME": "Ontario College Of Health & Technology"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8730363775925,
+                    43.2581463990866,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "College Boreal",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>College Boreal</td>\n</tr></table></center>",
+                "NAME": "College Boreal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9192224703698,
+                    43.2618310372378,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mcmaster University",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Mcmaster University</td>\n</tr></table></center>",
+                "NAME": "Mcmaster University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8858400722774,
+                    43.2379725994727,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mohawk College",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Mohawk College</td>\n</tr></table></center>",
+                "NAME": "Mohawk College"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8096117273849,
+                    43.2311654289891,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brock University",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Brock University</td>\n</tr></table></center>",
+                "NAME": "Brock University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9485793461541,
+                    43.2091563421395,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Redeemer University College",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Redeemer University College</td>\n</tr></table></center>",
+                "NAME": "Redeemer University College"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7127640691378,
+                    43.2261981862063,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mohawk College - Starrt",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Mohawk College - Starrt</td>\n</tr></table></center>",
+                "NAME": "Mohawk College - Starrt"
+            }
+        }
+    ]
+}

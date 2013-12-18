@@ -1,0 +1,159 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8465851639525,
+                    43.2401027367046,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Juravinski Cancer Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Juravinski Cancer Centre</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>699 Concession Street</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>HAMILTON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>(905) 521-2100</td>\n</tr></table></center>",
+                "NAME": "Juravinski Cancer Centre",
+                "ADDRESS": "699 Concession Street",
+                "COMMUNITY": "HAMILTON",
+                "PHONE": "(905) 521-2100"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9171003547811,
+                    43.2385612286645,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chedoke Hospital",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Chedoke Hospital</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>565 Sanatorium Road</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>HAMILTON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>(905) 521-2100</td>\n</tr></table></center>",
+                "NAME": "Chedoke Hospital",
+                "ADDRESS": "565 Sanatorium Road",
+                "COMMUNITY": "HAMILTON",
+                "PHONE": "(905) 521-2100"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8543316154254,
+                    43.2619414312061,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hamilton General Hospital",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Hamilton General Hospital</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>237 Barton Street East</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>HAMILTON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>(905) 527-4322</td>\n</tr></table></center>",
+                "NAME": "Hamilton General Hospital",
+                "ADDRESS": "237 Barton Street East",
+                "COMMUNITY": "HAMILTON",
+                "PHONE": "(905) 527-4322"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8450044287831,
+                    43.2401307275638,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Juravinski Hospital",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Juravinski Hospital</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>711 Concession Street</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>HAMILTON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>(905) 527-4322</td>\n</tr></table></center>",
+                "NAME": "Juravinski Hospital",
+                "ADDRESS": "711 Concession Street",
+                "COMMUNITY": "HAMILTON",
+                "PHONE": "(905) 527-4322"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9176270239039,
+                    43.2596128962123,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mcmaster University Medical Centre",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Mcmaster University Medical Centre</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>1200 Main Street West</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>HAMILTON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>(905) 521-2100</td>\n</tr></table></center>",
+                "NAME": "Mcmaster University Medical Centre",
+                "ADDRESS": "1200 Main Street West",
+                "COMMUNITY": "HAMILTON",
+                "PHONE": "(905) 521-2100"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8709240541508,
+                    43.2486048909808,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St. Joseph's Hospital - Charlton Campus",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>St. Joseph's Hospital - Charlton Campus</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>50 Charlton Avenue East</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>HAMILTON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>(905) 522-4941</td>\n</tr></table></center>",
+                "NAME": "St. Joseph's Hospital - Charlton Campus",
+                "ADDRESS": "50 Charlton Avenue East",
+                "COMMUNITY": "HAMILTON",
+                "PHONE": "(905) 522-4941"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8368663507597,
+                    43.244753984236,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St. Peter's Hospital",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>St. Peter's Hospital</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>88 Maplewood Avenue</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>HAMILTON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>(905) 777-3837</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Chronic Care</td>\n</tr></table></center>",
+                "NAME": "St. Peter's Hospital",
+                "ADDRESS": "88 Maplewood Avenue",
+                "COMMUNITY": "HAMILTON",
+                "PHONE": "(905) 777-3837",
+                "TYPE": "Chronic Care"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8831218124514,
+                    43.2423381237753,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St. Joseph's Centre For Mountain Health Services - West 5th Campus",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>St. Joseph's Centre For Mountain Health Services - West 5th Campus</td>\n</tr><tr bgcolor=\"\">\n<th>ADDRESS</th>\n<td>100 West 5th Street</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>COMMUNITY</th>\n<td>HAMILTON</td>\n</tr><tr bgcolor=\"\">\n<th>PHONE</th>\n<td>(905) 388-2511</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>TYPE</th>\n<td>Physchiatric</td>\n</tr></table></center>",
+                "NAME": "St. Joseph's Centre For Mountain Health Services - West 5th Campus",
+                "ADDRESS": "100 West 5th Street",
+                "COMMUNITY": "HAMILTON",
+                "PHONE": "(905) 388-2511",
+                "TYPE": "Physchiatric"
+            }
+        }
+    ]
+}

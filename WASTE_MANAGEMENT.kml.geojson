@@ -1,0 +1,293 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7676354692336,
+                    43.2506984803087,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brampton",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Brampton</td>\n</tr></table></center>",
+                "NAME": "Brampton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.769445370863,
+                    43.2472344785404,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rennie Street",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Rennie Street</td>\n</tr></table></center>",
+                "NAME": "Rennie Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6996158195725,
+                    43.1923443492377,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stoney Creek",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Stoney Creek</td>\n</tr></table></center>",
+                "NAME": "Stoney Creek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.6602501380909,
+                    43.1791768303833,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "87 Acre Park",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>87 Acre Park</td>\n</tr></table></center>",
+                "NAME": "87 Acre Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8317785438141,
+                    43.1993960911598,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Upper Ottawa",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Upper Ottawa</td>\n</tr></table></center>",
+                "NAME": "Upper Ottawa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7908963221869,
+                    43.0697431566188,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Glanbrook",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Glanbrook</td>\n</tr></table></center>",
+                "NAME": "Glanbrook"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8346427606738,
+                    43.111371643991,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Binbrook",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Binbrook</td>\n</tr></table></center>",
+                "NAME": "Binbrook"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9214986862787,
+                    43.1333878978708,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Glanford",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Glanford</td>\n</tr></table></center>",
+                "NAME": "Glanford"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0224798378652,
+                    43.2094849444389,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ancaster",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Ancaster</td>\n</tr></table></center>",
+                "NAME": "Ancaster"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9972846385936,
+                    43.3565270605273,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Edgewood",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Edgewood</td>\n</tr></table></center>",
+                "NAME": "Edgewood"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9352961517294,
+                    43.2742090145387,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dundas West",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Dundas West</td>\n</tr></table></center>",
+                "NAME": "Dundas West"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9337337728655,
+                    43.2733574050321,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dundas East",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Dundas East</td>\n</tr></table></center>",
+                "NAME": "Dundas East"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8912852205919,
+                    43.269334336798,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "West Hamilton",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>West Hamilton</td>\n</tr></table></center>",
+                "NAME": "West Hamilton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1287830188363,
+                    43.3267545364247,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Beverly",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Beverly</td>\n</tr></table></center>",
+                "NAME": "Beverly"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.79627146435,
+                    43.261198706494,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Central Diversion Facility",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Central Diversion Facility</td>\n</tr></table></center>",
+                "NAME": "Central Diversion Facility"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9387394239802,
+                    43.2717338034721,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dundas Transfer Station",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Dundas Transfer Station</td>\n</tr></table></center>",
+                "NAME": "Dundas Transfer Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.7609704861399,
+                    43.2429960017336,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kenora Transfer Station",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Kenora Transfer Station</td>\n</tr></table></center>",
+                "NAME": "Kenora Transfer Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8438229425636,
+                    43.1888179009558,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mountain Transfer Station",
+                "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>NAME</th>\n<td>Mountain Transfer Station</td>\n</tr></table></center>",
+                "NAME": "Mountain Transfer Station"
+            }
+        }
+    ]
+}
